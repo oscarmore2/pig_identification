@@ -1,0 +1,3576 @@
+video Shape:(42688, 64, 64, 3)
+
+[None, 30]
+[None, 30]
+Training on 34149 samples, validating on6829
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 0/853 in epoch 1, local loss is 3.4749
+Trainning batch 8/853 in epoch 1, local loss is 3.2333
+Trainning batch 16/853 in epoch 1, local loss is 3.2534
+Trainning batch 24/853 in epoch 1, local loss is 3.1249
+Trainning batch 32/853 in epoch 1, local loss is 2.9665
+Trainning batch 40/853 in epoch 1, local loss is 3.0183
+Trainning batch 48/853 in epoch 1, local loss is 2.8309
+Trainning batch 56/853 in epoch 1, local loss is 2.8679
+Trainning batch 64/853 in epoch 1, local loss is 2.8375
+Trainning batch 72/853 in epoch 1, local loss is 2.7116
+Trainning batch 80/853 in epoch 1, local loss is 2.7041
+Trainning batch 88/853 in epoch 1, local loss is 2.7447
+Trainning batch 96/853 in epoch 1, local loss is 2.5028
+Trainning batch 104/853 in epoch 1, local loss is 2.5528
+Trainning batch 112/853 in epoch 1, local loss is 2.3278
+Trainning batch 120/853 in epoch 1, local loss is 2.3977
+Trainning batch 128/853 in epoch 1, local loss is 2.4212
+Trainning batch 136/853 in epoch 1, local loss is 2.3637
+Trainning batch 144/853 in epoch 1, local loss is 2.1709
+Trainning batch 152/853 in epoch 1, local loss is 2.2069
+Trainning batch 160/853 in epoch 1, local loss is 2.3187
+Trainning batch 168/853 in epoch 1, local loss is 2.3658
+Trainning batch 176/853 in epoch 1, local loss is 2.3014
+Trainning batch 184/853 in epoch 1, local loss is 2.3303
+Trainning batch 192/853 in epoch 1, local loss is 2.2137
+Trainning batch 200/853 in epoch 1, local loss is 2.2534
+Trainning batch 208/853 in epoch 1, local loss is 1.9181
+Trainning batch 216/853 in epoch 1, local loss is 2.2973
+Trainning batch 224/853 in epoch 1, local loss is 1.8915
+Trainning batch 232/853 in epoch 1, local loss is 2.1529
+Trainning batch 240/853 in epoch 1, local loss is 2.0057
+Trainning batch 248/853 in epoch 1, local loss is 2.1401
+Trainning batch 256/853 in epoch 1, local loss is 1.9564
+Trainning batch 264/853 in epoch 1, local loss is 2.1650
+Trainning batch 272/853 in epoch 1, local loss is 1.9946
+Trainning batch 280/853 in epoch 1, local loss is 2.1094
+Trainning batch 288/853 in epoch 1, local loss is 1.8835
+Trainning batch 296/853 in epoch 1, local loss is 1.8458
+Trainning batch 304/853 in epoch 1, local loss is 2.0347
+Trainning batch 312/853 in epoch 1, local loss is 2.1309
+Trainning batch 320/853 in epoch 1, local loss is 1.9942
+Trainning batch 328/853 in epoch 1, local loss is 1.9292
+Trainning batch 336/853 in epoch 1, local loss is 1.9269
+Trainning batch 344/853 in epoch 1, local loss is 1.4876
+Trainning batch 352/853 in epoch 1, local loss is 1.5682
+Trainning batch 360/853 in epoch 1, local loss is 1.5236
+Trainning batch 368/853 in epoch 1, local loss is 1.6018
+Trainning batch 376/853 in epoch 1, local loss is 1.5565
+Trainning batch 384/853 in epoch 1, local loss is 1.7104
+Trainning batch 392/853 in epoch 1, local loss is 1.5364
+Trainning batch 400/853 in epoch 1, local loss is 1.5003
+Trainning batch 408/853 in epoch 1, local loss is 1.6166
+Trainning batch 416/853 in epoch 1, local loss is 1.7503
+Trainning batch 424/853 in epoch 1, local loss is 1.6662
+Trainning batch 432/853 in epoch 1, local loss is 1.7928
+Trainning batch 440/853 in epoch 1, local loss is 1.3614
+Trainning batch 448/853 in epoch 1, local loss is 1.6427
+Trainning batch 456/853 in epoch 1, local loss is 1.6620
+Trainning batch 464/853 in epoch 1, local loss is 1.4835
+Trainning batch 472/853 in epoch 1, local loss is 1.5433
+Trainning batch 480/853 in epoch 1, local loss is 1.3231
+Trainning batch 488/853 in epoch 1, local loss is 1.4207
+Trainning batch 496/853 in epoch 1, local loss is 1.5371
+Trainning batch 504/853 in epoch 1, local loss is 1.5504
+Trainning batch 512/853 in epoch 1, local loss is 1.4111
+Trainning batch 520/853 in epoch 1, local loss is 1.2843
+Trainning batch 528/853 in epoch 1, local loss is 1.4008
+Trainning batch 536/853 in epoch 1, local loss is 1.3250
+Trainning batch 544/853 in epoch 1, local loss is 1.5145
+Trainning batch 552/853 in epoch 1, local loss is 1.0308
+Trainning batch 560/853 in epoch 1, local loss is 1.4023
+Trainning batch 568/853 in epoch 1, local loss is 1.7665
+Trainning batch 576/853 in epoch 1, local loss is 1.3519
+Trainning batch 584/853 in epoch 1, local loss is 1.1878
+Trainning batch 592/853 in epoch 1, local loss is 1.3776
+Trainning batch 600/853 in epoch 1, local loss is 1.1537
+Trainning batch 608/853 in epoch 1, local loss is 1.4018
+Trainning batch 616/853 in epoch 1, local loss is 1.4028
+Trainning batch 624/853 in epoch 1, local loss is 1.2535
+Trainning batch 632/853 in epoch 1, local loss is 1.4262
+Trainning batch 640/853 in epoch 1, local loss is 1.1334
+Trainning batch 648/853 in epoch 1, local loss is 0.8944
+Trainning batch 656/853 in epoch 1, local loss is 1.2223
+Trainning batch 664/853 in epoch 1, local loss is 1.0069
+Trainning batch 672/853 in epoch 1, local loss is 1.0511
+Trainning batch 680/853 in epoch 1, local loss is 1.0251
+Trainning batch 688/853 in epoch 1, local loss is 1.4895
+Trainning batch 696/853 in epoch 1, local loss is 0.7904
+Trainning batch 704/853 in epoch 1, local loss is 1.2011
+Trainning batch 712/853 in epoch 1, local loss is 0.9970
+Trainning batch 720/853 in epoch 1, local loss is 1.1531
+Trainning batch 728/853 in epoch 1, local loss is 1.1260
+Trainning batch 736/853 in epoch 1, local loss is 1.2013
+Trainning batch 744/853 in epoch 1, local loss is 1.3241
+Trainning batch 752/853 in epoch 1, local loss is 1.1817
+Trainning batch 760/853 in epoch 1, local loss is 1.1898
+Trainning batch 768/853 in epoch 1, local loss is 0.8124
+Trainning batch 776/853 in epoch 1, local loss is 1.2399
+Trainning batch 784/853 in epoch 1, local loss is 1.0831
+Trainning batch 792/853 in epoch 1, local loss is 0.8600
+Trainning batch 800/853 in epoch 1, local loss is 0.9374
+Trainning batch 808/853 in epoch 1, local loss is 0.9940
+Trainning batch 816/853 in epoch 1, local loss is 1.1758
+Trainning batch 824/853 in epoch 1, local loss is 0.8050
+Trainning batch 832/853 in epoch 1, local loss is 0.9635
+Trainning batch 840/853 in epoch 1, local loss is 0.7902
+Trainning batch 848/853 in epoch 1, local loss is 0.9988
+Epoch  1
+Validation Loss:     0.9201 Validation Accuracy: 0.750000
+epoch Summary: 2017-12-05 14:43:53.612254: loss = 1.0382 (0.0 examples/sec; 887.732 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 2, local loss is 0.6600
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 1]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 8/853 in epoch 2, local loss is 0.7935
+Trainning batch 16/853 in epoch 2, local loss is 0.7834
+Trainning batch 24/853 in epoch 2, local loss is 0.8386
+Trainning batch 32/853 in epoch 2, local loss is 0.8623
+Trainning batch 40/853 in epoch 2, local loss is 0.8184
+Trainning batch 48/853 in epoch 2, local loss is 0.9693
+Trainning batch 56/853 in epoch 2, local loss is 0.7059
+Trainning batch 64/853 in epoch 2, local loss is 0.8600
+Trainning batch 72/853 in epoch 2, local loss is 0.7123
+Trainning batch 80/853 in epoch 2, local loss is 0.8506
+Trainning batch 88/853 in epoch 2, local loss is 0.7723
+Trainning batch 96/853 in epoch 2, local loss is 0.6277
+Trainning batch 104/853 in epoch 2, local loss is 0.7856
+Trainning batch 112/853 in epoch 2, local loss is 0.6427
+Trainning batch 120/853 in epoch 2, local loss is 0.7350
+Trainning batch 128/853 in epoch 2, local loss is 0.6224
+Trainning batch 136/853 in epoch 2, local loss is 0.5885
+Trainning batch 144/853 in epoch 2, local loss is 0.6292
+Trainning batch 152/853 in epoch 2, local loss is 0.5541
+Trainning batch 160/853 in epoch 2, local loss is 0.6579
+Trainning batch 168/853 in epoch 2, local loss is 0.6974
+Trainning batch 176/853 in epoch 2, local loss is 0.7016
+Trainning batch 184/853 in epoch 2, local loss is 0.7516
+Trainning batch 192/853 in epoch 2, local loss is 0.8222
+Trainning batch 200/853 in epoch 2, local loss is 0.9845
+Trainning batch 208/853 in epoch 2, local loss is 0.6083
+Trainning batch 216/853 in epoch 2, local loss is 0.8376
+Trainning batch 224/853 in epoch 2, local loss is 0.6687
+Trainning batch 232/853 in epoch 2, local loss is 0.8105
+Trainning batch 240/853 in epoch 2, local loss is 0.5866
+Trainning batch 248/853 in epoch 2, local loss is 1.0330
+Trainning batch 256/853 in epoch 2, local loss is 0.5032
+Trainning batch 264/853 in epoch 2, local loss is 0.8487
+Trainning batch 272/853 in epoch 2, local loss is 0.6970
+Trainning batch 280/853 in epoch 2, local loss is 0.7397
+Trainning batch 288/853 in epoch 2, local loss is 0.6668
+Trainning batch 296/853 in epoch 2, local loss is 0.6386
+Trainning batch 304/853 in epoch 2, local loss is 0.7708
+Trainning batch 312/853 in epoch 2, local loss is 0.6792
+Trainning batch 320/853 in epoch 2, local loss is 0.6425
+Trainning batch 328/853 in epoch 2, local loss is 0.8010
+Trainning batch 336/853 in epoch 2, local loss is 0.5755
+Trainning batch 344/853 in epoch 2, local loss is 0.3917
+Trainning batch 352/853 in epoch 2, local loss is 0.4422
+Trainning batch 360/853 in epoch 2, local loss is 0.4896
+Trainning batch 368/853 in epoch 2, local loss is 0.4746
+Trainning batch 376/853 in epoch 2, local loss is 0.4324
+Trainning batch 384/853 in epoch 2, local loss is 0.6274
+Trainning batch 392/853 in epoch 2, local loss is 0.4723
+Trainning batch 400/853 in epoch 2, local loss is 0.5011
+Trainning batch 408/853 in epoch 2, local loss is 0.6604
+Trainning batch 416/853 in epoch 2, local loss is 0.6812
+Trainning batch 424/853 in epoch 2, local loss is 0.6274
+Trainning batch 432/853 in epoch 2, local loss is 0.8623
+Trainning batch 440/853 in epoch 2, local loss is 0.4529
+Trainning batch 448/853 in epoch 2, local loss is 0.4920
+Trainning batch 456/853 in epoch 2, local loss is 0.4324
+Trainning batch 464/853 in epoch 2, local loss is 0.6339
+Trainning batch 472/853 in epoch 2, local loss is 0.4872
+Trainning batch 480/853 in epoch 2, local loss is 0.4701
+Trainning batch 488/853 in epoch 2, local loss is 0.4220
+Trainning batch 496/853 in epoch 2, local loss is 0.6936
+Trainning batch 504/853 in epoch 2, local loss is 0.6138
+Trainning batch 512/853 in epoch 2, local loss is 0.5050
+Trainning batch 520/853 in epoch 2, local loss is 0.4267
+Trainning batch 528/853 in epoch 2, local loss is 0.4417
+Trainning batch 536/853 in epoch 2, local loss is 0.4177
+Trainning batch 544/853 in epoch 2, local loss is 0.6795
+Trainning batch 552/853 in epoch 2, local loss is 0.4062
+Trainning batch 560/853 in epoch 2, local loss is 0.5800
+Trainning batch 568/853 in epoch 2, local loss is 0.4334
+Trainning batch 576/853 in epoch 2, local loss is 0.4078
+Trainning batch 584/853 in epoch 2, local loss is 0.3769
+Trainning batch 592/853 in epoch 2, local loss is 0.4900
+Trainning batch 600/853 in epoch 2, local loss is 0.3581
+Trainning batch 608/853 in epoch 2, local loss is 0.5428
+Trainning batch 616/853 in epoch 2, local loss is 0.4428
+Trainning batch 624/853 in epoch 2, local loss is 0.4800
+Trainning batch 632/853 in epoch 2, local loss is 0.5377
+Trainning batch 640/853 in epoch 2, local loss is 0.2795
+Trainning batch 648/853 in epoch 2, local loss is 0.3238
+Trainning batch 656/853 in epoch 2, local loss is 0.4464
+Trainning batch 664/853 in epoch 2, local loss is 0.3174
+Trainning batch 672/853 in epoch 2, local loss is 0.5049
+Trainning batch 680/853 in epoch 2, local loss is 0.4210
+Trainning batch 688/853 in epoch 2, local loss is 0.6328
+Trainning batch 696/853 in epoch 2, local loss is 0.2169
+Trainning batch 704/853 in epoch 2, local loss is 0.4919
+Trainning batch 712/853 in epoch 2, local loss is 0.4068
+Trainning batch 720/853 in epoch 2, local loss is 0.5597
+Trainning batch 728/853 in epoch 2, local loss is 0.5449
+Trainning batch 736/853 in epoch 2, local loss is 0.4935
+Trainning batch 744/853 in epoch 2, local loss is 0.5051
+Trainning batch 752/853 in epoch 2, local loss is 0.5166
+Trainning batch 760/853 in epoch 2, local loss is 0.5369
+Trainning batch 768/853 in epoch 2, local loss is 0.2176
+Trainning batch 776/853 in epoch 2, local loss is 0.4885
+Trainning batch 784/853 in epoch 2, local loss is 0.5778
+Trainning batch 792/853 in epoch 2, local loss is 0.3693
+Trainning batch 800/853 in epoch 2, local loss is 0.2648
+Trainning batch 808/853 in epoch 2, local loss is 0.5017
+Trainning batch 816/853 in epoch 2, local loss is 0.5682
+Trainning batch 824/853 in epoch 2, local loss is 0.2817
+Trainning batch 832/853 in epoch 2, local loss is 0.4159
+Trainning batch 840/853 in epoch 2, local loss is 0.5253
+Trainning batch 848/853 in epoch 2, local loss is 0.4287
+Epoch  2
+Validation Loss:     0.4691 Validation Accuracy: 0.875000
+epoch Summary: 2017-12-05 14:58:35.073259: loss = 0.7161 (0.0 examples/sec; 881.461 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 3, local loss is 0.2581
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 1 0 0]
+ ..., 
+ [0 1 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 8/853 in epoch 3, local loss is 0.3173
+Trainning batch 16/853 in epoch 3, local loss is 0.4669
+Trainning batch 24/853 in epoch 3, local loss is 0.3887
+Trainning batch 32/853 in epoch 3, local loss is 0.3558
+Trainning batch 40/853 in epoch 3, local loss is 0.5422
+Trainning batch 48/853 in epoch 3, local loss is 0.3101
+Trainning batch 56/853 in epoch 3, local loss is 0.2486
+Trainning batch 64/853 in epoch 3, local loss is 0.3178
+Trainning batch 72/853 in epoch 3, local loss is 0.1582
+Trainning batch 80/853 in epoch 3, local loss is 0.3780
+Trainning batch 88/853 in epoch 3, local loss is 0.4415
+Trainning batch 96/853 in epoch 3, local loss is 0.2707
+Trainning batch 104/853 in epoch 3, local loss is 0.2103
+Trainning batch 112/853 in epoch 3, local loss is 0.2421
+Trainning batch 120/853 in epoch 3, local loss is 0.2153
+Trainning batch 128/853 in epoch 3, local loss is 0.2955
+Trainning batch 136/853 in epoch 3, local loss is 0.2370
+Trainning batch 144/853 in epoch 3, local loss is 0.2003
+Trainning batch 152/853 in epoch 3, local loss is 0.2258
+Trainning batch 160/853 in epoch 3, local loss is 0.2978
+Trainning batch 168/853 in epoch 3, local loss is 0.2355
+Trainning batch 176/853 in epoch 3, local loss is 0.2062
+Trainning batch 184/853 in epoch 3, local loss is 0.2415
+Trainning batch 192/853 in epoch 3, local loss is 0.2124
+Trainning batch 200/853 in epoch 3, local loss is 0.3284
+Trainning batch 208/853 in epoch 3, local loss is 0.2129
+Trainning batch 216/853 in epoch 3, local loss is 0.3011
+Trainning batch 224/853 in epoch 3, local loss is 0.3617
+Trainning batch 232/853 in epoch 3, local loss is 0.2368
+Trainning batch 240/853 in epoch 3, local loss is 0.2918
+Trainning batch 248/853 in epoch 3, local loss is 0.3166
+Trainning batch 256/853 in epoch 3, local loss is 0.1251
+Trainning batch 264/853 in epoch 3, local loss is 0.2072
+Trainning batch 272/853 in epoch 3, local loss is 0.1913
+Trainning batch 280/853 in epoch 3, local loss is 0.2424
+Trainning batch 288/853 in epoch 3, local loss is 0.2767
+Trainning batch 296/853 in epoch 3, local loss is 0.4023
+Trainning batch 304/853 in epoch 3, local loss is 0.3714
+Trainning batch 312/853 in epoch 3, local loss is 0.1818
+Trainning batch 320/853 in epoch 3, local loss is 0.3636
+Trainning batch 328/853 in epoch 3, local loss is 0.3891
+Trainning batch 336/853 in epoch 3, local loss is 0.3594
+Trainning batch 344/853 in epoch 3, local loss is 0.1791
+Trainning batch 352/853 in epoch 3, local loss is 0.2053
+Trainning batch 360/853 in epoch 3, local loss is 0.1833
+Trainning batch 368/853 in epoch 3, local loss is 0.3025
+Trainning batch 376/853 in epoch 3, local loss is 0.2126
+Trainning batch 384/853 in epoch 3, local loss is 0.3735
+Trainning batch 392/853 in epoch 3, local loss is 0.2478
+Trainning batch 400/853 in epoch 3, local loss is 0.2280
+Trainning batch 408/853 in epoch 3, local loss is 0.4432
+Trainning batch 416/853 in epoch 3, local loss is 0.2594
+Trainning batch 424/853 in epoch 3, local loss is 0.2904
+Trainning batch 432/853 in epoch 3, local loss is 0.3350
+Trainning batch 440/853 in epoch 3, local loss is 0.1183
+Trainning batch 448/853 in epoch 3, local loss is 0.1788
+Trainning batch 456/853 in epoch 3, local loss is 0.1033
+Trainning batch 464/853 in epoch 3, local loss is 0.3340
+Trainning batch 472/853 in epoch 3, local loss is 0.1824
+Trainning batch 480/853 in epoch 3, local loss is 0.1798
+Trainning batch 488/853 in epoch 3, local loss is 0.1924
+Trainning batch 496/853 in epoch 3, local loss is 0.4463
+Trainning batch 504/853 in epoch 3, local loss is 0.3494
+Trainning batch 512/853 in epoch 3, local loss is 0.2590
+Trainning batch 520/853 in epoch 3, local loss is 0.1131
+Trainning batch 528/853 in epoch 3, local loss is 0.2219
+Trainning batch 536/853 in epoch 3, local loss is 0.2380
+Trainning batch 544/853 in epoch 3, local loss is 0.2161
+Trainning batch 552/853 in epoch 3, local loss is 0.2172
+Trainning batch 560/853 in epoch 3, local loss is 0.2824
+Trainning batch 568/853 in epoch 3, local loss is 0.2438
+Trainning batch 576/853 in epoch 3, local loss is 0.2526
+Trainning batch 584/853 in epoch 3, local loss is 0.1717
+Trainning batch 592/853 in epoch 3, local loss is 0.2705
+Trainning batch 600/853 in epoch 3, local loss is 0.1330
+Trainning batch 608/853 in epoch 3, local loss is 0.2679
+Trainning batch 616/853 in epoch 3, local loss is 0.2823
+Trainning batch 624/853 in epoch 3, local loss is 0.1365
+Trainning batch 632/853 in epoch 3, local loss is 0.2696
+Trainning batch 640/853 in epoch 3, local loss is 0.1785
+Trainning batch 648/853 in epoch 3, local loss is 0.3069
+Trainning batch 656/853 in epoch 3, local loss is 0.2951
+Trainning batch 664/853 in epoch 3, local loss is 0.2112
+Trainning batch 672/853 in epoch 3, local loss is 0.1942
+Trainning batch 680/853 in epoch 3, local loss is 0.4489
+Trainning batch 688/853 in epoch 3, local loss is 0.3427
+Trainning batch 696/853 in epoch 3, local loss is 0.0712
+Trainning batch 704/853 in epoch 3, local loss is 0.1993
+Trainning batch 712/853 in epoch 3, local loss is 0.1919
+Trainning batch 720/853 in epoch 3, local loss is 0.2435
+Trainning batch 728/853 in epoch 3, local loss is 0.2774
+Trainning batch 736/853 in epoch 3, local loss is 0.2158
+Trainning batch 744/853 in epoch 3, local loss is 0.3160
+Trainning batch 752/853 in epoch 3, local loss is 0.2057
+Trainning batch 760/853 in epoch 3, local loss is 0.2580
+Trainning batch 768/853 in epoch 3, local loss is 0.1509
+Trainning batch 776/853 in epoch 3, local loss is 0.3403
+Trainning batch 784/853 in epoch 3, local loss is 0.3659
+Trainning batch 792/853 in epoch 3, local loss is 0.1778
+Trainning batch 800/853 in epoch 3, local loss is 0.1970
+Trainning batch 808/853 in epoch 3, local loss is 0.2054
+Trainning batch 816/853 in epoch 3, local loss is 0.3441
+Trainning batch 824/853 in epoch 3, local loss is 0.0721
+Trainning batch 832/853 in epoch 3, local loss is 0.1705
+Trainning batch 840/853 in epoch 3, local loss is 0.1492
+Trainning batch 848/853 in epoch 3, local loss is 0.1319
+Epoch  3
+Validation Loss:     0.2332 Validation Accuracy: 0.950000
+epoch Summary: 2017-12-05 15:13:10.273941: loss = 0.4236 (0.0 examples/sec; 875.201 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 4, local loss is 0.1646
+
+[[0 0 0 ..., 0 1 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 1 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 8/853 in epoch 4, local loss is 0.1704
+Trainning batch 16/853 in epoch 4, local loss is 0.1511
+Trainning batch 24/853 in epoch 4, local loss is 0.2763
+Trainning batch 32/853 in epoch 4, local loss is 0.2133
+Trainning batch 40/853 in epoch 4, local loss is 0.0942
+Trainning batch 48/853 in epoch 4, local loss is 0.1847
+Trainning batch 56/853 in epoch 4, local loss is 0.1332
+Trainning batch 64/853 in epoch 4, local loss is 0.2025
+Trainning batch 72/853 in epoch 4, local loss is 0.0848
+Trainning batch 80/853 in epoch 4, local loss is 0.0633
+Trainning batch 88/853 in epoch 4, local loss is 0.2577
+Trainning batch 96/853 in epoch 4, local loss is 0.1174
+Trainning batch 104/853 in epoch 4, local loss is 0.1331
+Trainning batch 112/853 in epoch 4, local loss is 0.1403
+Trainning batch 120/853 in epoch 4, local loss is 0.1513
+Trainning batch 128/853 in epoch 4, local loss is 0.1430
+Trainning batch 136/853 in epoch 4, local loss is 0.0979
+Trainning batch 144/853 in epoch 4, local loss is 0.1066
+Trainning batch 152/853 in epoch 4, local loss is 0.0830
+Trainning batch 160/853 in epoch 4, local loss is 0.1143
+Trainning batch 168/853 in epoch 4, local loss is 0.2348
+Trainning batch 176/853 in epoch 4, local loss is 0.1209
+Trainning batch 184/853 in epoch 4, local loss is 0.1928
+Trainning batch 192/853 in epoch 4, local loss is 0.3091
+Trainning batch 200/853 in epoch 4, local loss is 0.1237
+Trainning batch 208/853 in epoch 4, local loss is 0.0658
+Trainning batch 216/853 in epoch 4, local loss is 0.1025
+Trainning batch 224/853 in epoch 4, local loss is 0.1800
+Trainning batch 232/853 in epoch 4, local loss is 0.0539
+Trainning batch 240/853 in epoch 4, local loss is 0.1793
+Trainning batch 248/853 in epoch 4, local loss is 0.2007
+Trainning batch 256/853 in epoch 4, local loss is 0.1408
+Trainning batch 264/853 in epoch 4, local loss is 0.1784
+Trainning batch 272/853 in epoch 4, local loss is 0.1143
+Trainning batch 280/853 in epoch 4, local loss is 0.0885
+Trainning batch 288/853 in epoch 4, local loss is 0.1460
+Trainning batch 296/853 in epoch 4, local loss is 0.2067
+Trainning batch 304/853 in epoch 4, local loss is 0.1087
+Trainning batch 312/853 in epoch 4, local loss is 0.2353
+Trainning batch 320/853 in epoch 4, local loss is 0.1779
+Trainning batch 328/853 in epoch 4, local loss is 0.2030
+Trainning batch 336/853 in epoch 4, local loss is 0.2246
+Trainning batch 344/853 in epoch 4, local loss is 0.0499
+Trainning batch 352/853 in epoch 4, local loss is 0.0806
+Trainning batch 360/853 in epoch 4, local loss is 0.0819
+Trainning batch 368/853 in epoch 4, local loss is 0.1382
+Trainning batch 376/853 in epoch 4, local loss is 0.1387
+Trainning batch 384/853 in epoch 4, local loss is 0.1160
+Trainning batch 392/853 in epoch 4, local loss is 0.1814
+Trainning batch 400/853 in epoch 4, local loss is 0.0577
+Trainning batch 408/853 in epoch 4, local loss is 0.1842
+Trainning batch 416/853 in epoch 4, local loss is 0.2936
+Trainning batch 424/853 in epoch 4, local loss is 0.1470
+Trainning batch 432/853 in epoch 4, local loss is 0.1918
+Trainning batch 440/853 in epoch 4, local loss is 0.0701
+Trainning batch 448/853 in epoch 4, local loss is 0.1518
+Trainning batch 456/853 in epoch 4, local loss is 0.1102
+Trainning batch 464/853 in epoch 4, local loss is 0.2220
+Trainning batch 472/853 in epoch 4, local loss is 0.2168
+Trainning batch 480/853 in epoch 4, local loss is 0.1256
+Trainning batch 488/853 in epoch 4, local loss is 0.2056
+Trainning batch 496/853 in epoch 4, local loss is 0.3229
+Trainning batch 504/853 in epoch 4, local loss is 0.1922
+Trainning batch 512/853 in epoch 4, local loss is 0.2227
+Trainning batch 520/853 in epoch 4, local loss is 0.0408
+Trainning batch 528/853 in epoch 4, local loss is 0.1771
+Trainning batch 536/853 in epoch 4, local loss is 0.0889
+Trainning batch 544/853 in epoch 4, local loss is 0.2503
+Trainning batch 552/853 in epoch 4, local loss is 0.1682
+Trainning batch 560/853 in epoch 4, local loss is 0.2166
+Trainning batch 568/853 in epoch 4, local loss is 0.1659
+Trainning batch 576/853 in epoch 4, local loss is 0.2517
+Trainning batch 584/853 in epoch 4, local loss is 0.2676
+Trainning batch 592/853 in epoch 4, local loss is 0.1158
+Trainning batch 600/853 in epoch 4, local loss is 0.0714
+Trainning batch 608/853 in epoch 4, local loss is 0.2087
+Trainning batch 616/853 in epoch 4, local loss is 0.0776
+Trainning batch 624/853 in epoch 4, local loss is 0.0635
+Trainning batch 632/853 in epoch 4, local loss is 0.0910
+Trainning batch 640/853 in epoch 4, local loss is 0.0527
+Trainning batch 648/853 in epoch 4, local loss is 0.0557
+Trainning batch 656/853 in epoch 4, local loss is 0.1822
+Trainning batch 664/853 in epoch 4, local loss is 0.2288
+Trainning batch 672/853 in epoch 4, local loss is 0.0817
+Trainning batch 680/853 in epoch 4, local loss is 0.3783
+Trainning batch 688/853 in epoch 4, local loss is 0.0970
+Trainning batch 696/853 in epoch 4, local loss is 0.0676
+Trainning batch 704/853 in epoch 4, local loss is 0.0626
+Trainning batch 712/853 in epoch 4, local loss is 0.0880
+Trainning batch 720/853 in epoch 4, local loss is 0.1386
+Trainning batch 728/853 in epoch 4, local loss is 0.2018
+Trainning batch 736/853 in epoch 4, local loss is 0.1918
+Trainning batch 744/853 in epoch 4, local loss is 0.2146
+Trainning batch 752/853 in epoch 4, local loss is 0.2366
+Trainning batch 760/853 in epoch 4, local loss is 0.1596
+Trainning batch 768/853 in epoch 4, local loss is 0.1394
+Trainning batch 776/853 in epoch 4, local loss is 0.2406
+Trainning batch 784/853 in epoch 4, local loss is 0.2057
+Trainning batch 792/853 in epoch 4, local loss is 0.1139
+Trainning batch 800/853 in epoch 4, local loss is 0.1334
+Trainning batch 808/853 in epoch 4, local loss is 0.1901
+Trainning batch 816/853 in epoch 4, local loss is 0.3199
+Trainning batch 824/853 in epoch 4, local loss is 0.0358
+Trainning batch 832/853 in epoch 4, local loss is 0.0893
+Trainning batch 840/853 in epoch 4, local loss is 0.0907
+Trainning batch 848/853 in epoch 4, local loss is 0.1176
+Epoch  4
+Validation Loss:     0.1390 Validation Accuracy: 0.975000
+epoch Summary: 2017-12-05 15:28:43.885057: loss = 0.4056 (0.0 examples/sec; 933.611 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 5, local loss is 0.1978
+
+[[0 0 1 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 1 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 8/853 in epoch 5, local loss is 0.1035
+Trainning batch 16/853 in epoch 5, local loss is 0.1244
+Trainning batch 24/853 in epoch 5, local loss is 0.3198
+Trainning batch 32/853 in epoch 5, local loss is 0.1951
+Trainning batch 40/853 in epoch 5, local loss is 0.1454
+Trainning batch 48/853 in epoch 5, local loss is 0.2020
+Trainning batch 56/853 in epoch 5, local loss is 0.1216
+Trainning batch 64/853 in epoch 5, local loss is 0.1061
+Trainning batch 72/853 in epoch 5, local loss is 0.0580
+Trainning batch 80/853 in epoch 5, local loss is 0.2222
+Trainning batch 88/853 in epoch 5, local loss is 0.3098
+Trainning batch 96/853 in epoch 5, local loss is 0.1164
+Trainning batch 104/853 in epoch 5, local loss is 0.1683
+Trainning batch 112/853 in epoch 5, local loss is 0.1409
+Trainning batch 120/853 in epoch 5, local loss is 0.0950
+Trainning batch 128/853 in epoch 5, local loss is 0.0725
+Trainning batch 136/853 in epoch 5, local loss is 0.2089
+Trainning batch 144/853 in epoch 5, local loss is 0.0553
+Trainning batch 152/853 in epoch 5, local loss is 0.0330
+Trainning batch 160/853 in epoch 5, local loss is 0.1006
+Trainning batch 168/853 in epoch 5, local loss is 0.0733
+Trainning batch 176/853 in epoch 5, local loss is 0.0566
+Trainning batch 184/853 in epoch 5, local loss is 0.0647
+Trainning batch 192/853 in epoch 5, local loss is 0.0796
+Trainning batch 200/853 in epoch 5, local loss is 0.1399
+Trainning batch 208/853 in epoch 5, local loss is 0.0608
+Trainning batch 216/853 in epoch 5, local loss is 0.0480
+Trainning batch 224/853 in epoch 5, local loss is 0.0555
+Trainning batch 232/853 in epoch 5, local loss is 0.0536
+Trainning batch 240/853 in epoch 5, local loss is 0.0878
+Trainning batch 248/853 in epoch 5, local loss is 0.0830
+Trainning batch 256/853 in epoch 5, local loss is 0.0435
+Trainning batch 264/853 in epoch 5, local loss is 0.1560
+Trainning batch 272/853 in epoch 5, local loss is 0.0434
+Trainning batch 280/853 in epoch 5, local loss is 0.0878
+Trainning batch 288/853 in epoch 5, local loss is 0.1122
+Trainning batch 296/853 in epoch 5, local loss is 0.1348
+Trainning batch 304/853 in epoch 5, local loss is 0.0615
+Trainning batch 312/853 in epoch 5, local loss is 0.1979
+Trainning batch 320/853 in epoch 5, local loss is 0.0660
+Trainning batch 328/853 in epoch 5, local loss is 0.2351
+Trainning batch 336/853 in epoch 5, local loss is 0.1612
+Trainning batch 344/853 in epoch 5, local loss is 0.0286
+Trainning batch 352/853 in epoch 5, local loss is 0.0964
+Trainning batch 360/853 in epoch 5, local loss is 0.0493
+Trainning batch 368/853 in epoch 5, local loss is 0.0991
+Trainning batch 376/853 in epoch 5, local loss is 0.1166
+Trainning batch 384/853 in epoch 5, local loss is 0.0979
+Trainning batch 392/853 in epoch 5, local loss is 0.0330
+Trainning batch 400/853 in epoch 5, local loss is 0.0862
+Trainning batch 408/853 in epoch 5, local loss is 0.0727
+Trainning batch 416/853 in epoch 5, local loss is 0.0853
+Trainning batch 424/853 in epoch 5, local loss is 0.0829
+Trainning batch 432/853 in epoch 5, local loss is 0.0989
+Trainning batch 440/853 in epoch 5, local loss is 0.0665
+Trainning batch 448/853 in epoch 5, local loss is 0.1049
+Trainning batch 456/853 in epoch 5, local loss is 0.0470
+Trainning batch 464/853 in epoch 5, local loss is 0.0881
+Trainning batch 472/853 in epoch 5, local loss is 0.0528
+Trainning batch 480/853 in epoch 5, local loss is 0.1468
+Trainning batch 488/853 in epoch 5, local loss is 0.0544
+Trainning batch 496/853 in epoch 5, local loss is 0.3272
+Trainning batch 504/853 in epoch 5, local loss is 0.2578
+Trainning batch 512/853 in epoch 5, local loss is 0.1198
+Trainning batch 520/853 in epoch 5, local loss is 0.0723
+Trainning batch 528/853 in epoch 5, local loss is 0.0477
+Trainning batch 536/853 in epoch 5, local loss is 0.0633
+Trainning batch 544/853 in epoch 5, local loss is 0.1606
+Trainning batch 552/853 in epoch 5, local loss is 0.0687
+Trainning batch 560/853 in epoch 5, local loss is 0.0303
+Trainning batch 568/853 in epoch 5, local loss is 0.1108
+Trainning batch 576/853 in epoch 5, local loss is 0.1263
+Trainning batch 584/853 in epoch 5, local loss is 0.0254
+Trainning batch 592/853 in epoch 5, local loss is 0.0579
+Trainning batch 600/853 in epoch 5, local loss is 0.0558
+Trainning batch 608/853 in epoch 5, local loss is 0.1574
+Trainning batch 616/853 in epoch 5, local loss is 0.0900
+Trainning batch 624/853 in epoch 5, local loss is 0.0590
+Trainning batch 632/853 in epoch 5, local loss is 0.2078
+Trainning batch 640/853 in epoch 5, local loss is 0.0620
+Trainning batch 648/853 in epoch 5, local loss is 0.0516
+Trainning batch 656/853 in epoch 5, local loss is 0.0414
+Trainning batch 664/853 in epoch 5, local loss is 0.0820
+Trainning batch 672/853 in epoch 5, local loss is 0.0344
+Trainning batch 680/853 in epoch 5, local loss is 0.0823
+Trainning batch 688/853 in epoch 5, local loss is 0.1043
+Trainning batch 696/853 in epoch 5, local loss is 0.0228
+Trainning batch 704/853 in epoch 5, local loss is 0.0485
+Trainning batch 712/853 in epoch 5, local loss is 0.2269
+Trainning batch 720/853 in epoch 5, local loss is 0.0730
+Trainning batch 728/853 in epoch 5, local loss is 0.1116
+Trainning batch 736/853 in epoch 5, local loss is 0.0421
+Trainning batch 744/853 in epoch 5, local loss is 0.2420
+Trainning batch 752/853 in epoch 5, local loss is 0.1028
+Trainning batch 760/853 in epoch 5, local loss is 0.1690
+Trainning batch 768/853 in epoch 5, local loss is 0.1378
+Trainning batch 776/853 in epoch 5, local loss is 0.2874
+Trainning batch 784/853 in epoch 5, local loss is 0.0975
+Trainning batch 792/853 in epoch 5, local loss is 0.0556
+Trainning batch 800/853 in epoch 5, local loss is 0.0717
+Trainning batch 808/853 in epoch 5, local loss is 0.0673
+Trainning batch 816/853 in epoch 5, local loss is 0.1441
+Trainning batch 824/853 in epoch 5, local loss is 0.0386
+Trainning batch 832/853 in epoch 5, local loss is 0.1040
+Trainning batch 840/853 in epoch 5, local loss is 0.0358
+Trainning batch 848/853 in epoch 5, local loss is 0.0696
+Epoch  5
+Validation Loss:     0.0329 Validation Accuracy: 1.000000
+epoch Summary: 2017-12-05 15:44:50.420321: loss = 0.1423 (0.0 examples/sec; 966.535 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 6, local loss is 0.0501
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 1 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 8/853 in epoch 6, local loss is 0.0715
+Trainning batch 16/853 in epoch 6, local loss is 0.0877
+Trainning batch 24/853 in epoch 6, local loss is 0.0287
+Trainning batch 32/853 in epoch 6, local loss is 0.0724
+Trainning batch 40/853 in epoch 6, local loss is 0.0282
+Trainning batch 48/853 in epoch 6, local loss is 0.1084
+Trainning batch 56/853 in epoch 6, local loss is 0.1607
+Trainning batch 64/853 in epoch 6, local loss is 0.0241
+Trainning batch 72/853 in epoch 6, local loss is 0.0123
+Trainning batch 80/853 in epoch 6, local loss is 0.0381
+Trainning batch 88/853 in epoch 6, local loss is 0.1161
+Trainning batch 96/853 in epoch 6, local loss is 0.1070
+Trainning batch 104/853 in epoch 6, local loss is 0.0264
+Trainning batch 112/853 in epoch 6, local loss is 0.0359
+Trainning batch 120/853 in epoch 6, local loss is 0.0395
+Trainning batch 128/853 in epoch 6, local loss is 0.0742
+Trainning batch 136/853 in epoch 6, local loss is 0.0205
+Trainning batch 144/853 in epoch 6, local loss is 0.0658
+Trainning batch 152/853 in epoch 6, local loss is 0.0157
+Trainning batch 160/853 in epoch 6, local loss is 0.0641
+Trainning batch 168/853 in epoch 6, local loss is 0.0350
+Trainning batch 176/853 in epoch 6, local loss is 0.0797
+Trainning batch 184/853 in epoch 6, local loss is 0.0167
+Trainning batch 192/853 in epoch 6, local loss is 0.0644
+Trainning batch 200/853 in epoch 6, local loss is 0.1353
+Trainning batch 208/853 in epoch 6, local loss is 0.1176
+Trainning batch 216/853 in epoch 6, local loss is 0.0292
+Trainning batch 224/853 in epoch 6, local loss is 0.0466
+Trainning batch 232/853 in epoch 6, local loss is 0.0789
+Trainning batch 240/853 in epoch 6, local loss is 0.0331
+Trainning batch 248/853 in epoch 6, local loss is 0.1624
+Trainning batch 256/853 in epoch 6, local loss is 0.0420
+Trainning batch 264/853 in epoch 6, local loss is 0.1532
+Trainning batch 272/853 in epoch 6, local loss is 0.0470
+Trainning batch 280/853 in epoch 6, local loss is 0.0589
+Trainning batch 288/853 in epoch 6, local loss is 0.0940
+Trainning batch 296/853 in epoch 6, local loss is 0.1422
+Trainning batch 304/853 in epoch 6, local loss is 0.0425
+Trainning batch 312/853 in epoch 6, local loss is 0.0259
+Trainning batch 320/853 in epoch 6, local loss is 0.0609
+Trainning batch 328/853 in epoch 6, local loss is 0.2156
+Trainning batch 336/853 in epoch 6, local loss is 0.0929
+Trainning batch 344/853 in epoch 6, local loss is 0.0186
+Trainning batch 352/853 in epoch 6, local loss is 0.0610
+Trainning batch 360/853 in epoch 6, local loss is 0.0902
+Trainning batch 368/853 in epoch 6, local loss is 0.0779
+Trainning batch 376/853 in epoch 6, local loss is 0.0565
+Trainning batch 384/853 in epoch 6, local loss is 0.1177
+Trainning batch 392/853 in epoch 6, local loss is 0.0589
+Trainning batch 400/853 in epoch 6, local loss is 0.0444
+Trainning batch 408/853 in epoch 6, local loss is 0.2515
+Trainning batch 416/853 in epoch 6, local loss is 0.1779
+Trainning batch 424/853 in epoch 6, local loss is 0.0513
+Trainning batch 432/853 in epoch 6, local loss is 0.1644
+Trainning batch 440/853 in epoch 6, local loss is 0.1092
+Trainning batch 448/853 in epoch 6, local loss is 0.0598
+Trainning batch 456/853 in epoch 6, local loss is 0.0366
+Trainning batch 464/853 in epoch 6, local loss is 0.1954
+Trainning batch 472/853 in epoch 6, local loss is 0.1611
+Trainning batch 480/853 in epoch 6, local loss is 0.1779
+Trainning batch 488/853 in epoch 6, local loss is 0.1775
+Trainning batch 496/853 in epoch 6, local loss is 0.1442
+Trainning batch 504/853 in epoch 6, local loss is 0.2741
+Trainning batch 512/853 in epoch 6, local loss is 0.1772
+Trainning batch 520/853 in epoch 6, local loss is 0.0361
+Trainning batch 528/853 in epoch 6, local loss is 0.0596
+Trainning batch 536/853 in epoch 6, local loss is 0.0733
+Trainning batch 544/853 in epoch 6, local loss is 0.1079
+Trainning batch 552/853 in epoch 6, local loss is 0.0983
+Trainning batch 560/853 in epoch 6, local loss is 0.1306
+Trainning batch 568/853 in epoch 6, local loss is 0.0634
+Trainning batch 576/853 in epoch 6, local loss is 0.0643
+Trainning batch 584/853 in epoch 6, local loss is 0.1237
+Trainning batch 592/853 in epoch 6, local loss is 0.0740
+Trainning batch 600/853 in epoch 6, local loss is 0.0250
+Trainning batch 608/853 in epoch 6, local loss is 0.0470
+Trainning batch 616/853 in epoch 6, local loss is 0.0443
+Trainning batch 624/853 in epoch 6, local loss is 0.0210
+Trainning batch 632/853 in epoch 6, local loss is 0.0322
+Trainning batch 640/853 in epoch 6, local loss is 0.0765
+Trainning batch 648/853 in epoch 6, local loss is 0.0446
+Trainning batch 656/853 in epoch 6, local loss is 0.0420
+Trainning batch 664/853 in epoch 6, local loss is 0.0249
+Trainning batch 672/853 in epoch 6, local loss is 0.0168
+Trainning batch 680/853 in epoch 6, local loss is 0.1298
+Trainning batch 688/853 in epoch 6, local loss is 0.0427
+Trainning batch 696/853 in epoch 6, local loss is 0.0629
+Trainning batch 704/853 in epoch 6, local loss is 0.1330
+Trainning batch 712/853 in epoch 6, local loss is 0.0686
+Trainning batch 720/853 in epoch 6, local loss is 0.0407
+Trainning batch 728/853 in epoch 6, local loss is 0.1299
+Trainning batch 736/853 in epoch 6, local loss is 0.0749
+Trainning batch 744/853 in epoch 6, local loss is 0.0253
+Trainning batch 752/853 in epoch 6, local loss is 0.1280
+Trainning batch 760/853 in epoch 6, local loss is 0.0514
+Trainning batch 768/853 in epoch 6, local loss is 0.0575
+Trainning batch 776/853 in epoch 6, local loss is 0.0543
+Trainning batch 784/853 in epoch 6, local loss is 0.0468
+Trainning batch 792/853 in epoch 6, local loss is 0.0581
+Trainning batch 800/853 in epoch 6, local loss is 0.1134
+Trainning batch 808/853 in epoch 6, local loss is 0.0668
+Trainning batch 816/853 in epoch 6, local loss is 0.0520
+Trainning batch 824/853 in epoch 6, local loss is 0.0335
+Trainning batch 832/853 in epoch 6, local loss is 0.0534
+Trainning batch 840/853 in epoch 6, local loss is 0.0695
+Trainning batch 848/853 in epoch 6, local loss is 0.0951
+Epoch  6
+Validation Loss:     0.0441 Validation Accuracy: 0.975000
+epoch Summary: 2017-12-05 16:00:42.950613: loss = 0.0907 (0.0 examples/sec; 952.530 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 7, local loss is 0.0147
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 8/853 in epoch 7, local loss is 0.0360
+Trainning batch 16/853 in epoch 7, local loss is 0.0884
+Trainning batch 24/853 in epoch 7, local loss is 0.0302
+Trainning batch 32/853 in epoch 7, local loss is 0.0175
+Trainning batch 40/853 in epoch 7, local loss is 0.0274
+Trainning batch 48/853 in epoch 7, local loss is 0.0119
+Trainning batch 56/853 in epoch 7, local loss is 0.0514
+Trainning batch 64/853 in epoch 7, local loss is 0.1056
+Trainning batch 72/853 in epoch 7, local loss is 0.0293
+Trainning batch 80/853 in epoch 7, local loss is 0.0860
+Trainning batch 88/853 in epoch 7, local loss is 0.0718
+Trainning batch 96/853 in epoch 7, local loss is 0.0180
+Trainning batch 104/853 in epoch 7, local loss is 0.0204
+Trainning batch 112/853 in epoch 7, local loss is 0.0973
+Trainning batch 120/853 in epoch 7, local loss is 0.0704
+Trainning batch 128/853 in epoch 7, local loss is 0.1539
+Trainning batch 136/853 in epoch 7, local loss is 0.1358
+Trainning batch 144/853 in epoch 7, local loss is 0.0673
+Trainning batch 152/853 in epoch 7, local loss is 0.0142
+Trainning batch 160/853 in epoch 7, local loss is 0.0850
+Trainning batch 168/853 in epoch 7, local loss is 0.0189
+Trainning batch 176/853 in epoch 7, local loss is 0.0305
+Trainning batch 184/853 in epoch 7, local loss is 0.0269
+Trainning batch 192/853 in epoch 7, local loss is 0.0207
+Trainning batch 200/853 in epoch 7, local loss is 0.0586
+Trainning batch 208/853 in epoch 7, local loss is 0.0755
+Trainning batch 216/853 in epoch 7, local loss is 0.0975
+Trainning batch 224/853 in epoch 7, local loss is 0.0251
+Trainning batch 232/853 in epoch 7, local loss is 0.0178
+Trainning batch 240/853 in epoch 7, local loss is 0.0329
+Trainning batch 248/853 in epoch 7, local loss is 0.0411
+Trainning batch 256/853 in epoch 7, local loss is 0.0591
+Trainning batch 264/853 in epoch 7, local loss is 0.1321
+Trainning batch 272/853 in epoch 7, local loss is 0.0188
+Trainning batch 280/853 in epoch 7, local loss is 0.0295
+Trainning batch 288/853 in epoch 7, local loss is 0.0142
+Trainning batch 296/853 in epoch 7, local loss is 0.0862
+Trainning batch 304/853 in epoch 7, local loss is 0.0463
+Trainning batch 312/853 in epoch 7, local loss is 0.0333
+Trainning batch 320/853 in epoch 7, local loss is 0.0854
+Trainning batch 328/853 in epoch 7, local loss is 0.1585
+Trainning batch 336/853 in epoch 7, local loss is 0.0380
+Trainning batch 344/853 in epoch 7, local loss is 0.0219
+Trainning batch 352/853 in epoch 7, local loss is 0.0938
+Trainning batch 360/853 in epoch 7, local loss is 0.0980
+Trainning batch 368/853 in epoch 7, local loss is 0.0752
+Trainning batch 376/853 in epoch 7, local loss is 0.0516
+Trainning batch 384/853 in epoch 7, local loss is 0.0675
+Trainning batch 392/853 in epoch 7, local loss is 0.0426
+Trainning batch 400/853 in epoch 7, local loss is 0.0104
+Trainning batch 408/853 in epoch 7, local loss is 0.1250
+Trainning batch 416/853 in epoch 7, local loss is 0.0707
+Trainning batch 424/853 in epoch 7, local loss is 0.0085
+Trainning batch 432/853 in epoch 7, local loss is 0.1330
+Trainning batch 440/853 in epoch 7, local loss is 0.0365
+Trainning batch 448/853 in epoch 7, local loss is 0.0632
+Trainning batch 456/853 in epoch 7, local loss is 0.0337
+Trainning batch 464/853 in epoch 7, local loss is 0.0226
+Trainning batch 472/853 in epoch 7, local loss is 0.0680
+Trainning batch 480/853 in epoch 7, local loss is 0.0216
+Trainning batch 488/853 in epoch 7, local loss is 0.0388
+Trainning batch 496/853 in epoch 7, local loss is 0.2996
+Trainning batch 504/853 in epoch 7, local loss is 0.0870
+Trainning batch 512/853 in epoch 7, local loss is 0.0843
+Trainning batch 520/853 in epoch 7, local loss is 0.0087
+Trainning batch 528/853 in epoch 7, local loss is 0.0304
+Trainning batch 536/853 in epoch 7, local loss is 0.0172
+Trainning batch 544/853 in epoch 7, local loss is 0.0142
+Trainning batch 552/853 in epoch 7, local loss is 0.0286
+Trainning batch 560/853 in epoch 7, local loss is 0.0068
+Trainning batch 568/853 in epoch 7, local loss is 0.0102
+Trainning batch 576/853 in epoch 7, local loss is 0.0824
+Trainning batch 584/853 in epoch 7, local loss is 0.0134
+Trainning batch 592/853 in epoch 7, local loss is 0.0232
+Trainning batch 600/853 in epoch 7, local loss is 0.0140
+Trainning batch 608/853 in epoch 7, local loss is 0.0141
+Trainning batch 616/853 in epoch 7, local loss is 0.0171
+Trainning batch 624/853 in epoch 7, local loss is 0.0163
+Trainning batch 632/853 in epoch 7, local loss is 0.0115
+Trainning batch 640/853 in epoch 7, local loss is 0.0195
+Trainning batch 648/853 in epoch 7, local loss is 0.0133
+Trainning batch 656/853 in epoch 7, local loss is 0.0174
+Trainning batch 664/853 in epoch 7, local loss is 0.0069
+Trainning batch 672/853 in epoch 7, local loss is 0.0242
+Trainning batch 680/853 in epoch 7, local loss is 0.0759
+Trainning batch 688/853 in epoch 7, local loss is 0.1162
+Trainning batch 696/853 in epoch 7, local loss is 0.0143
+Trainning batch 704/853 in epoch 7, local loss is 0.0636
+Trainning batch 712/853 in epoch 7, local loss is 0.0739
+Trainning batch 720/853 in epoch 7, local loss is 0.1152
+Trainning batch 728/853 in epoch 7, local loss is 0.1617
+Trainning batch 736/853 in epoch 7, local loss is 0.0297
+Trainning batch 744/853 in epoch 7, local loss is 0.0313
+Trainning batch 752/853 in epoch 7, local loss is 0.1530
+Trainning batch 760/853 in epoch 7, local loss is 0.2645
+Trainning batch 768/853 in epoch 7, local loss is 0.0838
+Trainning batch 776/853 in epoch 7, local loss is 0.1752
+Trainning batch 784/853 in epoch 7, local loss is 0.2761
+Trainning batch 792/853 in epoch 7, local loss is 0.0782
+Trainning batch 800/853 in epoch 7, local loss is 0.0652
+Trainning batch 808/853 in epoch 7, local loss is 0.1007
+Trainning batch 816/853 in epoch 7, local loss is 0.1431
+Trainning batch 824/853 in epoch 7, local loss is 0.0435
+Trainning batch 832/853 in epoch 7, local loss is 0.0555
+Trainning batch 840/853 in epoch 7, local loss is 0.0191
+Trainning batch 848/853 in epoch 7, local loss is 0.0433
+Epoch  7
+Validation Loss:     0.0647 Validation Accuracy: 0.975000
+epoch Summary: 2017-12-05 16:17:02.940161: loss = 0.1405 (0.0 examples/sec; 979.989 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 8, local loss is 0.1600
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 1 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 8/853 in epoch 8, local loss is 0.0478
+Trainning batch 16/853 in epoch 8, local loss is 0.0637
+Trainning batch 24/853 in epoch 8, local loss is 0.0250
+Trainning batch 32/853 in epoch 8, local loss is 0.1163
+Trainning batch 40/853 in epoch 8, local loss is 0.0574
+Trainning batch 48/853 in epoch 8, local loss is 0.0370
+Trainning batch 56/853 in epoch 8, local loss is 0.0315
+Trainning batch 64/853 in epoch 8, local loss is 0.1191
+Trainning batch 72/853 in epoch 8, local loss is 0.0224
+Trainning batch 80/853 in epoch 8, local loss is 0.0154
+Trainning batch 88/853 in epoch 8, local loss is 0.2201
+Trainning batch 96/853 in epoch 8, local loss is 0.0599
+Trainning batch 104/853 in epoch 8, local loss is 0.0235
+Trainning batch 112/853 in epoch 8, local loss is 0.0583
+Trainning batch 120/853 in epoch 8, local loss is 0.0234
+Trainning batch 128/853 in epoch 8, local loss is 0.0533
+Trainning batch 136/853 in epoch 8, local loss is 0.0566
+Trainning batch 144/853 in epoch 8, local loss is 0.0317
+Trainning batch 152/853 in epoch 8, local loss is 0.0087
+Trainning batch 160/853 in epoch 8, local loss is 0.0167
+Trainning batch 168/853 in epoch 8, local loss is 0.0147
+Trainning batch 176/853 in epoch 8, local loss is 0.0090
+Trainning batch 184/853 in epoch 8, local loss is 0.0303
+Trainning batch 192/853 in epoch 8, local loss is 0.1309
+Trainning batch 200/853 in epoch 8, local loss is 0.1210
+Trainning batch 208/853 in epoch 8, local loss is 0.1143
+Trainning batch 216/853 in epoch 8, local loss is 0.0443
+Trainning batch 224/853 in epoch 8, local loss is 0.0605
+Trainning batch 232/853 in epoch 8, local loss is 0.0321
+Trainning batch 240/853 in epoch 8, local loss is 0.0301
+Trainning batch 248/853 in epoch 8, local loss is 0.1313
+Trainning batch 256/853 in epoch 8, local loss is 0.1892
+Trainning batch 264/853 in epoch 8, local loss is 0.0311
+Trainning batch 272/853 in epoch 8, local loss is 0.0496
+Trainning batch 280/853 in epoch 8, local loss is 0.0386
+Trainning batch 288/853 in epoch 8, local loss is 0.0504
+Trainning batch 296/853 in epoch 8, local loss is 0.2301
+Trainning batch 304/853 in epoch 8, local loss is 0.0593
+Trainning batch 312/853 in epoch 8, local loss is 0.0587
+Trainning batch 320/853 in epoch 8, local loss is 0.1199
+Trainning batch 328/853 in epoch 8, local loss is 0.0321
+Trainning batch 336/853 in epoch 8, local loss is 0.1596
+Trainning batch 344/853 in epoch 8, local loss is 0.0188
+Trainning batch 352/853 in epoch 8, local loss is 0.0285
+Trainning batch 360/853 in epoch 8, local loss is 0.0623
+Trainning batch 368/853 in epoch 8, local loss is 0.1293
+Trainning batch 376/853 in epoch 8, local loss is 0.0265
+Trainning batch 384/853 in epoch 8, local loss is 0.0344
+Trainning batch 392/853 in epoch 8, local loss is 0.0239
+Trainning batch 400/853 in epoch 8, local loss is 0.1497
+Trainning batch 408/853 in epoch 8, local loss is 0.0998
+Trainning batch 416/853 in epoch 8, local loss is 0.0155
+Trainning batch 424/853 in epoch 8, local loss is 0.0358
+Trainning batch 432/853 in epoch 8, local loss is 0.0454
+Trainning batch 440/853 in epoch 8, local loss is 0.0144
+Trainning batch 448/853 in epoch 8, local loss is 0.0431
+Trainning batch 456/853 in epoch 8, local loss is 0.0114
+Trainning batch 464/853 in epoch 8, local loss is 0.0673
+Trainning batch 472/853 in epoch 8, local loss is 0.0277
+Trainning batch 480/853 in epoch 8, local loss is 0.0457
+Trainning batch 488/853 in epoch 8, local loss is 0.0222
+Trainning batch 496/853 in epoch 8, local loss is 0.0469
+Trainning batch 504/853 in epoch 8, local loss is 0.0692
+Trainning batch 512/853 in epoch 8, local loss is 0.0556
+Trainning batch 520/853 in epoch 8, local loss is 0.0381
+Trainning batch 528/853 in epoch 8, local loss is 0.0503
+Trainning batch 536/853 in epoch 8, local loss is 0.1164
+Trainning batch 544/853 in epoch 8, local loss is 0.1288
+Trainning batch 552/853 in epoch 8, local loss is 0.1453
+Trainning batch 560/853 in epoch 8, local loss is 0.0294
+Trainning batch 568/853 in epoch 8, local loss is 0.0849
+Trainning batch 576/853 in epoch 8, local loss is 0.0668
+Trainning batch 584/853 in epoch 8, local loss is 0.0704
+Trainning batch 592/853 in epoch 8, local loss is 0.0752
+Trainning batch 600/853 in epoch 8, local loss is 0.0375
+Trainning batch 608/853 in epoch 8, local loss is 0.0735
+Trainning batch 616/853 in epoch 8, local loss is 0.0841
+Trainning batch 624/853 in epoch 8, local loss is 0.0280
+Trainning batch 632/853 in epoch 8, local loss is 0.0767
+Trainning batch 640/853 in epoch 8, local loss is 0.0678
+Trainning batch 648/853 in epoch 8, local loss is 0.0426
+Trainning batch 656/853 in epoch 8, local loss is 0.0730
+Trainning batch 664/853 in epoch 8, local loss is 0.0253
+Trainning batch 672/853 in epoch 8, local loss is 0.0627
+Trainning batch 680/853 in epoch 8, local loss is 0.0956
+Trainning batch 688/853 in epoch 8, local loss is 0.0781
+Trainning batch 696/853 in epoch 8, local loss is 0.0165
+Trainning batch 704/853 in epoch 8, local loss is 0.0721
+Trainning batch 712/853 in epoch 8, local loss is 0.0283
+Trainning batch 720/853 in epoch 8, local loss is 0.0468
+Trainning batch 728/853 in epoch 8, local loss is 0.0552
+Trainning batch 736/853 in epoch 8, local loss is 0.0279
+Trainning batch 744/853 in epoch 8, local loss is 0.0521
+Trainning batch 752/853 in epoch 8, local loss is 0.0374
+Trainning batch 760/853 in epoch 8, local loss is 0.0348
+Trainning batch 768/853 in epoch 8, local loss is 0.0475
+Trainning batch 776/853 in epoch 8, local loss is 0.0475
+Trainning batch 784/853 in epoch 8, local loss is 0.0286
+Trainning batch 792/853 in epoch 8, local loss is 0.0436
+Trainning batch 800/853 in epoch 8, local loss is 0.0372
+Trainning batch 808/853 in epoch 8, local loss is 0.0149
+Trainning batch 816/853 in epoch 8, local loss is 0.1122
+Trainning batch 824/853 in epoch 8, local loss is 0.0232
+Trainning batch 832/853 in epoch 8, local loss is 0.0205
+Trainning batch 840/853 in epoch 8, local loss is 0.0531
+Trainning batch 848/853 in epoch 8, local loss is 0.0140
+Epoch  8
+Validation Loss:     0.0710 Validation Accuracy: 0.975000
+epoch Summary: 2017-12-05 16:34:23.121666: loss = 0.0681 (0.0 examples/sec; 1040.182 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 9, local loss is 0.0369
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 1 0 0]]
+Trainning batch 8/853 in epoch 9, local loss is 0.0236
+Trainning batch 16/853 in epoch 9, local loss is 0.0143
+Trainning batch 24/853 in epoch 9, local loss is 0.0125
+Trainning batch 32/853 in epoch 9, local loss is 0.0562
+Trainning batch 40/853 in epoch 9, local loss is 0.0095
+Trainning batch 48/853 in epoch 9, local loss is 0.0057
+Trainning batch 56/853 in epoch 9, local loss is 0.0069
+Trainning batch 64/853 in epoch 9, local loss is 0.0055
+Trainning batch 72/853 in epoch 9, local loss is 0.0360
+Trainning batch 80/853 in epoch 9, local loss is 0.0126
+Trainning batch 88/853 in epoch 9, local loss is 0.1270
+Trainning batch 96/853 in epoch 9, local loss is 0.0156
+Trainning batch 104/853 in epoch 9, local loss is 0.0060
+Trainning batch 112/853 in epoch 9, local loss is 0.0162
+Trainning batch 120/853 in epoch 9, local loss is 0.0104
+Trainning batch 128/853 in epoch 9, local loss is 0.0247
+Trainning batch 136/853 in epoch 9, local loss is 0.0056
+Trainning batch 144/853 in epoch 9, local loss is 0.0084
+Trainning batch 152/853 in epoch 9, local loss is 0.0078
+Trainning batch 160/853 in epoch 9, local loss is 0.0222
+Trainning batch 168/853 in epoch 9, local loss is 0.0027
+Trainning batch 176/853 in epoch 9, local loss is 0.0042
+Trainning batch 184/853 in epoch 9, local loss is 0.0373
+Trainning batch 192/853 in epoch 9, local loss is 0.0095
+Trainning batch 200/853 in epoch 9, local loss is 0.0545
+Trainning batch 208/853 in epoch 9, local loss is 0.0073
+Trainning batch 216/853 in epoch 9, local loss is 0.0080
+Trainning batch 224/853 in epoch 9, local loss is 0.0441
+Trainning batch 232/853 in epoch 9, local loss is 0.0047
+Trainning batch 240/853 in epoch 9, local loss is 0.0072
+Trainning batch 248/853 in epoch 9, local loss is 0.0435
+Trainning batch 256/853 in epoch 9, local loss is 0.0034
+Trainning batch 264/853 in epoch 9, local loss is 0.0911
+Trainning batch 272/853 in epoch 9, local loss is 0.0187
+Trainning batch 280/853 in epoch 9, local loss is 0.0165
+Trainning batch 288/853 in epoch 9, local loss is 0.0147
+Trainning batch 296/853 in epoch 9, local loss is 0.0387
+Trainning batch 304/853 in epoch 9, local loss is 0.0069
+Trainning batch 312/853 in epoch 9, local loss is 0.0134
+Trainning batch 320/853 in epoch 9, local loss is 0.0260
+Trainning batch 328/853 in epoch 9, local loss is 0.0524
+Trainning batch 336/853 in epoch 9, local loss is 0.0156
+Trainning batch 344/853 in epoch 9, local loss is 0.0122
+Trainning batch 352/853 in epoch 9, local loss is 0.0285
+Trainning batch 360/853 in epoch 9, local loss is 0.1266
+Trainning batch 368/853 in epoch 9, local loss is 0.0341
+Trainning batch 376/853 in epoch 9, local loss is 0.1986
+Trainning batch 384/853 in epoch 9, local loss is 0.0485
+Trainning batch 392/853 in epoch 9, local loss is 0.1362
+Trainning batch 400/853 in epoch 9, local loss is 0.0650
+Trainning batch 408/853 in epoch 9, local loss is 0.0844
+Trainning batch 416/853 in epoch 9, local loss is 0.1010
+Trainning batch 424/853 in epoch 9, local loss is 0.1190
+Trainning batch 432/853 in epoch 9, local loss is 0.1783
+Trainning batch 440/853 in epoch 9, local loss is 0.0214
+Trainning batch 448/853 in epoch 9, local loss is 0.0442
+Trainning batch 456/853 in epoch 9, local loss is 0.0311
+Trainning batch 464/853 in epoch 9, local loss is 0.1299
+Trainning batch 472/853 in epoch 9, local loss is 0.0144
+Trainning batch 480/853 in epoch 9, local loss is 0.0501
+Trainning batch 488/853 in epoch 9, local loss is 0.1761
+Trainning batch 496/853 in epoch 9, local loss is 0.0315
+Trainning batch 504/853 in epoch 9, local loss is 0.2049
+Trainning batch 512/853 in epoch 9, local loss is 0.0409
+Trainning batch 520/853 in epoch 9, local loss is 0.0279
+Trainning batch 528/853 in epoch 9, local loss is 0.0136
+Trainning batch 536/853 in epoch 9, local loss is 0.0392
+Trainning batch 544/853 in epoch 9, local loss is 0.1284
+Trainning batch 552/853 in epoch 9, local loss is 0.1254
+Trainning batch 560/853 in epoch 9, local loss is 0.0434
+Trainning batch 568/853 in epoch 9, local loss is 0.0880
+Trainning batch 576/853 in epoch 9, local loss is 0.0909
+Trainning batch 584/853 in epoch 9, local loss is 0.0427
+Trainning batch 592/853 in epoch 9, local loss is 0.0937
+Trainning batch 600/853 in epoch 9, local loss is 0.1164
+Trainning batch 608/853 in epoch 9, local loss is 0.0113
+Trainning batch 616/853 in epoch 9, local loss is 0.0205
+Trainning batch 624/853 in epoch 9, local loss is 0.1762
+Trainning batch 632/853 in epoch 9, local loss is 0.0635
+Trainning batch 640/853 in epoch 9, local loss is 0.0330
+Trainning batch 648/853 in epoch 9, local loss is 0.0142
+Trainning batch 656/853 in epoch 9, local loss is 0.0068
+Trainning batch 664/853 in epoch 9, local loss is 0.0671
+Trainning batch 672/853 in epoch 9, local loss is 0.0034
+Trainning batch 680/853 in epoch 9, local loss is 0.0485
+Trainning batch 688/853 in epoch 9, local loss is 0.0210
+Trainning batch 696/853 in epoch 9, local loss is 0.0048
+Trainning batch 704/853 in epoch 9, local loss is 0.0305
+Trainning batch 712/853 in epoch 9, local loss is 0.1055
+Trainning batch 720/853 in epoch 9, local loss is 0.0096
+Trainning batch 728/853 in epoch 9, local loss is 0.0330
+Trainning batch 736/853 in epoch 9, local loss is 0.0371
+Trainning batch 744/853 in epoch 9, local loss is 0.0091
+Trainning batch 752/853 in epoch 9, local loss is 0.0460
+Trainning batch 760/853 in epoch 9, local loss is 0.0239
+Trainning batch 768/853 in epoch 9, local loss is 0.0490
+Trainning batch 776/853 in epoch 9, local loss is 0.0882
+Trainning batch 784/853 in epoch 9, local loss is 0.0842
+Trainning batch 792/853 in epoch 9, local loss is 0.0109
+Trainning batch 800/853 in epoch 9, local loss is 0.0725
+Trainning batch 808/853 in epoch 9, local loss is 0.0493
+Trainning batch 816/853 in epoch 9, local loss is 0.0928
+Trainning batch 824/853 in epoch 9, local loss is 0.0401
+Trainning batch 832/853 in epoch 9, local loss is 0.1325
+Trainning batch 840/853 in epoch 9, local loss is 0.0469
+Trainning batch 848/853 in epoch 9, local loss is 0.0499
+Epoch  9
+Validation Loss:     0.0367 Validation Accuracy: 1.000000
+epoch Summary: 2017-12-05 16:52:59.016514: loss = 0.0837 (0.0 examples/sec; 1115.895 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 10, local loss is 0.1473
+Trainning batch 8/853 in epoch 10, local loss is 0.0264
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 16/853 in epoch 10, local loss is 0.0971
+Trainning batch 24/853 in epoch 10, local loss is 0.0351
+Trainning batch 32/853 in epoch 10, local loss is 0.0119
+Trainning batch 40/853 in epoch 10, local loss is 0.0071
+Trainning batch 48/853 in epoch 10, local loss is 0.0047
+Trainning batch 56/853 in epoch 10, local loss is 0.0105
+Trainning batch 64/853 in epoch 10, local loss is 0.0343
+Trainning batch 72/853 in epoch 10, local loss is 0.0106
+Trainning batch 80/853 in epoch 10, local loss is 0.0032
+Trainning batch 88/853 in epoch 10, local loss is 0.0156
+Trainning batch 96/853 in epoch 10, local loss is 0.0397
+Trainning batch 104/853 in epoch 10, local loss is 0.0096
+Trainning batch 112/853 in epoch 10, local loss is 0.0210
+Trainning batch 120/853 in epoch 10, local loss is 0.0970
+Trainning batch 128/853 in epoch 10, local loss is 0.0305
+Trainning batch 136/853 in epoch 10, local loss is 0.0115
+Trainning batch 144/853 in epoch 10, local loss is 0.0550
+Trainning batch 152/853 in epoch 10, local loss is 0.0242
+Trainning batch 160/853 in epoch 10, local loss is 0.1150
+Trainning batch 168/853 in epoch 10, local loss is 0.0354
+Trainning batch 176/853 in epoch 10, local loss is 0.0769
+Trainning batch 184/853 in epoch 10, local loss is 0.0132
+Trainning batch 192/853 in epoch 10, local loss is 0.0122
+Trainning batch 200/853 in epoch 10, local loss is 0.0334
+Trainning batch 208/853 in epoch 10, local loss is 0.0178
+Trainning batch 216/853 in epoch 10, local loss is 0.0131
+Trainning batch 224/853 in epoch 10, local loss is 0.0131
+Trainning batch 232/853 in epoch 10, local loss is 0.0054
+Trainning batch 240/853 in epoch 10, local loss is 0.0162
+Trainning batch 248/853 in epoch 10, local loss is 0.0476
+Trainning batch 256/853 in epoch 10, local loss is 0.0224
+Trainning batch 264/853 in epoch 10, local loss is 0.0417
+Trainning batch 272/853 in epoch 10, local loss is 0.0181
+Trainning batch 280/853 in epoch 10, local loss is 0.0218
+Trainning batch 288/853 in epoch 10, local loss is 0.1615
+Trainning batch 296/853 in epoch 10, local loss is 0.0875
+Trainning batch 304/853 in epoch 10, local loss is 0.0319
+Trainning batch 312/853 in epoch 10, local loss is 0.0178
+Trainning batch 320/853 in epoch 10, local loss is 0.0345
+Trainning batch 328/853 in epoch 10, local loss is 0.0164
+Trainning batch 336/853 in epoch 10, local loss is 0.0675
+Trainning batch 344/853 in epoch 10, local loss is 0.0320
+Trainning batch 352/853 in epoch 10, local loss is 0.0172
+Trainning batch 360/853 in epoch 10, local loss is 0.0050
+Trainning batch 368/853 in epoch 10, local loss is 0.0169
+Trainning batch 376/853 in epoch 10, local loss is 0.0414
+Trainning batch 384/853 in epoch 10, local loss is 0.0194
+Trainning batch 392/853 in epoch 10, local loss is 0.0149
+Trainning batch 400/853 in epoch 10, local loss is 0.0024
+Trainning batch 408/853 in epoch 10, local loss is 0.0166
+Trainning batch 416/853 in epoch 10, local loss is 0.0042
+Trainning batch 424/853 in epoch 10, local loss is 0.0062
+Trainning batch 432/853 in epoch 10, local loss is 0.0187
+Trainning batch 440/853 in epoch 10, local loss is 0.0046
+Trainning batch 448/853 in epoch 10, local loss is 0.0096
+Trainning batch 456/853 in epoch 10, local loss is 0.0079
+Trainning batch 464/853 in epoch 10, local loss is 0.0061
+Trainning batch 472/853 in epoch 10, local loss is 0.0114
+Trainning batch 480/853 in epoch 10, local loss is 0.0139
+Trainning batch 488/853 in epoch 10, local loss is 0.0062
+Trainning batch 496/853 in epoch 10, local loss is 0.0332
+Trainning batch 504/853 in epoch 10, local loss is 0.0513
+Trainning batch 512/853 in epoch 10, local loss is 0.0157
+Trainning batch 520/853 in epoch 10, local loss is 0.0325
+Trainning batch 528/853 in epoch 10, local loss is 0.0989
+Trainning batch 536/853 in epoch 10, local loss is 0.0781
+Trainning batch 544/853 in epoch 10, local loss is 0.1137
+Trainning batch 552/853 in epoch 10, local loss is 0.0438
+Trainning batch 560/853 in epoch 10, local loss is 0.0790
+Trainning batch 568/853 in epoch 10, local loss is 0.0274
+Trainning batch 576/853 in epoch 10, local loss is 0.1671
+Trainning batch 584/853 in epoch 10, local loss is 0.0080
+Trainning batch 592/853 in epoch 10, local loss is 0.0446
+Trainning batch 600/853 in epoch 10, local loss is 0.0223
+Trainning batch 608/853 in epoch 10, local loss is 0.1916
+Trainning batch 616/853 in epoch 10, local loss is 0.0139
+Trainning batch 624/853 in epoch 10, local loss is 0.0304
+Trainning batch 632/853 in epoch 10, local loss is 0.2005
+Trainning batch 640/853 in epoch 10, local loss is 0.0166
+Trainning batch 648/853 in epoch 10, local loss is 0.1638
+Trainning batch 656/853 in epoch 10, local loss is 0.1327
+Trainning batch 664/853 in epoch 10, local loss is 0.0855
+Trainning batch 672/853 in epoch 10, local loss is 0.0733
+Trainning batch 680/853 in epoch 10, local loss is 0.0943
+Trainning batch 688/853 in epoch 10, local loss is 0.0809
+Trainning batch 696/853 in epoch 10, local loss is 0.0279
+Trainning batch 704/853 in epoch 10, local loss is 0.0825
+Trainning batch 712/853 in epoch 10, local loss is 0.2548
+Trainning batch 720/853 in epoch 10, local loss is 0.0735
+Trainning batch 728/853 in epoch 10, local loss is 0.1204
+Trainning batch 736/853 in epoch 10, local loss is 0.0433
+Trainning batch 744/853 in epoch 10, local loss is 0.0626
+Trainning batch 752/853 in epoch 10, local loss is 0.0264
+Trainning batch 760/853 in epoch 10, local loss is 0.0519
+Trainning batch 768/853 in epoch 10, local loss is 0.1272
+Trainning batch 776/853 in epoch 10, local loss is 0.0792
+Trainning batch 784/853 in epoch 10, local loss is 0.0754
+Trainning batch 792/853 in epoch 10, local loss is 0.0131
+Trainning batch 800/853 in epoch 10, local loss is 0.0773
+Trainning batch 808/853 in epoch 10, local loss is 0.0766
+Trainning batch 816/853 in epoch 10, local loss is 0.0517
+Trainning batch 824/853 in epoch 10, local loss is 0.0071
+Trainning batch 832/853 in epoch 10, local loss is 0.0360
+Trainning batch 840/853 in epoch 10, local loss is 0.0224
+Trainning batch 848/853 in epoch 10, local loss is 0.0962
+Epoch 10
+Validation Loss:     0.0506 Validation Accuracy: 1.000000
+epoch Summary: 2017-12-05 17:11:36.059844: loss = 0.0507 (0.0 examples/sec; 1117.043 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 11, local loss is 0.0241
+Trainning batch 8/853 in epoch 11, local loss is 0.0317
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 1 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 16/853 in epoch 11, local loss is 0.0359
+Trainning batch 24/853 in epoch 11, local loss is 0.0314
+Trainning batch 32/853 in epoch 11, local loss is 0.0140
+Trainning batch 40/853 in epoch 11, local loss is 0.0087
+Trainning batch 48/853 in epoch 11, local loss is 0.0216
+Trainning batch 56/853 in epoch 11, local loss is 0.0601
+Trainning batch 64/853 in epoch 11, local loss is 0.0207
+Trainning batch 72/853 in epoch 11, local loss is 0.0065
+Trainning batch 80/853 in epoch 11, local loss is 0.0713
+Trainning batch 88/853 in epoch 11, local loss is 0.0268
+Trainning batch 96/853 in epoch 11, local loss is 0.0150
+Trainning batch 104/853 in epoch 11, local loss is 0.0148
+Trainning batch 112/853 in epoch 11, local loss is 0.0139
+Trainning batch 120/853 in epoch 11, local loss is 0.0109
+Trainning batch 128/853 in epoch 11, local loss is 0.0265
+Trainning batch 136/853 in epoch 11, local loss is 0.0143
+Trainning batch 144/853 in epoch 11, local loss is 0.0109
+Trainning batch 152/853 in epoch 11, local loss is 0.0081
+Trainning batch 160/853 in epoch 11, local loss is 0.0066
+Trainning batch 168/853 in epoch 11, local loss is 0.0042
+Trainning batch 176/853 in epoch 11, local loss is 0.0032
+Trainning batch 184/853 in epoch 11, local loss is 0.0136
+Trainning batch 192/853 in epoch 11, local loss is 0.0020
+Trainning batch 200/853 in epoch 11, local loss is 0.0646
+Trainning batch 208/853 in epoch 11, local loss is 0.0020
+Trainning batch 216/853 in epoch 11, local loss is 0.0056
+Trainning batch 224/853 in epoch 11, local loss is 0.0014
+Trainning batch 232/853 in epoch 11, local loss is 0.0064
+Trainning batch 240/853 in epoch 11, local loss is 0.0032
+Trainning batch 248/853 in epoch 11, local loss is 0.0092
+Trainning batch 256/853 in epoch 11, local loss is 0.0040
+Trainning batch 264/853 in epoch 11, local loss is 0.0109
+Trainning batch 272/853 in epoch 11, local loss is 0.0019
+Trainning batch 280/853 in epoch 11, local loss is 0.0020
+Trainning batch 288/853 in epoch 11, local loss is 0.0140
+Trainning batch 296/853 in epoch 11, local loss is 0.0191
+Trainning batch 304/853 in epoch 11, local loss is 0.0020
+Trainning batch 312/853 in epoch 11, local loss is 0.0074
+Trainning batch 320/853 in epoch 11, local loss is 0.0062
+Trainning batch 328/853 in epoch 11, local loss is 0.0092
+Trainning batch 336/853 in epoch 11, local loss is 0.0114
+Trainning batch 344/853 in epoch 11, local loss is 0.0067
+Trainning batch 352/853 in epoch 11, local loss is 0.0068
+Trainning batch 360/853 in epoch 11, local loss is 0.0033
+Trainning batch 368/853 in epoch 11, local loss is 0.0073
+Trainning batch 376/853 in epoch 11, local loss is 0.0033
+Trainning batch 384/853 in epoch 11, local loss is 0.0072
+Trainning batch 392/853 in epoch 11, local loss is 0.0025
+Trainning batch 400/853 in epoch 11, local loss is 0.0013
+Trainning batch 408/853 in epoch 11, local loss is 0.0065
+Trainning batch 416/853 in epoch 11, local loss is 0.0059
+Trainning batch 424/853 in epoch 11, local loss is 0.0017
+Trainning batch 432/853 in epoch 11, local loss is 0.0325
+Trainning batch 440/853 in epoch 11, local loss is 0.0031
+Trainning batch 448/853 in epoch 11, local loss is 0.0214
+Trainning batch 456/853 in epoch 11, local loss is 0.0120
+Trainning batch 464/853 in epoch 11, local loss is 0.0163
+Trainning batch 472/853 in epoch 11, local loss is 0.0116
+Trainning batch 480/853 in epoch 11, local loss is 0.0324
+Trainning batch 488/853 in epoch 11, local loss is 0.0760
+Trainning batch 496/853 in epoch 11, local loss is 0.0879
+Trainning batch 504/853 in epoch 11, local loss is 0.0605
+Trainning batch 512/853 in epoch 11, local loss is 0.0948
+Trainning batch 520/853 in epoch 11, local loss is 0.0352
+Trainning batch 528/853 in epoch 11, local loss is 0.0184
+Trainning batch 536/853 in epoch 11, local loss is 0.0052
+Trainning batch 544/853 in epoch 11, local loss is 0.0322
+Trainning batch 552/853 in epoch 11, local loss is 0.0624
+Trainning batch 560/853 in epoch 11, local loss is 0.0105
+Trainning batch 568/853 in epoch 11, local loss is 0.0097
+Trainning batch 576/853 in epoch 11, local loss is 0.0398
+Trainning batch 584/853 in epoch 11, local loss is 0.0132
+Trainning batch 592/853 in epoch 11, local loss is 0.0392
+Trainning batch 600/853 in epoch 11, local loss is 0.0208
+Trainning batch 608/853 in epoch 11, local loss is 0.0091
+Trainning batch 616/853 in epoch 11, local loss is 0.0670
+Trainning batch 624/853 in epoch 11, local loss is 0.0134
+Trainning batch 632/853 in epoch 11, local loss is 0.0223
+Trainning batch 640/853 in epoch 11, local loss is 0.0175
+Trainning batch 648/853 in epoch 11, local loss is 0.0097
+Trainning batch 656/853 in epoch 11, local loss is 0.1334
+Trainning batch 664/853 in epoch 11, local loss is 0.0582
+Trainning batch 672/853 in epoch 11, local loss is 0.0209
+Trainning batch 680/853 in epoch 11, local loss is 0.1323
+Trainning batch 688/853 in epoch 11, local loss is 0.1073
+Trainning batch 696/853 in epoch 11, local loss is 0.0271
+Trainning batch 704/853 in epoch 11, local loss is 0.2028
+Trainning batch 712/853 in epoch 11, local loss is 0.0465
+Trainning batch 720/853 in epoch 11, local loss is 0.0637
+Trainning batch 728/853 in epoch 11, local loss is 0.0664
+Trainning batch 736/853 in epoch 11, local loss is 0.1458
+Trainning batch 744/853 in epoch 11, local loss is 0.0323
+Trainning batch 752/853 in epoch 11, local loss is 0.0341
+Trainning batch 760/853 in epoch 11, local loss is 0.1292
+Trainning batch 768/853 in epoch 11, local loss is 0.0306
+Trainning batch 776/853 in epoch 11, local loss is 0.1307
+Trainning batch 784/853 in epoch 11, local loss is 0.0960
+Trainning batch 792/853 in epoch 11, local loss is 0.0177
+Trainning batch 800/853 in epoch 11, local loss is 0.0282
+Trainning batch 808/853 in epoch 11, local loss is 0.0215
+Trainning batch 816/853 in epoch 11, local loss is 0.0264
+Trainning batch 824/853 in epoch 11, local loss is 0.0413
+Trainning batch 832/853 in epoch 11, local loss is 0.0139
+Trainning batch 840/853 in epoch 11, local loss is 0.0584
+Trainning batch 848/853 in epoch 11, local loss is 0.0128
+Epoch 11
+Validation Loss:     0.0045 Validation Accuracy: 1.000000
+epoch Summary: 2017-12-05 17:30:08.495447: loss = 0.0111 (0.0 examples/sec; 1112.436 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 12, local loss is 0.0111
+Trainning batch 8/853 in epoch 12, local loss is 0.0112
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 1 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 16/853 in epoch 12, local loss is 0.0432
+Trainning batch 24/853 in epoch 12, local loss is 0.0177
+Trainning batch 32/853 in epoch 12, local loss is 0.0082
+Trainning batch 40/853 in epoch 12, local loss is 0.0362
+Trainning batch 48/853 in epoch 12, local loss is 0.0559
+Trainning batch 56/853 in epoch 12, local loss is 0.0535
+Trainning batch 64/853 in epoch 12, local loss is 0.0117
+Trainning batch 72/853 in epoch 12, local loss is 0.0219
+Trainning batch 80/853 in epoch 12, local loss is 0.0072
+Trainning batch 88/853 in epoch 12, local loss is 0.0159
+Trainning batch 96/853 in epoch 12, local loss is 0.0191
+Trainning batch 104/853 in epoch 12, local loss is 0.0040
+Trainning batch 112/853 in epoch 12, local loss is 0.0420
+Trainning batch 120/853 in epoch 12, local loss is 0.0097
+Trainning batch 128/853 in epoch 12, local loss is 0.0234
+Trainning batch 136/853 in epoch 12, local loss is 0.0153
+Trainning batch 144/853 in epoch 12, local loss is 0.0223
+Trainning batch 152/853 in epoch 12, local loss is 0.0023
+Trainning batch 160/853 in epoch 12, local loss is 0.0046
+Trainning batch 168/853 in epoch 12, local loss is 0.0160
+Trainning batch 176/853 in epoch 12, local loss is 0.0219
+Trainning batch 184/853 in epoch 12, local loss is 0.1775
+Trainning batch 192/853 in epoch 12, local loss is 0.0347
+Trainning batch 200/853 in epoch 12, local loss is 0.0578
+Trainning batch 208/853 in epoch 12, local loss is 0.0315
+Trainning batch 216/853 in epoch 12, local loss is 0.0232
+Trainning batch 224/853 in epoch 12, local loss is 0.0077
+Trainning batch 232/853 in epoch 12, local loss is 0.0634
+Trainning batch 240/853 in epoch 12, local loss is 0.0313
+Trainning batch 248/853 in epoch 12, local loss is 0.0224
+Trainning batch 256/853 in epoch 12, local loss is 0.0375
+Trainning batch 264/853 in epoch 12, local loss is 0.0371
+Trainning batch 272/853 in epoch 12, local loss is 0.0548
+Trainning batch 280/853 in epoch 12, local loss is 0.0086
+Trainning batch 288/853 in epoch 12, local loss is 0.0301
+Trainning batch 296/853 in epoch 12, local loss is 0.1596
+Trainning batch 304/853 in epoch 12, local loss is 0.0087
+Trainning batch 312/853 in epoch 12, local loss is 0.0224
+Trainning batch 320/853 in epoch 12, local loss is 0.0284
+Trainning batch 328/853 in epoch 12, local loss is 0.1152
+Trainning batch 336/853 in epoch 12, local loss is 0.0125
+Trainning batch 344/853 in epoch 12, local loss is 0.0067
+Trainning batch 352/853 in epoch 12, local loss is 0.0022
+Trainning batch 360/853 in epoch 12, local loss is 0.0229
+Trainning batch 368/853 in epoch 12, local loss is 0.0062
+Trainning batch 376/853 in epoch 12, local loss is 0.0093
+Trainning batch 384/853 in epoch 12, local loss is 0.0294
+Trainning batch 392/853 in epoch 12, local loss is 0.0085
+Trainning batch 400/853 in epoch 12, local loss is 0.0074
+Trainning batch 408/853 in epoch 12, local loss is 0.0395
+Trainning batch 416/853 in epoch 12, local loss is 0.0908
+Trainning batch 424/853 in epoch 12, local loss is 0.0222
+Trainning batch 432/853 in epoch 12, local loss is 0.1894
+Trainning batch 440/853 in epoch 12, local loss is 0.0764
+Trainning batch 448/853 in epoch 12, local loss is 0.0338
+Trainning batch 456/853 in epoch 12, local loss is 0.0137
+Trainning batch 464/853 in epoch 12, local loss is 0.0409
+Trainning batch 472/853 in epoch 12, local loss is 0.0893
+Trainning batch 480/853 in epoch 12, local loss is 0.1449
+Trainning batch 488/853 in epoch 12, local loss is 0.0491
+Trainning batch 496/853 in epoch 12, local loss is 0.0214
+Trainning batch 504/853 in epoch 12, local loss is 0.0632
+Trainning batch 512/853 in epoch 12, local loss is 0.0527
+Trainning batch 520/853 in epoch 12, local loss is 0.0079
+Trainning batch 528/853 in epoch 12, local loss is 0.0958
+Trainning batch 536/853 in epoch 12, local loss is 0.0036
+Trainning batch 544/853 in epoch 12, local loss is 0.0063
+Trainning batch 552/853 in epoch 12, local loss is 0.0396
+Trainning batch 560/853 in epoch 12, local loss is 0.0178
+Trainning batch 568/853 in epoch 12, local loss is 0.0154
+Trainning batch 576/853 in epoch 12, local loss is 0.0141
+Trainning batch 584/853 in epoch 12, local loss is 0.0158
+Trainning batch 592/853 in epoch 12, local loss is 0.0111
+Trainning batch 600/853 in epoch 12, local loss is 0.0201
+Trainning batch 608/853 in epoch 12, local loss is 0.0113
+Trainning batch 616/853 in epoch 12, local loss is 0.0053
+Trainning batch 624/853 in epoch 12, local loss is 0.0047
+Trainning batch 632/853 in epoch 12, local loss is 0.0087
+Trainning batch 640/853 in epoch 12, local loss is 0.0086
+Trainning batch 648/853 in epoch 12, local loss is 0.0224
+Trainning batch 656/853 in epoch 12, local loss is 0.0071
+Trainning batch 664/853 in epoch 12, local loss is 0.0068
+Trainning batch 672/853 in epoch 12, local loss is 0.0056
+Trainning batch 680/853 in epoch 12, local loss is 0.0151
+Trainning batch 688/853 in epoch 12, local loss is 0.0225
+Trainning batch 696/853 in epoch 12, local loss is 0.0015
+Trainning batch 704/853 in epoch 12, local loss is 0.0053
+Trainning batch 712/853 in epoch 12, local loss is 0.0250
+Trainning batch 720/853 in epoch 12, local loss is 0.0346
+Trainning batch 728/853 in epoch 12, local loss is 0.1134
+Trainning batch 736/853 in epoch 12, local loss is 0.0703
+Trainning batch 744/853 in epoch 12, local loss is 0.0114
+Trainning batch 752/853 in epoch 12, local loss is 0.0319
+Trainning batch 760/853 in epoch 12, local loss is 0.0127
+Trainning batch 768/853 in epoch 12, local loss is 0.0255
+Trainning batch 776/853 in epoch 12, local loss is 0.0544
+Trainning batch 784/853 in epoch 12, local loss is 0.0334
+Trainning batch 792/853 in epoch 12, local loss is 0.0141
+Trainning batch 800/853 in epoch 12, local loss is 0.0062
+Trainning batch 808/853 in epoch 12, local loss is 0.0172
+Trainning batch 816/853 in epoch 12, local loss is 0.0301
+Trainning batch 824/853 in epoch 12, local loss is 0.0014
+Trainning batch 832/853 in epoch 12, local loss is 0.0051
+Trainning batch 840/853 in epoch 12, local loss is 0.0401
+Trainning batch 848/853 in epoch 12, local loss is 0.0261
+Epoch 12
+Validation Loss:     0.0150 Validation Accuracy: 1.000000
+epoch Summary: 2017-12-05 17:48:30.690510: loss = 0.0204 (0.0 examples/sec; 1102.195 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 13, local loss is 0.0067
+Trainning batch 8/853 in epoch 13, local loss is 0.0056
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 16/853 in epoch 13, local loss is 0.0162
+Trainning batch 24/853 in epoch 13, local loss is 0.0384
+Trainning batch 32/853 in epoch 13, local loss is 0.0155
+Trainning batch 40/853 in epoch 13, local loss is 0.0219
+Trainning batch 48/853 in epoch 13, local loss is 0.0361
+Trainning batch 56/853 in epoch 13, local loss is 0.0110
+Trainning batch 64/853 in epoch 13, local loss is 0.0074
+Trainning batch 72/853 in epoch 13, local loss is 0.1249
+Trainning batch 80/853 in epoch 13, local loss is 0.0012
+Trainning batch 88/853 in epoch 13, local loss is 0.0052
+Trainning batch 96/853 in epoch 13, local loss is 0.0147
+Trainning batch 104/853 in epoch 13, local loss is 0.0072
+Trainning batch 112/853 in epoch 13, local loss is 0.0352
+Trainning batch 120/853 in epoch 13, local loss is 0.0075
+Trainning batch 128/853 in epoch 13, local loss is 0.0381
+Trainning batch 136/853 in epoch 13, local loss is 0.0027
+Trainning batch 144/853 in epoch 13, local loss is 0.0039
+Trainning batch 152/853 in epoch 13, local loss is 0.0051
+Trainning batch 160/853 in epoch 13, local loss is 0.0077
+Trainning batch 168/853 in epoch 13, local loss is 0.0111
+Trainning batch 176/853 in epoch 13, local loss is 0.0209
+Trainning batch 184/853 in epoch 13, local loss is 0.0050
+Trainning batch 192/853 in epoch 13, local loss is 0.0032
+Trainning batch 200/853 in epoch 13, local loss is 0.0240
+Trainning batch 208/853 in epoch 13, local loss is 0.0234
+Trainning batch 216/853 in epoch 13, local loss is 0.0034
+Trainning batch 224/853 in epoch 13, local loss is 0.0090
+Trainning batch 232/853 in epoch 13, local loss is 0.0073
+Trainning batch 240/853 in epoch 13, local loss is 0.0018
+Trainning batch 248/853 in epoch 13, local loss is 0.0100
+Trainning batch 256/853 in epoch 13, local loss is 0.0011
+Trainning batch 264/853 in epoch 13, local loss is 0.0077
+Trainning batch 272/853 in epoch 13, local loss is 0.0037
+Trainning batch 280/853 in epoch 13, local loss is 0.0019
+Trainning batch 288/853 in epoch 13, local loss is 0.0055
+Trainning batch 296/853 in epoch 13, local loss is 0.0060
+Trainning batch 304/853 in epoch 13, local loss is 0.0008
+Trainning batch 312/853 in epoch 13, local loss is 0.0033
+Trainning batch 320/853 in epoch 13, local loss is 0.0055
+Trainning batch 328/853 in epoch 13, local loss is 0.0201
+Trainning batch 336/853 in epoch 13, local loss is 0.0020
+Trainning batch 344/853 in epoch 13, local loss is 0.0025
+Trainning batch 352/853 in epoch 13, local loss is 0.0012
+Trainning batch 360/853 in epoch 13, local loss is 0.0056
+Trainning batch 368/853 in epoch 13, local loss is 0.0369
+Trainning batch 376/853 in epoch 13, local loss is 0.0025
+Trainning batch 384/853 in epoch 13, local loss is 0.0056
+Trainning batch 392/853 in epoch 13, local loss is 0.0011
+Trainning batch 400/853 in epoch 13, local loss is 0.0016
+Trainning batch 408/853 in epoch 13, local loss is 0.0535
+Trainning batch 416/853 in epoch 13, local loss is 0.0059
+Trainning batch 424/853 in epoch 13, local loss is 0.0078
+Trainning batch 432/853 in epoch 13, local loss is 0.0062
+Trainning batch 440/853 in epoch 13, local loss is 0.0192
+Trainning batch 448/853 in epoch 13, local loss is 0.0159
+Trainning batch 456/853 in epoch 13, local loss is 0.0069
+Trainning batch 464/853 in epoch 13, local loss is 0.0223
+Trainning batch 472/853 in epoch 13, local loss is 0.0289
+Trainning batch 480/853 in epoch 13, local loss is 0.0279
+Trainning batch 488/853 in epoch 13, local loss is 0.0100
+Trainning batch 496/853 in epoch 13, local loss is 0.0424
+Trainning batch 504/853 in epoch 13, local loss is 0.0151
+Trainning batch 512/853 in epoch 13, local loss is 0.0537
+Trainning batch 520/853 in epoch 13, local loss is 0.0125
+Trainning batch 528/853 in epoch 13, local loss is 0.1349
+Trainning batch 536/853 in epoch 13, local loss is 0.1329
+Trainning batch 544/853 in epoch 13, local loss is 0.0509
+Trainning batch 552/853 in epoch 13, local loss is 0.1309
+Trainning batch 560/853 in epoch 13, local loss is 0.0290
+Trainning batch 568/853 in epoch 13, local loss is 0.1248
+Trainning batch 576/853 in epoch 13, local loss is 0.1199
+Trainning batch 584/853 in epoch 13, local loss is 0.0493
+Trainning batch 592/853 in epoch 13, local loss is 0.0427
+Trainning batch 600/853 in epoch 13, local loss is 0.0343
+Trainning batch 608/853 in epoch 13, local loss is 0.0172
+Trainning batch 616/853 in epoch 13, local loss is 0.0931
+Trainning batch 624/853 in epoch 13, local loss is 0.0384
+Trainning batch 632/853 in epoch 13, local loss is 0.0166
+Trainning batch 640/853 in epoch 13, local loss is 0.0138
+Trainning batch 648/853 in epoch 13, local loss is 0.0153
+Trainning batch 656/853 in epoch 13, local loss is 0.0561
+Trainning batch 664/853 in epoch 13, local loss is 0.1070
+Trainning batch 672/853 in epoch 13, local loss is 0.0183
+Trainning batch 680/853 in epoch 13, local loss is 0.0496
+Trainning batch 688/853 in epoch 13, local loss is 0.0206
+Trainning batch 696/853 in epoch 13, local loss is 0.0090
+Trainning batch 704/853 in epoch 13, local loss is 0.0207
+Trainning batch 712/853 in epoch 13, local loss is 0.0521
+Trainning batch 720/853 in epoch 13, local loss is 0.0058
+Trainning batch 728/853 in epoch 13, local loss is 0.0130
+Trainning batch 736/853 in epoch 13, local loss is 0.0069
+Trainning batch 744/853 in epoch 13, local loss is 0.0206
+Trainning batch 752/853 in epoch 13, local loss is 0.2589
+Trainning batch 760/853 in epoch 13, local loss is 0.2858
+Trainning batch 768/853 in epoch 13, local loss is 0.0097
+Trainning batch 776/853 in epoch 13, local loss is 0.0279
+Trainning batch 784/853 in epoch 13, local loss is 0.0875
+Trainning batch 792/853 in epoch 13, local loss is 0.0136
+Trainning batch 800/853 in epoch 13, local loss is 0.1000
+Trainning batch 808/853 in epoch 13, local loss is 0.0268
+Trainning batch 816/853 in epoch 13, local loss is 0.0929
+Trainning batch 824/853 in epoch 13, local loss is 0.0166
+Trainning batch 832/853 in epoch 13, local loss is 0.0317
+Trainning batch 840/853 in epoch 13, local loss is 0.1546
+Trainning batch 848/853 in epoch 13, local loss is 0.1671
+Epoch 13
+Validation Loss:     0.1074 Validation Accuracy: 0.975000
+epoch Summary: 2017-12-05 18:06:59.409435: loss = 0.1205 (0.0 examples/sec; 1108.718 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 14, local loss is 0.0091
+Trainning batch 8/853 in epoch 14, local loss is 0.0204
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 1 0]
+ [0 0 0 ..., 1 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 16/853 in epoch 14, local loss is 0.0436
+Trainning batch 24/853 in epoch 14, local loss is 0.0767
+Trainning batch 32/853 in epoch 14, local loss is 0.0459
+Trainning batch 40/853 in epoch 14, local loss is 0.0049
+Trainning batch 48/853 in epoch 14, local loss is 0.0578
+Trainning batch 56/853 in epoch 14, local loss is 0.0253
+Trainning batch 64/853 in epoch 14, local loss is 0.0755
+Trainning batch 72/853 in epoch 14, local loss is 0.0277
+Trainning batch 80/853 in epoch 14, local loss is 0.0417
+Trainning batch 88/853 in epoch 14, local loss is 0.0261
+Trainning batch 96/853 in epoch 14, local loss is 0.0208
+Trainning batch 104/853 in epoch 14, local loss is 0.0121
+Trainning batch 112/853 in epoch 14, local loss is 0.0105
+Trainning batch 120/853 in epoch 14, local loss is 0.0033
+Trainning batch 128/853 in epoch 14, local loss is 0.0130
+Trainning batch 136/853 in epoch 14, local loss is 0.0018
+Trainning batch 144/853 in epoch 14, local loss is 0.0065
+Trainning batch 152/853 in epoch 14, local loss is 0.0013
+Trainning batch 160/853 in epoch 14, local loss is 0.0120
+Trainning batch 168/853 in epoch 14, local loss is 0.0585
+Trainning batch 176/853 in epoch 14, local loss is 0.0013
+Trainning batch 184/853 in epoch 14, local loss is 0.0043
+Trainning batch 192/853 in epoch 14, local loss is 0.0150
+Trainning batch 200/853 in epoch 14, local loss is 0.0130
+Trainning batch 208/853 in epoch 14, local loss is 0.0017
+Trainning batch 216/853 in epoch 14, local loss is 0.0125
+Trainning batch 224/853 in epoch 14, local loss is 0.0034
+Trainning batch 232/853 in epoch 14, local loss is 0.0072
+Trainning batch 240/853 in epoch 14, local loss is 0.0492
+Trainning batch 248/853 in epoch 14, local loss is 0.1059
+Trainning batch 256/853 in epoch 14, local loss is 0.0172
+Trainning batch 264/853 in epoch 14, local loss is 0.1248
+Trainning batch 272/853 in epoch 14, local loss is 0.0090
+Trainning batch 280/853 in epoch 14, local loss is 0.0350
+Trainning batch 288/853 in epoch 14, local loss is 0.0668
+Trainning batch 296/853 in epoch 14, local loss is 0.1450
+Trainning batch 304/853 in epoch 14, local loss is 0.0282
+Trainning batch 312/853 in epoch 14, local loss is 0.0988
+Trainning batch 320/853 in epoch 14, local loss is 0.0864
+Trainning batch 328/853 in epoch 14, local loss is 0.0327
+Trainning batch 336/853 in epoch 14, local loss is 0.0499
+Trainning batch 344/853 in epoch 14, local loss is 0.0225
+Trainning batch 352/853 in epoch 14, local loss is 0.0120
+Trainning batch 360/853 in epoch 14, local loss is 0.0355
+Trainning batch 368/853 in epoch 14, local loss is 0.0192
+Trainning batch 376/853 in epoch 14, local loss is 0.0349
+Trainning batch 384/853 in epoch 14, local loss is 0.0457
+Trainning batch 392/853 in epoch 14, local loss is 0.0101
+Trainning batch 400/853 in epoch 14, local loss is 0.0032
+Trainning batch 408/853 in epoch 14, local loss is 0.0635
+Trainning batch 416/853 in epoch 14, local loss is 0.1299
+Trainning batch 424/853 in epoch 14, local loss is 0.0314
+Trainning batch 432/853 in epoch 14, local loss is 0.0081
+Trainning batch 440/853 in epoch 14, local loss is 0.1319
+Trainning batch 448/853 in epoch 14, local loss is 0.0033
+Trainning batch 456/853 in epoch 14, local loss is 0.1214
+Trainning batch 464/853 in epoch 14, local loss is 0.0282
+Trainning batch 472/853 in epoch 14, local loss is 0.0202
+Trainning batch 480/853 in epoch 14, local loss is 0.0130
+Trainning batch 488/853 in epoch 14, local loss is 0.0115
+Trainning batch 496/853 in epoch 14, local loss is 0.0090
+Trainning batch 504/853 in epoch 14, local loss is 0.0734
+Trainning batch 512/853 in epoch 14, local loss is 0.0070
+Trainning batch 520/853 in epoch 14, local loss is 0.0268
+Trainning batch 528/853 in epoch 14, local loss is 0.0228
+Trainning batch 536/853 in epoch 14, local loss is 0.0184
+Trainning batch 544/853 in epoch 14, local loss is 0.0054
+Trainning batch 552/853 in epoch 14, local loss is 0.0066
+Trainning batch 560/853 in epoch 14, local loss is 0.0025
+Trainning batch 568/853 in epoch 14, local loss is 0.0147
+Trainning batch 576/853 in epoch 14, local loss is 0.0041
+Trainning batch 584/853 in epoch 14, local loss is 0.0031
+Trainning batch 592/853 in epoch 14, local loss is 0.0066
+Trainning batch 600/853 in epoch 14, local loss is 0.0037
+Trainning batch 608/853 in epoch 14, local loss is 0.0300
+Trainning batch 616/853 in epoch 14, local loss is 0.0049
+Trainning batch 624/853 in epoch 14, local loss is 0.0026
+Trainning batch 632/853 in epoch 14, local loss is 0.0053
+Trainning batch 640/853 in epoch 14, local loss is 0.0041
+Trainning batch 648/853 in epoch 14, local loss is 0.0081
+Trainning batch 656/853 in epoch 14, local loss is 0.0047
+Trainning batch 664/853 in epoch 14, local loss is 0.0007
+Trainning batch 672/853 in epoch 14, local loss is 0.0054
+Trainning batch 680/853 in epoch 14, local loss is 0.0070
+Trainning batch 688/853 in epoch 14, local loss is 0.0055
+Trainning batch 696/853 in epoch 14, local loss is 0.0007
+Trainning batch 704/853 in epoch 14, local loss is 0.0018
+Trainning batch 712/853 in epoch 14, local loss is 0.0015
+Trainning batch 720/853 in epoch 14, local loss is 0.0038
+Trainning batch 728/853 in epoch 14, local loss is 0.0123
+Trainning batch 736/853 in epoch 14, local loss is 0.0058
+Trainning batch 744/853 in epoch 14, local loss is 0.0024
+Trainning batch 752/853 in epoch 14, local loss is 0.0043
+Trainning batch 760/853 in epoch 14, local loss is 0.0045
+Trainning batch 768/853 in epoch 14, local loss is 0.0107
+Trainning batch 776/853 in epoch 14, local loss is 0.0036
+Trainning batch 784/853 in epoch 14, local loss is 0.0087
+Trainning batch 792/853 in epoch 14, local loss is 0.0040
+Trainning batch 800/853 in epoch 14, local loss is 0.0085
+Trainning batch 808/853 in epoch 14, local loss is 0.0052
+Trainning batch 816/853 in epoch 14, local loss is 0.0052
+Trainning batch 824/853 in epoch 14, local loss is 0.0022
+Trainning batch 832/853 in epoch 14, local loss is 0.0011
+Trainning batch 840/853 in epoch 14, local loss is 0.0037
+Trainning batch 848/853 in epoch 14, local loss is 0.0025
+Epoch 14
+Validation Loss:     0.0126 Validation Accuracy: 1.000000
+epoch Summary: 2017-12-05 18:25:37.454790: loss = 0.0092 (0.0 examples/sec; 1118.045 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 15, local loss is 0.0016
+Trainning batch 8/853 in epoch 15, local loss is 0.0046
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 1]]
+Trainning batch 16/853 in epoch 15, local loss is 0.0391
+Trainning batch 24/853 in epoch 15, local loss is 0.0084
+Trainning batch 32/853 in epoch 15, local loss is 0.0051
+Trainning batch 40/853 in epoch 15, local loss is 0.0053
+Trainning batch 48/853 in epoch 15, local loss is 0.0344
+Trainning batch 56/853 in epoch 15, local loss is 0.0023
+Trainning batch 64/853 in epoch 15, local loss is 0.0281
+Trainning batch 72/853 in epoch 15, local loss is 0.0024
+Trainning batch 80/853 in epoch 15, local loss is 0.0021
+Trainning batch 88/853 in epoch 15, local loss is 0.0579
+Trainning batch 96/853 in epoch 15, local loss is 0.0066
+Trainning batch 104/853 in epoch 15, local loss is 0.0023
+Trainning batch 112/853 in epoch 15, local loss is 0.0039
+Trainning batch 120/853 in epoch 15, local loss is 0.0314
+Trainning batch 128/853 in epoch 15, local loss is 0.0072
+Trainning batch 136/853 in epoch 15, local loss is 0.0019
+Trainning batch 144/853 in epoch 15, local loss is 0.0071
+Trainning batch 152/853 in epoch 15, local loss is 0.0010
+Trainning batch 160/853 in epoch 15, local loss is 0.0034
+Trainning batch 168/853 in epoch 15, local loss is 0.0040
+Trainning batch 176/853 in epoch 15, local loss is 0.0050
+Trainning batch 184/853 in epoch 15, local loss is 0.0060
+Trainning batch 192/853 in epoch 15, local loss is 0.0024
+Trainning batch 200/853 in epoch 15, local loss is 0.0824
+Trainning batch 208/853 in epoch 15, local loss is 0.0029
+Trainning batch 216/853 in epoch 15, local loss is 0.0049
+Trainning batch 224/853 in epoch 15, local loss is 0.0015
+Trainning batch 232/853 in epoch 15, local loss is 0.0017
+Trainning batch 240/853 in epoch 15, local loss is 0.0045
+Trainning batch 248/853 in epoch 15, local loss is 0.0089
+Trainning batch 256/853 in epoch 15, local loss is 0.0022
+Trainning batch 264/853 in epoch 15, local loss is 0.0027
+Trainning batch 272/853 in epoch 15, local loss is 0.0014
+Trainning batch 280/853 in epoch 15, local loss is 0.0007
+Trainning batch 288/853 in epoch 15, local loss is 0.0073
+Trainning batch 296/853 in epoch 15, local loss is 0.0156
+Trainning batch 304/853 in epoch 15, local loss is 0.0011
+Trainning batch 312/853 in epoch 15, local loss is 0.0045
+Trainning batch 320/853 in epoch 15, local loss is 0.0045
+Trainning batch 328/853 in epoch 15, local loss is 0.0034
+Trainning batch 336/853 in epoch 15, local loss is 0.0010
+Trainning batch 344/853 in epoch 15, local loss is 0.0008
+Trainning batch 352/853 in epoch 15, local loss is 0.0033
+Trainning batch 360/853 in epoch 15, local loss is 0.0067
+Trainning batch 368/853 in epoch 15, local loss is 0.0097
+Trainning batch 376/853 in epoch 15, local loss is 0.0132
+Trainning batch 384/853 in epoch 15, local loss is 0.0112
+Trainning batch 392/853 in epoch 15, local loss is 0.0008
+Trainning batch 400/853 in epoch 15, local loss is 0.0022
+Trainning batch 408/853 in epoch 15, local loss is 0.0014
+Trainning batch 416/853 in epoch 15, local loss is 0.0018
+Trainning batch 424/853 in epoch 15, local loss is 0.0028
+Trainning batch 432/853 in epoch 15, local loss is 0.0129
+Trainning batch 440/853 in epoch 15, local loss is 0.0032
+Trainning batch 448/853 in epoch 15, local loss is 0.0014
+Trainning batch 456/853 in epoch 15, local loss is 0.0057
+Trainning batch 464/853 in epoch 15, local loss is 0.1246
+Trainning batch 472/853 in epoch 15, local loss is 0.0158
+Trainning batch 480/853 in epoch 15, local loss is 0.0212
+Trainning batch 488/853 in epoch 15, local loss is 0.0577
+Trainning batch 496/853 in epoch 15, local loss is 0.0730
+Trainning batch 504/853 in epoch 15, local loss is 0.1277
+Trainning batch 512/853 in epoch 15, local loss is 0.0435
+Trainning batch 520/853 in epoch 15, local loss is 0.0114
+Trainning batch 528/853 in epoch 15, local loss is 0.1717
+Trainning batch 536/853 in epoch 15, local loss is 0.0482
+Trainning batch 544/853 in epoch 15, local loss is 0.1695
+Trainning batch 552/853 in epoch 15, local loss is 0.1947
+Trainning batch 560/853 in epoch 15, local loss is 0.0571
+Trainning batch 568/853 in epoch 15, local loss is 0.1635
+Trainning batch 576/853 in epoch 15, local loss is 0.0781
+Trainning batch 584/853 in epoch 15, local loss is 0.0847
+Trainning batch 592/853 in epoch 15, local loss is 0.0934
+Trainning batch 600/853 in epoch 15, local loss is 0.0093
+Trainning batch 608/853 in epoch 15, local loss is 0.0337
+Trainning batch 616/853 in epoch 15, local loss is 0.0751
+Trainning batch 624/853 in epoch 15, local loss is 0.1080
+Trainning batch 632/853 in epoch 15, local loss is 0.0405
+Trainning batch 640/853 in epoch 15, local loss is 0.0263
+Trainning batch 648/853 in epoch 15, local loss is 0.0033
+Trainning batch 656/853 in epoch 15, local loss is 0.0242
+Trainning batch 664/853 in epoch 15, local loss is 0.0019
+Trainning batch 672/853 in epoch 15, local loss is 0.0042
+Trainning batch 680/853 in epoch 15, local loss is 0.0238
+Trainning batch 688/853 in epoch 15, local loss is 0.0121
+Trainning batch 696/853 in epoch 15, local loss is 0.0035
+Trainning batch 704/853 in epoch 15, local loss is 0.0059
+Trainning batch 712/853 in epoch 15, local loss is 0.0480
+Trainning batch 720/853 in epoch 15, local loss is 0.0149
+Trainning batch 728/853 in epoch 15, local loss is 0.0382
+Trainning batch 736/853 in epoch 15, local loss is 0.0175
+Trainning batch 744/853 in epoch 15, local loss is 0.0249
+Trainning batch 752/853 in epoch 15, local loss is 0.1262
+Trainning batch 760/853 in epoch 15, local loss is 0.0105
+Trainning batch 768/853 in epoch 15, local loss is 0.0044
+Trainning batch 776/853 in epoch 15, local loss is 0.0115
+Trainning batch 784/853 in epoch 15, local loss is 0.0068
+Trainning batch 792/853 in epoch 15, local loss is 0.0047
+Trainning batch 800/853 in epoch 15, local loss is 0.0095
+Trainning batch 808/853 in epoch 15, local loss is 0.0104
+Trainning batch 816/853 in epoch 15, local loss is 0.0089
+Trainning batch 824/853 in epoch 15, local loss is 0.0052
+Trainning batch 832/853 in epoch 15, local loss is 0.0034
+Trainning batch 840/853 in epoch 15, local loss is 0.0388
+Trainning batch 848/853 in epoch 15, local loss is 0.0427
+Epoch 15
+Validation Loss:     0.0047 Validation Accuracy: 1.000000
+epoch Summary: 2017-12-05 18:44:17.955810: loss = 0.0321 (0.0 examples/sec; 1120.501 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 16, local loss is 0.0020
+Trainning batch 8/853 in epoch 16, local loss is 0.0285
+
+[[0 0 0 ..., 0 0 0]
+ [0 1 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 16/853 in epoch 16, local loss is 0.0016
+Trainning batch 24/853 in epoch 16, local loss is 0.0058
+Trainning batch 32/853 in epoch 16, local loss is 0.0016
+Trainning batch 40/853 in epoch 16, local loss is 0.0125
+Trainning batch 48/853 in epoch 16, local loss is 0.0014
+Trainning batch 56/853 in epoch 16, local loss is 0.0015
+Trainning batch 64/853 in epoch 16, local loss is 0.1836
+Trainning batch 72/853 in epoch 16, local loss is 0.0033
+Trainning batch 80/853 in epoch 16, local loss is 0.0294
+Trainning batch 88/853 in epoch 16, local loss is 0.0068
+Trainning batch 96/853 in epoch 16, local loss is 0.0180
+Trainning batch 104/853 in epoch 16, local loss is 0.0026
+Trainning batch 112/853 in epoch 16, local loss is 0.0043
+Trainning batch 120/853 in epoch 16, local loss is 0.0401
+Trainning batch 128/853 in epoch 16, local loss is 0.0240
+Trainning batch 136/853 in epoch 16, local loss is 0.0042
+Trainning batch 144/853 in epoch 16, local loss is 0.0157
+Trainning batch 152/853 in epoch 16, local loss is 0.0013
+Trainning batch 160/853 in epoch 16, local loss is 0.0460
+Trainning batch 168/853 in epoch 16, local loss is 0.0037
+Trainning batch 176/853 in epoch 16, local loss is 0.0018
+Trainning batch 184/853 in epoch 16, local loss is 0.0009
+Trainning batch 192/853 in epoch 16, local loss is 0.0011
+Trainning batch 200/853 in epoch 16, local loss is 0.0016
+Trainning batch 208/853 in epoch 16, local loss is 0.0010
+Trainning batch 216/853 in epoch 16, local loss is 0.0033
+Trainning batch 224/853 in epoch 16, local loss is 0.0030
+Trainning batch 232/853 in epoch 16, local loss is 0.0019
+Trainning batch 240/853 in epoch 16, local loss is 0.0046
+Trainning batch 248/853 in epoch 16, local loss is 0.0053
+Trainning batch 256/853 in epoch 16, local loss is 0.0014
+Trainning batch 264/853 in epoch 16, local loss is 0.0026
+Trainning batch 272/853 in epoch 16, local loss is 0.0010
+Trainning batch 280/853 in epoch 16, local loss is 0.0010
+Trainning batch 288/853 in epoch 16, local loss is 0.0058
+Trainning batch 296/853 in epoch 16, local loss is 0.0059
+Trainning batch 304/853 in epoch 16, local loss is 0.0007
+Trainning batch 312/853 in epoch 16, local loss is 0.0024
+Trainning batch 320/853 in epoch 16, local loss is 0.0047
+Trainning batch 328/853 in epoch 16, local loss is 0.0097
+Trainning batch 336/853 in epoch 16, local loss is 0.0014
+Trainning batch 344/853 in epoch 16, local loss is 0.0031
+Trainning batch 352/853 in epoch 16, local loss is 0.0012
+Trainning batch 360/853 in epoch 16, local loss is 0.0106
+Trainning batch 368/853 in epoch 16, local loss is 0.0039
+Trainning batch 376/853 in epoch 16, local loss is 0.0046
+Trainning batch 384/853 in epoch 16, local loss is 0.0026
+Trainning batch 392/853 in epoch 16, local loss is 0.0012
+Trainning batch 400/853 in epoch 16, local loss is 0.0009
+Trainning batch 408/853 in epoch 16, local loss is 0.0026
+Trainning batch 416/853 in epoch 16, local loss is 0.0005
+Trainning batch 424/853 in epoch 16, local loss is 0.0012
+Trainning batch 432/853 in epoch 16, local loss is 0.0018
+Trainning batch 440/853 in epoch 16, local loss is 0.0005
+Trainning batch 448/853 in epoch 16, local loss is 0.0044
+Trainning batch 456/853 in epoch 16, local loss is 0.0297
+Trainning batch 464/853 in epoch 16, local loss is 0.0174
+Trainning batch 472/853 in epoch 16, local loss is 0.0030
+Trainning batch 480/853 in epoch 16, local loss is 0.0085
+Trainning batch 488/853 in epoch 16, local loss is 0.0065
+Trainning batch 496/853 in epoch 16, local loss is 0.0242
+Trainning batch 504/853 in epoch 16, local loss is 0.0326
+Trainning batch 512/853 in epoch 16, local loss is 0.0025
+Trainning batch 520/853 in epoch 16, local loss is 0.0023
+Trainning batch 528/853 in epoch 16, local loss is 0.0083
+Trainning batch 536/853 in epoch 16, local loss is 0.0008
+Trainning batch 544/853 in epoch 16, local loss is 0.0039
+Trainning batch 552/853 in epoch 16, local loss is 0.0071
+Trainning batch 560/853 in epoch 16, local loss is 0.0027
+Trainning batch 568/853 in epoch 16, local loss is 0.0093
+Trainning batch 576/853 in epoch 16, local loss is 0.0166
+Trainning batch 584/853 in epoch 16, local loss is 0.0111
+Trainning batch 592/853 in epoch 16, local loss is 0.0069
+Trainning batch 600/853 in epoch 16, local loss is 0.0062
+Trainning batch 608/853 in epoch 16, local loss is 0.1240
+Trainning batch 616/853 in epoch 16, local loss is 0.0301
+Trainning batch 624/853 in epoch 16, local loss is 0.0646
+Trainning batch 632/853 in epoch 16, local loss is 0.0213
+Trainning batch 640/853 in epoch 16, local loss is 0.0171
+Trainning batch 648/853 in epoch 16, local loss is 0.0117
+Trainning batch 656/853 in epoch 16, local loss is 0.0519
+Trainning batch 664/853 in epoch 16, local loss is 0.0175
+Trainning batch 672/853 in epoch 16, local loss is 0.0301
+Trainning batch 680/853 in epoch 16, local loss is 0.0881
+Trainning batch 688/853 in epoch 16, local loss is 0.1238
+Trainning batch 696/853 in epoch 16, local loss is 0.0888
+Trainning batch 704/853 in epoch 16, local loss is 0.0719
+Trainning batch 712/853 in epoch 16, local loss is 0.1878
+Trainning batch 720/853 in epoch 16, local loss is 0.0439
+Trainning batch 728/853 in epoch 16, local loss is 0.0773
+Trainning batch 736/853 in epoch 16, local loss is 0.0737
+Trainning batch 744/853 in epoch 16, local loss is 0.0506
+Trainning batch 752/853 in epoch 16, local loss is 0.0340
+Trainning batch 760/853 in epoch 16, local loss is 0.1304
+Trainning batch 768/853 in epoch 16, local loss is 0.0732
+Trainning batch 776/853 in epoch 16, local loss is 0.0302
+Trainning batch 784/853 in epoch 16, local loss is 0.0743
+Trainning batch 792/853 in epoch 16, local loss is 0.1287
+Trainning batch 800/853 in epoch 16, local loss is 0.0539
+Trainning batch 808/853 in epoch 16, local loss is 0.1481
+Trainning batch 816/853 in epoch 16, local loss is 0.0597
+Trainning batch 824/853 in epoch 16, local loss is 0.0099
+Trainning batch 832/853 in epoch 16, local loss is 0.0255
+Trainning batch 840/853 in epoch 16, local loss is 0.0180
+Trainning batch 848/853 in epoch 16, local loss is 0.0179
+Epoch 16
+Validation Loss:     0.0411 Validation Accuracy: 1.000000
+epoch Summary: 2017-12-05 19:02:59.143272: loss = 0.0263 (0.0 examples/sec; 1121.187 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 17, local loss is 0.0103
+Trainning batch 8/853 in epoch 17, local loss is 0.0394
+
+[[0 0 0 ..., 0 0 1]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 1]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 16/853 in epoch 17, local loss is 0.0899
+Trainning batch 24/853 in epoch 17, local loss is 0.0107
+Trainning batch 32/853 in epoch 17, local loss is 0.0316
+Trainning batch 40/853 in epoch 17, local loss is 0.0649
+Trainning batch 48/853 in epoch 17, local loss is 0.0586
+Trainning batch 56/853 in epoch 17, local loss is 0.0109
+Trainning batch 64/853 in epoch 17, local loss is 0.0208
+Trainning batch 72/853 in epoch 17, local loss is 0.0092
+Trainning batch 80/853 in epoch 17, local loss is 0.0239
+Trainning batch 88/853 in epoch 17, local loss is 0.0361
+Trainning batch 96/853 in epoch 17, local loss is 0.0162
+Trainning batch 104/853 in epoch 17, local loss is 0.0043
+Trainning batch 112/853 in epoch 17, local loss is 0.0162
+Trainning batch 120/853 in epoch 17, local loss is 0.0104
+Trainning batch 128/853 in epoch 17, local loss is 0.0572
+Trainning batch 136/853 in epoch 17, local loss is 0.0039
+Trainning batch 144/853 in epoch 17, local loss is 0.1242
+Trainning batch 152/853 in epoch 17, local loss is 0.0009
+Trainning batch 160/853 in epoch 17, local loss is 0.0074
+Trainning batch 168/853 in epoch 17, local loss is 0.0282
+Trainning batch 176/853 in epoch 17, local loss is 0.0059
+Trainning batch 184/853 in epoch 17, local loss is 0.0018
+Trainning batch 192/853 in epoch 17, local loss is 0.0155
+Trainning batch 200/853 in epoch 17, local loss is 0.0061
+Trainning batch 208/853 in epoch 17, local loss is 0.0030
+Trainning batch 216/853 in epoch 17, local loss is 0.0020
+Trainning batch 224/853 in epoch 17, local loss is 0.0027
+Trainning batch 232/853 in epoch 17, local loss is 0.0007
+Trainning batch 240/853 in epoch 17, local loss is 0.0036
+Trainning batch 248/853 in epoch 17, local loss is 0.0051
+Trainning batch 256/853 in epoch 17, local loss is 0.0014
+Trainning batch 264/853 in epoch 17, local loss is 0.0132
+Trainning batch 272/853 in epoch 17, local loss is 0.0008
+Trainning batch 280/853 in epoch 17, local loss is 0.0016
+Trainning batch 288/853 in epoch 17, local loss is 0.0037
+Trainning batch 296/853 in epoch 17, local loss is 0.0034
+Trainning batch 304/853 in epoch 17, local loss is 0.0017
+Trainning batch 312/853 in epoch 17, local loss is 0.0060
+Trainning batch 320/853 in epoch 17, local loss is 0.0032
+Trainning batch 328/853 in epoch 17, local loss is 0.0030
+Trainning batch 336/853 in epoch 17, local loss is 0.0018
+Trainning batch 344/853 in epoch 17, local loss is 0.0033
+Trainning batch 352/853 in epoch 17, local loss is 0.0032
+Trainning batch 360/853 in epoch 17, local loss is 0.0027
+Trainning batch 368/853 in epoch 17, local loss is 0.0445
+Trainning batch 376/853 in epoch 17, local loss is 0.0022
+Trainning batch 384/853 in epoch 17, local loss is 0.0071
+Trainning batch 392/853 in epoch 17, local loss is 0.0011
+Trainning batch 400/853 in epoch 17, local loss is 0.0101
+Trainning batch 408/853 in epoch 17, local loss is 0.0337
+Trainning batch 416/853 in epoch 17, local loss is 0.0017
+Trainning batch 424/853 in epoch 17, local loss is 0.0067
+Trainning batch 432/853 in epoch 17, local loss is 0.0162
+Trainning batch 440/853 in epoch 17, local loss is 0.0018
+Trainning batch 448/853 in epoch 17, local loss is 0.0125
+Trainning batch 456/853 in epoch 17, local loss is 0.0049
+Trainning batch 464/853 in epoch 17, local loss is 0.0017
+Trainning batch 472/853 in epoch 17, local loss is 0.0152
+Trainning batch 480/853 in epoch 17, local loss is 0.0254
+Trainning batch 488/853 in epoch 17, local loss is 0.0028
+Trainning batch 496/853 in epoch 17, local loss is 0.0021
+Trainning batch 504/853 in epoch 17, local loss is 0.0226
+Trainning batch 512/853 in epoch 17, local loss is 0.0016
+Trainning batch 520/853 in epoch 17, local loss is 0.0021
+Trainning batch 528/853 in epoch 17, local loss is 0.0130
+Trainning batch 536/853 in epoch 17, local loss is 0.0271
+Trainning batch 544/853 in epoch 17, local loss is 0.0028
+Trainning batch 552/853 in epoch 17, local loss is 0.0052
+Trainning batch 560/853 in epoch 17, local loss is 0.0045
+Trainning batch 568/853 in epoch 17, local loss is 0.0143
+Trainning batch 576/853 in epoch 17, local loss is 0.0101
+Trainning batch 584/853 in epoch 17, local loss is 0.0143
+Trainning batch 592/853 in epoch 17, local loss is 0.0215
+Trainning batch 600/853 in epoch 17, local loss is 0.0372
+Trainning batch 608/853 in epoch 17, local loss is 0.0050
+Trainning batch 616/853 in epoch 17, local loss is 0.0095
+Trainning batch 624/853 in epoch 17, local loss is 0.0540
+Trainning batch 632/853 in epoch 17, local loss is 0.0059
+Trainning batch 640/853 in epoch 17, local loss is 0.0404
+Trainning batch 648/853 in epoch 17, local loss is 0.0062
+Trainning batch 656/853 in epoch 17, local loss is 0.0038
+Trainning batch 664/853 in epoch 17, local loss is 0.0031
+Trainning batch 672/853 in epoch 17, local loss is 0.0010
+Trainning batch 680/853 in epoch 17, local loss is 0.0020
+Trainning batch 688/853 in epoch 17, local loss is 0.0138
+Trainning batch 696/853 in epoch 17, local loss is 0.0009
+Trainning batch 704/853 in epoch 17, local loss is 0.0060
+Trainning batch 712/853 in epoch 17, local loss is 0.0477
+Trainning batch 720/853 in epoch 17, local loss is 0.1515
+Trainning batch 728/853 in epoch 17, local loss is 0.0301
+Trainning batch 736/853 in epoch 17, local loss is 0.0341
+Trainning batch 744/853 in epoch 17, local loss is 0.0413
+Trainning batch 752/853 in epoch 17, local loss is 0.0555
+Trainning batch 760/853 in epoch 17, local loss is 0.0992
+Trainning batch 768/853 in epoch 17, local loss is 0.0536
+Trainning batch 776/853 in epoch 17, local loss is 0.1256
+Trainning batch 784/853 in epoch 17, local loss is 0.1757
+Trainning batch 792/853 in epoch 17, local loss is 0.0705
+Trainning batch 800/853 in epoch 17, local loss is 0.0841
+Trainning batch 808/853 in epoch 17, local loss is 0.1353
+Trainning batch 816/853 in epoch 17, local loss is 0.0326
+Trainning batch 824/853 in epoch 17, local loss is 0.0106
+Trainning batch 832/853 in epoch 17, local loss is 0.0069
+Trainning batch 840/853 in epoch 17, local loss is 0.0106
+Trainning batch 848/853 in epoch 17, local loss is 0.0289
+Epoch 17
+Validation Loss:     0.0618 Validation Accuracy: 0.975000
+epoch Summary: 2017-12-05 19:21:48.121709: loss = 0.0201 (0.0 examples/sec; 1128.978 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 18, local loss is 0.0427
+Trainning batch 8/853 in epoch 18, local loss is 0.0079
+Trainning batch 16/853 in epoch 18, local loss is 0.0888
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 1]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 24/853 in epoch 18, local loss is 0.0153
+Trainning batch 32/853 in epoch 18, local loss is 0.0144
+Trainning batch 40/853 in epoch 18, local loss is 0.0117
+Trainning batch 48/853 in epoch 18, local loss is 0.1010
+Trainning batch 56/853 in epoch 18, local loss is 0.1624
+Trainning batch 64/853 in epoch 18, local loss is 0.0495
+Trainning batch 72/853 in epoch 18, local loss is 0.1204
+Trainning batch 80/853 in epoch 18, local loss is 0.0076
+Trainning batch 88/853 in epoch 18, local loss is 0.0290
+Trainning batch 96/853 in epoch 18, local loss is 0.0108
+Trainning batch 104/853 in epoch 18, local loss is 0.0154
+Trainning batch 112/853 in epoch 18, local loss is 0.0077
+Trainning batch 120/853 in epoch 18, local loss is 0.0234
+Trainning batch 128/853 in epoch 18, local loss is 0.0109
+Trainning batch 136/853 in epoch 18, local loss is 0.0086
+Trainning batch 144/853 in epoch 18, local loss is 0.0072
+Trainning batch 152/853 in epoch 18, local loss is 0.0067
+Trainning batch 160/853 in epoch 18, local loss is 0.0062
+Trainning batch 168/853 in epoch 18, local loss is 0.0120
+Trainning batch 176/853 in epoch 18, local loss is 0.0283
+Trainning batch 184/853 in epoch 18, local loss is 0.0018
+Trainning batch 192/853 in epoch 18, local loss is 0.0426
+Trainning batch 200/853 in epoch 18, local loss is 0.0169
+Trainning batch 208/853 in epoch 18, local loss is 0.0047
+Trainning batch 216/853 in epoch 18, local loss is 0.0017
+Trainning batch 224/853 in epoch 18, local loss is 0.0085
+Trainning batch 232/853 in epoch 18, local loss is 0.0013
+Trainning batch 240/853 in epoch 18, local loss is 0.0010
+Trainning batch 248/853 in epoch 18, local loss is 0.0084
+Trainning batch 256/853 in epoch 18, local loss is 0.0018
+Trainning batch 264/853 in epoch 18, local loss is 0.0061
+Trainning batch 272/853 in epoch 18, local loss is 0.0021
+Trainning batch 280/853 in epoch 18, local loss is 0.0013
+Trainning batch 288/853 in epoch 18, local loss is 0.0055
+Trainning batch 296/853 in epoch 18, local loss is 0.0026
+Trainning batch 304/853 in epoch 18, local loss is 0.0015
+Trainning batch 312/853 in epoch 18, local loss is 0.0047
+Trainning batch 320/853 in epoch 18, local loss is 0.0043
+Trainning batch 328/853 in epoch 18, local loss is 0.0112
+Trainning batch 336/853 in epoch 18, local loss is 0.0015
+Trainning batch 344/853 in epoch 18, local loss is 0.0019
+Trainning batch 352/853 in epoch 18, local loss is 0.0014
+Trainning batch 360/853 in epoch 18, local loss is 0.0031
+Trainning batch 368/853 in epoch 18, local loss is 0.0024
+Trainning batch 376/853 in epoch 18, local loss is 0.0059
+Trainning batch 384/853 in epoch 18, local loss is 0.0250
+Trainning batch 392/853 in epoch 18, local loss is 0.0019
+Trainning batch 400/853 in epoch 18, local loss is 0.0054
+Trainning batch 408/853 in epoch 18, local loss is 0.0241
+Trainning batch 416/853 in epoch 18, local loss is 0.0024
+Trainning batch 424/853 in epoch 18, local loss is 0.0159
+Trainning batch 432/853 in epoch 18, local loss is 0.0081
+Trainning batch 440/853 in epoch 18, local loss is 0.0025
+Trainning batch 448/853 in epoch 18, local loss is 0.0091
+Trainning batch 456/853 in epoch 18, local loss is 0.0410
+Trainning batch 464/853 in epoch 18, local loss is 0.0026
+Trainning batch 472/853 in epoch 18, local loss is 0.0024
+Trainning batch 480/853 in epoch 18, local loss is 0.0156
+Trainning batch 488/853 in epoch 18, local loss is 0.0142
+Trainning batch 496/853 in epoch 18, local loss is 0.1560
+Trainning batch 504/853 in epoch 18, local loss is 0.0093
+Trainning batch 512/853 in epoch 18, local loss is 0.0077
+Trainning batch 520/853 in epoch 18, local loss is 0.0591
+Trainning batch 528/853 in epoch 18, local loss is 0.0160
+Trainning batch 536/853 in epoch 18, local loss is 0.0032
+Trainning batch 544/853 in epoch 18, local loss is 0.0497
+Trainning batch 552/853 in epoch 18, local loss is 0.0062
+Trainning batch 560/853 in epoch 18, local loss is 0.0217
+Trainning batch 568/853 in epoch 18, local loss is 0.1220
+Trainning batch 576/853 in epoch 18, local loss is 0.0215
+Trainning batch 584/853 in epoch 18, local loss is 0.0063
+Trainning batch 592/853 in epoch 18, local loss is 0.0333
+Trainning batch 600/853 in epoch 18, local loss is 0.0142
+Trainning batch 608/853 in epoch 18, local loss is 0.1321
+Trainning batch 616/853 in epoch 18, local loss is 0.0331
+Trainning batch 624/853 in epoch 18, local loss is 0.0098
+Trainning batch 632/853 in epoch 18, local loss is 0.0052
+Trainning batch 640/853 in epoch 18, local loss is 0.0778
+Trainning batch 648/853 in epoch 18, local loss is 0.0070
+Trainning batch 656/853 in epoch 18, local loss is 0.0192
+Trainning batch 664/853 in epoch 18, local loss is 0.0142
+Trainning batch 672/853 in epoch 18, local loss is 0.0052
+Trainning batch 680/853 in epoch 18, local loss is 0.0162
+Trainning batch 688/853 in epoch 18, local loss is 0.0505
+Trainning batch 696/853 in epoch 18, local loss is 0.0013
+Trainning batch 704/853 in epoch 18, local loss is 0.0136
+Trainning batch 712/853 in epoch 18, local loss is 0.0219
+Trainning batch 720/853 in epoch 18, local loss is 0.0061
+Trainning batch 728/853 in epoch 18, local loss is 0.0201
+Trainning batch 736/853 in epoch 18, local loss is 0.0021
+Trainning batch 744/853 in epoch 18, local loss is 0.0082
+Trainning batch 752/853 in epoch 18, local loss is 0.0391
+Trainning batch 760/853 in epoch 18, local loss is 0.0059
+Trainning batch 768/853 in epoch 18, local loss is 0.0014
+Trainning batch 776/853 in epoch 18, local loss is 0.0052
+Trainning batch 784/853 in epoch 18, local loss is 0.0028
+Trainning batch 792/853 in epoch 18, local loss is 0.0101
+Trainning batch 800/853 in epoch 18, local loss is 0.0273
+Trainning batch 808/853 in epoch 18, local loss is 0.0145
+Trainning batch 816/853 in epoch 18, local loss is 0.0143
+Trainning batch 824/853 in epoch 18, local loss is 0.0009
+Trainning batch 832/853 in epoch 18, local loss is 0.0039
+Trainning batch 840/853 in epoch 18, local loss is 0.0238
+Trainning batch 848/853 in epoch 18, local loss is 0.0023
+Epoch 18
+Validation Loss:     0.0026 Validation Accuracy: 1.000000
+epoch Summary: 2017-12-05 19:40:24.281990: loss = 0.0100 (0.0 examples/sec; 1116.160 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 19, local loss is 0.0814
+Trainning batch 8/853 in epoch 19, local loss is 0.0080
+Trainning batch 16/853 in epoch 19, local loss is 0.0013
+
+[[0 0 0 ..., 1 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 1 ..., 0 0 0]]
+Trainning batch 24/853 in epoch 19, local loss is 0.0041
+Trainning batch 32/853 in epoch 19, local loss is 0.0015
+Trainning batch 40/853 in epoch 19, local loss is 0.0015
+Trainning batch 48/853 in epoch 19, local loss is 0.0021
+Trainning batch 56/853 in epoch 19, local loss is 0.0026
+Trainning batch 64/853 in epoch 19, local loss is 0.0178
+Trainning batch 72/853 in epoch 19, local loss is 0.0027
+Trainning batch 80/853 in epoch 19, local loss is 0.0017
+Trainning batch 88/853 in epoch 19, local loss is 0.0177
+Trainning batch 96/853 in epoch 19, local loss is 0.0040
+Trainning batch 104/853 in epoch 19, local loss is 0.0003
+Trainning batch 112/853 in epoch 19, local loss is 0.0040
+Trainning batch 120/853 in epoch 19, local loss is 0.0008
+Trainning batch 128/853 in epoch 19, local loss is 0.0019
+Trainning batch 136/853 in epoch 19, local loss is 0.0040
+Trainning batch 144/853 in epoch 19, local loss is 0.0006
+Trainning batch 152/853 in epoch 19, local loss is 0.0004
+Trainning batch 160/853 in epoch 19, local loss is 0.0017
+Trainning batch 168/853 in epoch 19, local loss is 0.0022
+Trainning batch 176/853 in epoch 19, local loss is 0.0013
+Trainning batch 184/853 in epoch 19, local loss is 0.0005
+Trainning batch 192/853 in epoch 19, local loss is 0.0016
+Trainning batch 200/853 in epoch 19, local loss is 0.0016
+Trainning batch 208/853 in epoch 19, local loss is 0.0012
+Trainning batch 216/853 in epoch 19, local loss is 0.0013
+Trainning batch 224/853 in epoch 19, local loss is 0.0169
+Trainning batch 232/853 in epoch 19, local loss is 0.0022
+Trainning batch 240/853 in epoch 19, local loss is 0.0014
+Trainning batch 248/853 in epoch 19, local loss is 0.0029
+Trainning batch 256/853 in epoch 19, local loss is 0.0018
+Trainning batch 264/853 in epoch 19, local loss is 0.0083
+Trainning batch 272/853 in epoch 19, local loss is 0.0704
+Trainning batch 280/853 in epoch 19, local loss is 0.0026
+Trainning batch 288/853 in epoch 19, local loss is 0.0165
+Trainning batch 296/853 in epoch 19, local loss is 0.0898
+Trainning batch 304/853 in epoch 19, local loss is 0.1030
+Trainning batch 312/853 in epoch 19, local loss is 0.0058
+Trainning batch 320/853 in epoch 19, local loss is 0.0089
+Trainning batch 328/853 in epoch 19, local loss is 0.0137
+Trainning batch 336/853 in epoch 19, local loss is 0.0044
+Trainning batch 344/853 in epoch 19, local loss is 0.0023
+Trainning batch 352/853 in epoch 19, local loss is 0.0090
+Trainning batch 360/853 in epoch 19, local loss is 0.0097
+Trainning batch 368/853 in epoch 19, local loss is 0.0009
+Trainning batch 376/853 in epoch 19, local loss is 0.0276
+Trainning batch 384/853 in epoch 19, local loss is 0.0024
+Trainning batch 392/853 in epoch 19, local loss is 0.0009
+Trainning batch 400/853 in epoch 19, local loss is 0.0052
+Trainning batch 408/853 in epoch 19, local loss is 0.0036
+Trainning batch 416/853 in epoch 19, local loss is 0.0016
+Trainning batch 424/853 in epoch 19, local loss is 0.0021
+Trainning batch 432/853 in epoch 19, local loss is 0.0021
+Trainning batch 440/853 in epoch 19, local loss is 0.0162
+Trainning batch 448/853 in epoch 19, local loss is 0.0035
+Trainning batch 456/853 in epoch 19, local loss is 0.0014
+Trainning batch 464/853 in epoch 19, local loss is 0.0030
+Trainning batch 472/853 in epoch 19, local loss is 0.0028
+Trainning batch 480/853 in epoch 19, local loss is 0.0020
+Trainning batch 488/853 in epoch 19, local loss is 0.0031
+Trainning batch 496/853 in epoch 19, local loss is 0.0390
+Trainning batch 504/853 in epoch 19, local loss is 0.0190
+Trainning batch 512/853 in epoch 19, local loss is 0.0865
+Trainning batch 520/853 in epoch 19, local loss is 0.0011
+Trainning batch 528/853 in epoch 19, local loss is 0.0191
+Trainning batch 536/853 in epoch 19, local loss is 0.0006
+Trainning batch 544/853 in epoch 19, local loss is 0.0031
+Trainning batch 552/853 in epoch 19, local loss is 0.0221
+Trainning batch 560/853 in epoch 19, local loss is 0.0234
+Trainning batch 568/853 in epoch 19, local loss is 0.0402
+Trainning batch 576/853 in epoch 19, local loss is 0.0030
+Trainning batch 584/853 in epoch 19, local loss is 0.1476
+Trainning batch 592/853 in epoch 19, local loss is 0.0160
+Trainning batch 600/853 in epoch 19, local loss is 0.0010
+Trainning batch 608/853 in epoch 19, local loss is 0.0035
+Trainning batch 616/853 in epoch 19, local loss is 0.0240
+Trainning batch 624/853 in epoch 19, local loss is 0.0088
+Trainning batch 632/853 in epoch 19, local loss is 0.1575
+Trainning batch 640/853 in epoch 19, local loss is 0.0251
+Trainning batch 648/853 in epoch 19, local loss is 0.0741
+Trainning batch 656/853 in epoch 19, local loss is 0.0109
+Trainning batch 664/853 in epoch 19, local loss is 0.0557
+Trainning batch 672/853 in epoch 19, local loss is 0.0315
+Trainning batch 680/853 in epoch 19, local loss is 0.0402
+Trainning batch 688/853 in epoch 19, local loss is 0.0582
+Trainning batch 696/853 in epoch 19, local loss is 0.0136
+Trainning batch 704/853 in epoch 19, local loss is 0.0570
+Trainning batch 712/853 in epoch 19, local loss is 0.0156
+Trainning batch 720/853 in epoch 19, local loss is 0.0121
+Trainning batch 728/853 in epoch 19, local loss is 0.0361
+Trainning batch 736/853 in epoch 19, local loss is 0.0242
+Trainning batch 744/853 in epoch 19, local loss is 0.0139
+Trainning batch 752/853 in epoch 19, local loss is 0.0616
+Trainning batch 760/853 in epoch 19, local loss is 0.0109
+Trainning batch 768/853 in epoch 19, local loss is 0.0065
+Trainning batch 776/853 in epoch 19, local loss is 0.0069
+Trainning batch 784/853 in epoch 19, local loss is 0.1008
+Trainning batch 792/853 in epoch 19, local loss is 0.0051
+Trainning batch 800/853 in epoch 19, local loss is 0.0866
+Trainning batch 808/853 in epoch 19, local loss is 0.0682
+Trainning batch 816/853 in epoch 19, local loss is 0.0280
+Trainning batch 824/853 in epoch 19, local loss is 0.0056
+Trainning batch 832/853 in epoch 19, local loss is 0.0063
+Trainning batch 840/853 in epoch 19, local loss is 0.0371
+Trainning batch 848/853 in epoch 19, local loss is 0.0180
+Epoch 19
+Validation Loss:     0.0750 Validation Accuracy: 0.975000
+epoch Summary: 2017-12-05 19:58:52.766892: loss = 0.0636 (0.0 examples/sec; 1108.484 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 20, local loss is 0.0040
+Trainning batch 8/853 in epoch 20, local loss is 0.2121
+Trainning batch 16/853 in epoch 20, local loss is 0.0856
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 1]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 24/853 in epoch 20, local loss is 0.0418
+Trainning batch 32/853 in epoch 20, local loss is 0.0184
+Trainning batch 40/853 in epoch 20, local loss is 0.0084
+Trainning batch 48/853 in epoch 20, local loss is 0.0244
+Trainning batch 56/853 in epoch 20, local loss is 0.0290
+Trainning batch 64/853 in epoch 20, local loss is 0.0047
+Trainning batch 72/853 in epoch 20, local loss is 0.0041
+Trainning batch 80/853 in epoch 20, local loss is 0.0021
+Trainning batch 88/853 in epoch 20, local loss is 0.1651
+Trainning batch 96/853 in epoch 20, local loss is 0.0624
+Trainning batch 104/853 in epoch 20, local loss is 0.0031
+Trainning batch 112/853 in epoch 20, local loss is 0.0658
+Trainning batch 120/853 in epoch 20, local loss is 0.0188
+Trainning batch 128/853 in epoch 20, local loss is 0.0118
+Trainning batch 136/853 in epoch 20, local loss is 0.0483
+Trainning batch 144/853 in epoch 20, local loss is 0.0205
+Trainning batch 152/853 in epoch 20, local loss is 0.0276
+Trainning batch 160/853 in epoch 20, local loss is 0.0516
+Trainning batch 168/853 in epoch 20, local loss is 0.0049
+Trainning batch 176/853 in epoch 20, local loss is 0.0064
+Trainning batch 184/853 in epoch 20, local loss is 0.0032
+Trainning batch 192/853 in epoch 20, local loss is 0.0229
+Trainning batch 200/853 in epoch 20, local loss is 0.0816
+Trainning batch 208/853 in epoch 20, local loss is 0.0126
+Trainning batch 216/853 in epoch 20, local loss is 0.0027
+Trainning batch 224/853 in epoch 20, local loss is 0.0113
+Trainning batch 232/853 in epoch 20, local loss is 0.0049
+Trainning batch 240/853 in epoch 20, local loss is 0.0112
+Trainning batch 248/853 in epoch 20, local loss is 0.0386
+Trainning batch 256/853 in epoch 20, local loss is 0.0025
+Trainning batch 264/853 in epoch 20, local loss is 0.0553
+Trainning batch 272/853 in epoch 20, local loss is 0.0096
+Trainning batch 280/853 in epoch 20, local loss is 0.0047
+Trainning batch 288/853 in epoch 20, local loss is 0.0063
+Trainning batch 296/853 in epoch 20, local loss is 0.0356
+Trainning batch 304/853 in epoch 20, local loss is 0.0054
+Trainning batch 312/853 in epoch 20, local loss is 0.0103
+Trainning batch 320/853 in epoch 20, local loss is 0.0024
+Trainning batch 328/853 in epoch 20, local loss is 0.0282
+Trainning batch 336/853 in epoch 20, local loss is 0.0022
+Trainning batch 344/853 in epoch 20, local loss is 0.0031
+Trainning batch 352/853 in epoch 20, local loss is 0.0016
+Trainning batch 360/853 in epoch 20, local loss is 0.0022
+Trainning batch 368/853 in epoch 20, local loss is 0.0100
+Trainning batch 376/853 in epoch 20, local loss is 0.0045
+Trainning batch 384/853 in epoch 20, local loss is 0.0067
+Trainning batch 392/853 in epoch 20, local loss is 0.0028
+Trainning batch 400/853 in epoch 20, local loss is 0.0010
+Trainning batch 408/853 in epoch 20, local loss is 0.0014
+Trainning batch 416/853 in epoch 20, local loss is 0.0092
+Trainning batch 424/853 in epoch 20, local loss is 0.0029
+Trainning batch 432/853 in epoch 20, local loss is 0.0068
+Trainning batch 440/853 in epoch 20, local loss is 0.0017
+Trainning batch 448/853 in epoch 20, local loss is 0.0041
+Trainning batch 456/853 in epoch 20, local loss is 0.0012
+Trainning batch 464/853 in epoch 20, local loss is 0.0222
+Trainning batch 472/853 in epoch 20, local loss is 0.0088
+Trainning batch 480/853 in epoch 20, local loss is 0.0017
+Trainning batch 488/853 in epoch 20, local loss is 0.0018
+Trainning batch 496/853 in epoch 20, local loss is 0.0021
+Trainning batch 504/853 in epoch 20, local loss is 0.0040
+Trainning batch 512/853 in epoch 20, local loss is 0.0032
+Trainning batch 520/853 in epoch 20, local loss is 0.0005
+Trainning batch 528/853 in epoch 20, local loss is 0.0010
+Trainning batch 536/853 in epoch 20, local loss is 0.0008
+Trainning batch 544/853 in epoch 20, local loss is 0.0020
+Trainning batch 552/853 in epoch 20, local loss is 0.0014
+Trainning batch 560/853 in epoch 20, local loss is 0.0014
+Trainning batch 568/853 in epoch 20, local loss is 0.0381
+Trainning batch 576/853 in epoch 20, local loss is 0.0019
+Trainning batch 584/853 in epoch 20, local loss is 0.0013
+Trainning batch 592/853 in epoch 20, local loss is 0.0049
+Trainning batch 600/853 in epoch 20, local loss is 0.0020
+Trainning batch 608/853 in epoch 20, local loss is 0.0063
+Trainning batch 616/853 in epoch 20, local loss is 0.0015
+Trainning batch 624/853 in epoch 20, local loss is 0.0034
+Trainning batch 632/853 in epoch 20, local loss is 0.0032
+Trainning batch 640/853 in epoch 20, local loss is 0.0169
+Trainning batch 648/853 in epoch 20, local loss is 0.0024
+Trainning batch 656/853 in epoch 20, local loss is 0.0040
+Trainning batch 664/853 in epoch 20, local loss is 0.0011
+Trainning batch 672/853 in epoch 20, local loss is 0.0068
+Trainning batch 680/853 in epoch 20, local loss is 0.0056
+Trainning batch 688/853 in epoch 20, local loss is 0.0191
+Trainning batch 696/853 in epoch 20, local loss is 0.0173
+Trainning batch 704/853 in epoch 20, local loss is 0.0250
+Trainning batch 712/853 in epoch 20, local loss is 0.0169
+Trainning batch 720/853 in epoch 20, local loss is 0.0125
+Trainning batch 728/853 in epoch 20, local loss is 0.1309
+Trainning batch 736/853 in epoch 20, local loss is 0.0849
+Trainning batch 744/853 in epoch 20, local loss is 0.0619
+Trainning batch 752/853 in epoch 20, local loss is 0.0149
+Trainning batch 760/853 in epoch 20, local loss is 0.0378
+Trainning batch 768/853 in epoch 20, local loss is 0.0033
+Trainning batch 776/853 in epoch 20, local loss is 0.0088
+Trainning batch 784/853 in epoch 20, local loss is 0.0253
+Trainning batch 792/853 in epoch 20, local loss is 0.0090
+Trainning batch 800/853 in epoch 20, local loss is 0.0054
+Trainning batch 808/853 in epoch 20, local loss is 0.0263
+Trainning batch 816/853 in epoch 20, local loss is 0.0483
+Trainning batch 824/853 in epoch 20, local loss is 0.0061
+Trainning batch 832/853 in epoch 20, local loss is 0.0094
+Trainning batch 840/853 in epoch 20, local loss is 0.0045
+Trainning batch 848/853 in epoch 20, local loss is 0.0156
+Epoch 20
+Validation Loss:     0.0015 Validation Accuracy: 1.000000
+epoch Summary: 2017-12-05 20:17:21.039578: loss = 0.0099 (0.0 examples/sec; 1108.273 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 21, local loss is 0.0066
+Trainning batch 8/853 in epoch 21, local loss is 0.0038
+Trainning batch 16/853 in epoch 21, local loss is 0.0007
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 24/853 in epoch 21, local loss is 0.0041
+Trainning batch 32/853 in epoch 21, local loss is 0.0023
+Trainning batch 40/853 in epoch 21, local loss is 0.0035
+Trainning batch 48/853 in epoch 21, local loss is 0.0014
+Trainning batch 56/853 in epoch 21, local loss is 0.0008
+Trainning batch 64/853 in epoch 21, local loss is 0.0685
+Trainning batch 72/853 in epoch 21, local loss is 0.0007
+Trainning batch 80/853 in epoch 21, local loss is 0.0008
+Trainning batch 88/853 in epoch 21, local loss is 0.0030
+Trainning batch 96/853 in epoch 21, local loss is 0.0030
+Trainning batch 104/853 in epoch 21, local loss is 0.0023
+Trainning batch 112/853 in epoch 21, local loss is 0.0016
+Trainning batch 120/853 in epoch 21, local loss is 0.0621
+Trainning batch 128/853 in epoch 21, local loss is 0.0130
+Trainning batch 136/853 in epoch 21, local loss is 0.0113
+Trainning batch 144/853 in epoch 21, local loss is 0.0032
+Trainning batch 152/853 in epoch 21, local loss is 0.0005
+Trainning batch 160/853 in epoch 21, local loss is 0.0010
+Trainning batch 168/853 in epoch 21, local loss is 0.0010
+Trainning batch 176/853 in epoch 21, local loss is 0.0006
+Trainning batch 184/853 in epoch 21, local loss is 0.0059
+Trainning batch 192/853 in epoch 21, local loss is 0.0012
+Trainning batch 200/853 in epoch 21, local loss is 0.0010
+Trainning batch 208/853 in epoch 21, local loss is 0.0008
+Trainning batch 216/853 in epoch 21, local loss is 0.0008
+Trainning batch 224/853 in epoch 21, local loss is 0.0007
+Trainning batch 232/853 in epoch 21, local loss is 0.0003
+Trainning batch 240/853 in epoch 21, local loss is 0.0016
+Trainning batch 248/853 in epoch 21, local loss is 0.0025
+Trainning batch 256/853 in epoch 21, local loss is 0.0011
+Trainning batch 264/853 in epoch 21, local loss is 0.0011
+Trainning batch 272/853 in epoch 21, local loss is 0.0004
+Trainning batch 280/853 in epoch 21, local loss is 0.0050
+Trainning batch 288/853 in epoch 21, local loss is 0.0006
+Trainning batch 296/853 in epoch 21, local loss is 0.0020
+Trainning batch 304/853 in epoch 21, local loss is 0.0013
+Trainning batch 312/853 in epoch 21, local loss is 0.0024
+Trainning batch 320/853 in epoch 21, local loss is 0.0010
+Trainning batch 328/853 in epoch 21, local loss is 0.0012
+Trainning batch 336/853 in epoch 21, local loss is 0.0005
+Trainning batch 344/853 in epoch 21, local loss is 0.0006
+Trainning batch 352/853 in epoch 21, local loss is 0.0005
+Trainning batch 360/853 in epoch 21, local loss is 0.0021
+Trainning batch 368/853 in epoch 21, local loss is 0.0037
+Trainning batch 376/853 in epoch 21, local loss is 0.0011
+Trainning batch 384/853 in epoch 21, local loss is 0.0007
+Trainning batch 392/853 in epoch 21, local loss is 0.0008
+Trainning batch 400/853 in epoch 21, local loss is 0.0008
+Trainning batch 408/853 in epoch 21, local loss is 0.0076
+Trainning batch 416/853 in epoch 21, local loss is 0.0006
+Trainning batch 424/853 in epoch 21, local loss is 0.0006
+Trainning batch 432/853 in epoch 21, local loss is 0.0005
+Trainning batch 440/853 in epoch 21, local loss is 0.0004
+Trainning batch 448/853 in epoch 21, local loss is 0.0006
+Trainning batch 456/853 in epoch 21, local loss is 0.0015
+Trainning batch 464/853 in epoch 21, local loss is 0.0005
+Trainning batch 472/853 in epoch 21, local loss is 0.0006
+Trainning batch 480/853 in epoch 21, local loss is 0.0056
+Trainning batch 488/853 in epoch 21, local loss is 0.0008
+Trainning batch 496/853 in epoch 21, local loss is 0.0006
+Trainning batch 504/853 in epoch 21, local loss is 0.0013
+Trainning batch 512/853 in epoch 21, local loss is 0.0033
+Trainning batch 520/853 in epoch 21, local loss is 0.0002
+Trainning batch 528/853 in epoch 21, local loss is 0.0009
+Trainning batch 536/853 in epoch 21, local loss is 0.0002
+Trainning batch 544/853 in epoch 21, local loss is 0.0010
+Trainning batch 552/853 in epoch 21, local loss is 0.0010
+Trainning batch 560/853 in epoch 21, local loss is 0.0002
+Trainning batch 568/853 in epoch 21, local loss is 0.0008
+Trainning batch 576/853 in epoch 21, local loss is 0.0002
+Trainning batch 584/853 in epoch 21, local loss is 0.0008
+Trainning batch 592/853 in epoch 21, local loss is 0.0007
+Trainning batch 600/853 in epoch 21, local loss is 0.0025
+Trainning batch 608/853 in epoch 21, local loss is 0.0006
+Trainning batch 616/853 in epoch 21, local loss is 0.0004
+Trainning batch 624/853 in epoch 21, local loss is 0.0006
+Trainning batch 632/853 in epoch 21, local loss is 0.0013
+Trainning batch 640/853 in epoch 21, local loss is 0.0005
+Trainning batch 648/853 in epoch 21, local loss is 0.0060
+Trainning batch 656/853 in epoch 21, local loss is 0.0003
+Trainning batch 664/853 in epoch 21, local loss is 0.0003
+Trainning batch 672/853 in epoch 21, local loss is 0.0003
+Trainning batch 680/853 in epoch 21, local loss is 0.0003
+Trainning batch 688/853 in epoch 21, local loss is 0.0005
+Trainning batch 696/853 in epoch 21, local loss is 0.0002
+Trainning batch 704/853 in epoch 21, local loss is 0.0004
+Trainning batch 712/853 in epoch 21, local loss is 0.0002
+Trainning batch 720/853 in epoch 21, local loss is 0.0003
+Trainning batch 728/853 in epoch 21, local loss is 0.0013
+Trainning batch 736/853 in epoch 21, local loss is 0.0002
+Trainning batch 744/853 in epoch 21, local loss is 0.0004
+Trainning batch 752/853 in epoch 21, local loss is 0.0004
+Trainning batch 760/853 in epoch 21, local loss is 0.0006
+Trainning batch 768/853 in epoch 21, local loss is 0.0002
+Trainning batch 776/853 in epoch 21, local loss is 0.0003
+Trainning batch 784/853 in epoch 21, local loss is 0.0006
+Trainning batch 792/853 in epoch 21, local loss is 0.0005
+Trainning batch 800/853 in epoch 21, local loss is 0.0005
+Trainning batch 808/853 in epoch 21, local loss is 0.0007
+Trainning batch 816/853 in epoch 21, local loss is 0.0006
+Trainning batch 824/853 in epoch 21, local loss is 0.0002
+Trainning batch 832/853 in epoch 21, local loss is 0.0002
+Trainning batch 840/853 in epoch 21, local loss is 0.0002
+Trainning batch 848/853 in epoch 21, local loss is 0.0002
+Epoch 21
+Validation Loss:     0.0017 Validation Accuracy: 1.000000
+epoch Summary: 2017-12-05 20:35:49.513395: loss = 0.0005 (0.0 examples/sec; 1108.474 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 22, local loss is 0.0001
+Trainning batch 8/853 in epoch 22, local loss is 0.0003
+Trainning batch 16/853 in epoch 22, local loss is 0.0004
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 1 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 1 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 24/853 in epoch 22, local loss is 0.0016
+Trainning batch 32/853 in epoch 22, local loss is 0.0004
+Trainning batch 40/853 in epoch 22, local loss is 0.0003
+Trainning batch 48/853 in epoch 22, local loss is 0.0001
+Trainning batch 56/853 in epoch 22, local loss is 0.0007
+Trainning batch 64/853 in epoch 22, local loss is 0.0014
+Trainning batch 72/853 in epoch 22, local loss is 0.0003
+Trainning batch 80/853 in epoch 22, local loss is 0.0001
+Trainning batch 88/853 in epoch 22, local loss is 0.0004
+Trainning batch 96/853 in epoch 22, local loss is 0.0003
+Trainning batch 104/853 in epoch 22, local loss is 0.0001
+Trainning batch 112/853 in epoch 22, local loss is 0.0004
+Trainning batch 120/853 in epoch 22, local loss is 0.0003
+Trainning batch 128/853 in epoch 22, local loss is 0.0005
+Trainning batch 136/853 in epoch 22, local loss is 0.0001
+Trainning batch 144/853 in epoch 22, local loss is 0.0006
+Trainning batch 152/853 in epoch 22, local loss is 0.0002
+Trainning batch 160/853 in epoch 22, local loss is 0.0003
+Trainning batch 168/853 in epoch 22, local loss is 0.0007
+Trainning batch 176/853 in epoch 22, local loss is 0.0003
+Trainning batch 184/853 in epoch 22, local loss is 0.0002
+Trainning batch 192/853 in epoch 22, local loss is 0.0002
+Trainning batch 200/853 in epoch 22, local loss is 0.0003
+Trainning batch 208/853 in epoch 22, local loss is 0.0003
+Trainning batch 216/853 in epoch 22, local loss is 0.0002
+Trainning batch 224/853 in epoch 22, local loss is 0.0003
+Trainning batch 232/853 in epoch 22, local loss is 0.0001
+Trainning batch 240/853 in epoch 22, local loss is 0.0002
+Trainning batch 248/853 in epoch 22, local loss is 0.0029
+Trainning batch 256/853 in epoch 22, local loss is 0.0002
+Trainning batch 264/853 in epoch 22, local loss is 0.0002
+Trainning batch 272/853 in epoch 22, local loss is 0.0002
+Trainning batch 280/853 in epoch 22, local loss is 0.0003
+Trainning batch 288/853 in epoch 22, local loss is 0.0004
+Trainning batch 296/853 in epoch 22, local loss is 0.0009
+Trainning batch 304/853 in epoch 22, local loss is 0.0002
+Trainning batch 312/853 in epoch 22, local loss is 0.0004
+Trainning batch 320/853 in epoch 22, local loss is 0.0003
+Trainning batch 328/853 in epoch 22, local loss is 0.0003
+Trainning batch 336/853 in epoch 22, local loss is 0.0003
+Trainning batch 344/853 in epoch 22, local loss is 0.0005
+Trainning batch 352/853 in epoch 22, local loss is 0.0002
+Trainning batch 360/853 in epoch 22, local loss is 0.0005
+Trainning batch 368/853 in epoch 22, local loss is 0.0002
+Trainning batch 376/853 in epoch 22, local loss is 0.0004
+Trainning batch 384/853 in epoch 22, local loss is 0.0004
+Trainning batch 392/853 in epoch 22, local loss is 0.0001
+Trainning batch 400/853 in epoch 22, local loss is 0.0001
+Trainning batch 408/853 in epoch 22, local loss is 0.0001
+Trainning batch 416/853 in epoch 22, local loss is 0.0002
+Trainning batch 424/853 in epoch 22, local loss is 0.0003
+Trainning batch 432/853 in epoch 22, local loss is 0.0004
+Trainning batch 440/853 in epoch 22, local loss is 0.0001
+Trainning batch 448/853 in epoch 22, local loss is 0.0004
+Trainning batch 456/853 in epoch 22, local loss is 0.0001
+Trainning batch 464/853 in epoch 22, local loss is 0.0002
+Trainning batch 472/853 in epoch 22, local loss is 0.0003
+Trainning batch 480/853 in epoch 22, local loss is 0.0009
+Trainning batch 488/853 in epoch 22, local loss is 0.0001
+Trainning batch 496/853 in epoch 22, local loss is 0.0003
+Trainning batch 504/853 in epoch 22, local loss is 0.0005
+Trainning batch 512/853 in epoch 22, local loss is 0.0003
+Trainning batch 520/853 in epoch 22, local loss is 0.0001
+Trainning batch 528/853 in epoch 22, local loss is 0.0003
+Trainning batch 536/853 in epoch 22, local loss is 0.0001
+Trainning batch 544/853 in epoch 22, local loss is 0.0002
+Trainning batch 552/853 in epoch 22, local loss is 0.0006
+Trainning batch 560/853 in epoch 22, local loss is 0.0001
+Trainning batch 568/853 in epoch 22, local loss is 0.0003
+Trainning batch 576/853 in epoch 22, local loss is 0.0002
+Trainning batch 584/853 in epoch 22, local loss is 0.0002
+Trainning batch 592/853 in epoch 22, local loss is 0.0003
+Trainning batch 600/853 in epoch 22, local loss is 0.0003
+Trainning batch 608/853 in epoch 22, local loss is 0.0004
+Trainning batch 616/853 in epoch 22, local loss is 0.0001
+Trainning batch 624/853 in epoch 22, local loss is 0.0002
+Trainning batch 632/853 in epoch 22, local loss is 0.0004
+Trainning batch 640/853 in epoch 22, local loss is 0.0002
+Trainning batch 648/853 in epoch 22, local loss is 0.0024
+Trainning batch 656/853 in epoch 22, local loss is 0.0002
+Trainning batch 664/853 in epoch 22, local loss is 0.0001
+Trainning batch 672/853 in epoch 22, local loss is 0.0001
+Trainning batch 680/853 in epoch 22, local loss is 0.0001
+Trainning batch 688/853 in epoch 22, local loss is 0.0003
+Trainning batch 696/853 in epoch 22, local loss is 0.0001
+Trainning batch 704/853 in epoch 22, local loss is 0.0002
+Trainning batch 712/853 in epoch 22, local loss is 0.0001
+Trainning batch 720/853 in epoch 22, local loss is 0.0002
+Trainning batch 728/853 in epoch 22, local loss is 0.0034
+Trainning batch 736/853 in epoch 22, local loss is 0.0001
+Trainning batch 744/853 in epoch 22, local loss is 0.0003
+Trainning batch 752/853 in epoch 22, local loss is 0.0002
+Trainning batch 760/853 in epoch 22, local loss is 0.0003
+Trainning batch 768/853 in epoch 22, local loss is 0.0001
+Trainning batch 776/853 in epoch 22, local loss is 0.0002
+Trainning batch 784/853 in epoch 22, local loss is 0.0003
+Trainning batch 792/853 in epoch 22, local loss is 0.0002
+Trainning batch 800/853 in epoch 22, local loss is 0.0003
+Trainning batch 808/853 in epoch 22, local loss is 0.0004
+Trainning batch 816/853 in epoch 22, local loss is 0.0003
+Trainning batch 824/853 in epoch 22, local loss is 0.0001
+Trainning batch 832/853 in epoch 22, local loss is 0.0001
+Trainning batch 840/853 in epoch 22, local loss is 0.0002
+Trainning batch 848/853 in epoch 22, local loss is 0.0002
+Epoch 22
+Validation Loss:     0.0006 Validation Accuracy: 1.000000
+epoch Summary: 2017-12-05 20:54:18.141140: loss = 0.0005 (0.0 examples/sec; 1108.628 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 23, local loss is 0.0001
+Trainning batch 8/853 in epoch 23, local loss is 0.0002
+Trainning batch 16/853 in epoch 23, local loss is 0.0010
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 1 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 1]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 24/853 in epoch 23, local loss is 0.0058
+Trainning batch 32/853 in epoch 23, local loss is 0.3777
+Trainning batch 40/853 in epoch 23, local loss is 0.4493
+Trainning batch 48/853 in epoch 23, local loss is 1.0841
+Trainning batch 56/853 in epoch 23, local loss is 0.3919
+Trainning batch 64/853 in epoch 23, local loss is 0.4391
+Trainning batch 72/853 in epoch 23, local loss is 0.3540
+Trainning batch 80/853 in epoch 23, local loss is 0.1467
+Trainning batch 88/853 in epoch 23, local loss is 0.5298
+Trainning batch 96/853 in epoch 23, local loss is 0.1715
+Trainning batch 104/853 in epoch 23, local loss is 0.0671
+Trainning batch 112/853 in epoch 23, local loss is 0.0567
+Trainning batch 120/853 in epoch 23, local loss is 0.0879
+Trainning batch 128/853 in epoch 23, local loss is 0.0207
+Trainning batch 136/853 in epoch 23, local loss is 0.0497
+Trainning batch 144/853 in epoch 23, local loss is 0.0449
+Trainning batch 152/853 in epoch 23, local loss is 0.0343
+Trainning batch 160/853 in epoch 23, local loss is 0.1423
+Trainning batch 168/853 in epoch 23, local loss is 0.0406
+Trainning batch 176/853 in epoch 23, local loss is 0.0132
+Trainning batch 184/853 in epoch 23, local loss is 0.0051
+Trainning batch 192/853 in epoch 23, local loss is 0.0221
+Trainning batch 200/853 in epoch 23, local loss is 0.0503
+Trainning batch 208/853 in epoch 23, local loss is 0.0047
+Trainning batch 216/853 in epoch 23, local loss is 0.0429
+Trainning batch 224/853 in epoch 23, local loss is 0.0060
+Trainning batch 232/853 in epoch 23, local loss is 0.0093
+Trainning batch 240/853 in epoch 23, local loss is 0.0062
+Trainning batch 248/853 in epoch 23, local loss is 0.0327
+Trainning batch 256/853 in epoch 23, local loss is 0.0035
+Trainning batch 264/853 in epoch 23, local loss is 0.0445
+Trainning batch 272/853 in epoch 23, local loss is 0.0197
+Trainning batch 280/853 in epoch 23, local loss is 0.0063
+Trainning batch 288/853 in epoch 23, local loss is 0.0541
+Trainning batch 296/853 in epoch 23, local loss is 0.0809
+Trainning batch 304/853 in epoch 23, local loss is 0.0062
+Trainning batch 312/853 in epoch 23, local loss is 0.0255
+Trainning batch 320/853 in epoch 23, local loss is 0.0121
+Trainning batch 328/853 in epoch 23, local loss is 0.0086
+Trainning batch 336/853 in epoch 23, local loss is 0.0185
+Trainning batch 344/853 in epoch 23, local loss is 0.0012
+Trainning batch 352/853 in epoch 23, local loss is 0.0221
+Trainning batch 360/853 in epoch 23, local loss is 0.0025
+Trainning batch 368/853 in epoch 23, local loss is 0.0039
+Trainning batch 376/853 in epoch 23, local loss is 0.0100
+Trainning batch 384/853 in epoch 23, local loss is 0.0126
+Trainning batch 392/853 in epoch 23, local loss is 0.0037
+Trainning batch 400/853 in epoch 23, local loss is 0.0133
+Trainning batch 408/853 in epoch 23, local loss is 0.0182
+Trainning batch 416/853 in epoch 23, local loss is 0.0021
+Trainning batch 424/853 in epoch 23, local loss is 0.0058
+Trainning batch 432/853 in epoch 23, local loss is 0.0041
+Trainning batch 440/853 in epoch 23, local loss is 0.0014
+Trainning batch 448/853 in epoch 23, local loss is 0.0118
+Trainning batch 456/853 in epoch 23, local loss is 0.0008
+Trainning batch 464/853 in epoch 23, local loss is 0.0019
+Trainning batch 472/853 in epoch 23, local loss is 0.0013
+Trainning batch 480/853 in epoch 23, local loss is 0.0043
+Trainning batch 488/853 in epoch 23, local loss is 0.0027
+Trainning batch 496/853 in epoch 23, local loss is 0.0090
+Trainning batch 504/853 in epoch 23, local loss is 0.0205
+Trainning batch 512/853 in epoch 23, local loss is 0.0286
+Trainning batch 520/853 in epoch 23, local loss is 0.0019
+Trainning batch 528/853 in epoch 23, local loss is 0.0040
+Trainning batch 536/853 in epoch 23, local loss is 0.0014
+Trainning batch 544/853 in epoch 23, local loss is 0.0072
+Trainning batch 552/853 in epoch 23, local loss is 0.0053
+Trainning batch 560/853 in epoch 23, local loss is 0.0020
+Trainning batch 568/853 in epoch 23, local loss is 0.0013
+Trainning batch 576/853 in epoch 23, local loss is 0.0048
+Trainning batch 584/853 in epoch 23, local loss is 0.0017
+Trainning batch 592/853 in epoch 23, local loss is 0.0067
+Trainning batch 600/853 in epoch 23, local loss is 0.0016
+Trainning batch 608/853 in epoch 23, local loss is 0.0033
+Trainning batch 616/853 in epoch 23, local loss is 0.0008
+Trainning batch 624/853 in epoch 23, local loss is 0.0029
+Trainning batch 632/853 in epoch 23, local loss is 0.0023
+Trainning batch 640/853 in epoch 23, local loss is 0.0029
+Trainning batch 648/853 in epoch 23, local loss is 0.0069
+Trainning batch 656/853 in epoch 23, local loss is 0.0006
+Trainning batch 664/853 in epoch 23, local loss is 0.0008
+Trainning batch 672/853 in epoch 23, local loss is 0.0007
+Trainning batch 680/853 in epoch 23, local loss is 0.0011
+Trainning batch 688/853 in epoch 23, local loss is 0.0028
+Trainning batch 696/853 in epoch 23, local loss is 0.0007
+Trainning batch 704/853 in epoch 23, local loss is 0.0011
+Trainning batch 712/853 in epoch 23, local loss is 0.0014
+Trainning batch 720/853 in epoch 23, local loss is 0.0018
+Trainning batch 728/853 in epoch 23, local loss is 0.0085
+Trainning batch 736/853 in epoch 23, local loss is 0.0006
+Trainning batch 744/853 in epoch 23, local loss is 0.0024
+Trainning batch 752/853 in epoch 23, local loss is 0.0009
+Trainning batch 760/853 in epoch 23, local loss is 0.0028
+Trainning batch 768/853 in epoch 23, local loss is 0.0016
+Trainning batch 776/853 in epoch 23, local loss is 0.0009
+Trainning batch 784/853 in epoch 23, local loss is 0.0009
+Trainning batch 792/853 in epoch 23, local loss is 0.0032
+Trainning batch 800/853 in epoch 23, local loss is 0.0014
+Trainning batch 808/853 in epoch 23, local loss is 0.0005
+Trainning batch 816/853 in epoch 23, local loss is 0.0012
+Trainning batch 824/853 in epoch 23, local loss is 0.0003
+Trainning batch 832/853 in epoch 23, local loss is 0.0012
+Trainning batch 840/853 in epoch 23, local loss is 0.0008
+Trainning batch 848/853 in epoch 23, local loss is 0.0044
+Epoch 23
+Validation Loss:     0.0034 Validation Accuracy: 1.000000
+epoch Summary: 2017-12-05 21:12:46.722057: loss = 0.0117 (0.0 examples/sec; 1108.581 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 24, local loss is 0.0005
+Trainning batch 8/853 in epoch 24, local loss is 0.0024
+Trainning batch 16/853 in epoch 24, local loss is 0.0010
+
+[[0 0 0 ..., 0 1 0]
+ [0 1 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 1]]
+Trainning batch 24/853 in epoch 24, local loss is 0.0009
+Trainning batch 32/853 in epoch 24, local loss is 0.0007
+Trainning batch 40/853 in epoch 24, local loss is 0.0005
+Trainning batch 48/853 in epoch 24, local loss is 0.0002
+Trainning batch 56/853 in epoch 24, local loss is 0.0013
+Trainning batch 64/853 in epoch 24, local loss is 0.0078
+Trainning batch 72/853 in epoch 24, local loss is 0.0017
+Trainning batch 80/853 in epoch 24, local loss is 0.0005
+Trainning batch 88/853 in epoch 24, local loss is 0.0007
+Trainning batch 96/853 in epoch 24, local loss is 0.0007
+Trainning batch 104/853 in epoch 24, local loss is 0.0004
+Trainning batch 112/853 in epoch 24, local loss is 0.0007
+Trainning batch 120/853 in epoch 24, local loss is 0.0006
+Trainning batch 128/853 in epoch 24, local loss is 0.0007
+Trainning batch 136/853 in epoch 24, local loss is 0.0003
+Trainning batch 144/853 in epoch 24, local loss is 0.0013
+Trainning batch 152/853 in epoch 24, local loss is 0.0002
+Trainning batch 160/853 in epoch 24, local loss is 0.0003
+Trainning batch 168/853 in epoch 24, local loss is 0.0060
+Trainning batch 176/853 in epoch 24, local loss is 0.0003
+Trainning batch 184/853 in epoch 24, local loss is 0.0004
+Trainning batch 192/853 in epoch 24, local loss is 0.0006
+Trainning batch 200/853 in epoch 24, local loss is 0.0014
+Trainning batch 208/853 in epoch 24, local loss is 0.0006
+Trainning batch 216/853 in epoch 24, local loss is 0.0006
+Trainning batch 224/853 in epoch 24, local loss is 0.0009
+Trainning batch 232/853 in epoch 24, local loss is 0.0002
+Trainning batch 240/853 in epoch 24, local loss is 0.0006
+Trainning batch 248/853 in epoch 24, local loss is 0.0009
+Trainning batch 256/853 in epoch 24, local loss is 0.0006
+Trainning batch 264/853 in epoch 24, local loss is 0.0006
+Trainning batch 272/853 in epoch 24, local loss is 0.0001
+Trainning batch 280/853 in epoch 24, local loss is 0.0005
+Trainning batch 288/853 in epoch 24, local loss is 0.0040
+Trainning batch 296/853 in epoch 24, local loss is 0.0018
+Trainning batch 304/853 in epoch 24, local loss is 0.0002
+Trainning batch 312/853 in epoch 24, local loss is 0.0008
+Trainning batch 320/853 in epoch 24, local loss is 0.0007
+Trainning batch 328/853 in epoch 24, local loss is 0.0007
+Trainning batch 336/853 in epoch 24, local loss is 0.0006
+Trainning batch 344/853 in epoch 24, local loss is 0.0009
+Trainning batch 352/853 in epoch 24, local loss is 0.0001
+Trainning batch 360/853 in epoch 24, local loss is 0.0009
+Trainning batch 368/853 in epoch 24, local loss is 0.0003
+Trainning batch 376/853 in epoch 24, local loss is 0.0004
+Trainning batch 384/853 in epoch 24, local loss is 0.0007
+Trainning batch 392/853 in epoch 24, local loss is 0.0003
+Trainning batch 400/853 in epoch 24, local loss is 0.0003
+Trainning batch 408/853 in epoch 24, local loss is 0.0011
+Trainning batch 416/853 in epoch 24, local loss is 0.0009
+Trainning batch 424/853 in epoch 24, local loss is 0.0018
+Trainning batch 432/853 in epoch 24, local loss is 0.0076
+Trainning batch 440/853 in epoch 24, local loss is 0.0009
+Trainning batch 448/853 in epoch 24, local loss is 0.0280
+Trainning batch 456/853 in epoch 24, local loss is 0.0074
+Trainning batch 464/853 in epoch 24, local loss is 0.0018
+Trainning batch 472/853 in epoch 24, local loss is 0.0047
+Trainning batch 480/853 in epoch 24, local loss is 0.0058
+Trainning batch 488/853 in epoch 24, local loss is 0.0354
+Trainning batch 496/853 in epoch 24, local loss is 0.0095
+Trainning batch 504/853 in epoch 24, local loss is 0.0119
+Trainning batch 512/853 in epoch 24, local loss is 0.0012
+Trainning batch 520/853 in epoch 24, local loss is 0.0107
+Trainning batch 528/853 in epoch 24, local loss is 0.0013
+Trainning batch 536/853 in epoch 24, local loss is 0.0065
+Trainning batch 544/853 in epoch 24, local loss is 0.0043
+Trainning batch 552/853 in epoch 24, local loss is 0.0015
+Trainning batch 560/853 in epoch 24, local loss is 0.0028
+Trainning batch 568/853 in epoch 24, local loss is 0.0148
+Trainning batch 576/853 in epoch 24, local loss is 0.0067
+Trainning batch 584/853 in epoch 24, local loss is 0.0077
+Trainning batch 592/853 in epoch 24, local loss is 0.0120
+Trainning batch 600/853 in epoch 24, local loss is 0.0013
+Trainning batch 608/853 in epoch 24, local loss is 0.0188
+Trainning batch 616/853 in epoch 24, local loss is 0.0070
+Trainning batch 624/853 in epoch 24, local loss is 0.0069
+Trainning batch 632/853 in epoch 24, local loss is 0.0114
+Trainning batch 640/853 in epoch 24, local loss is 0.0146
+Trainning batch 648/853 in epoch 24, local loss is 0.0043
+Trainning batch 656/853 in epoch 24, local loss is 0.0014
+Trainning batch 664/853 in epoch 24, local loss is 0.0013
+Trainning batch 672/853 in epoch 24, local loss is 0.0010
+Trainning batch 680/853 in epoch 24, local loss is 0.0118
+Trainning batch 688/853 in epoch 24, local loss is 0.0064
+Trainning batch 696/853 in epoch 24, local loss is 0.0020
+Trainning batch 704/853 in epoch 24, local loss is 0.0324
+Trainning batch 712/853 in epoch 24, local loss is 0.1492
+Trainning batch 720/853 in epoch 24, local loss is 0.1012
+Trainning batch 728/853 in epoch 24, local loss is 0.2856
+Trainning batch 736/853 in epoch 24, local loss is 0.0246
+Trainning batch 744/853 in epoch 24, local loss is 0.1057
+Trainning batch 752/853 in epoch 24, local loss is 0.0768
+Trainning batch 760/853 in epoch 24, local loss is 0.0414
+Trainning batch 768/853 in epoch 24, local loss is 0.0499
+Trainning batch 776/853 in epoch 24, local loss is 0.0190
+Trainning batch 784/853 in epoch 24, local loss is 0.0599
+Trainning batch 792/853 in epoch 24, local loss is 0.0305
+Trainning batch 800/853 in epoch 24, local loss is 0.0990
+Trainning batch 808/853 in epoch 24, local loss is 0.0645
+Trainning batch 816/853 in epoch 24, local loss is 0.1928
+Trainning batch 824/853 in epoch 24, local loss is 0.1145
+Trainning batch 832/853 in epoch 24, local loss is 0.0356
+Trainning batch 840/853 in epoch 24, local loss is 0.0088
+Trainning batch 848/853 in epoch 24, local loss is 0.0473
+Epoch 24
+Validation Loss:     0.0627 Validation Accuracy: 0.975000
+epoch Summary: 2017-12-05 21:31:15.245832: loss = 0.0143 (0.0 examples/sec; 1108.523 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 25, local loss is 0.0497
+Trainning batch 8/853 in epoch 25, local loss is 0.0201
+Trainning batch 16/853 in epoch 25, local loss is 0.0352
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 24/853 in epoch 25, local loss is 0.0187
+Trainning batch 32/853 in epoch 25, local loss is 0.0278
+Trainning batch 40/853 in epoch 25, local loss is 0.0206
+Trainning batch 48/853 in epoch 25, local loss is 0.0063
+Trainning batch 56/853 in epoch 25, local loss is 0.0024
+Trainning batch 64/853 in epoch 25, local loss is 0.0127
+Trainning batch 72/853 in epoch 25, local loss is 0.0017
+Trainning batch 80/853 in epoch 25, local loss is 0.0045
+Trainning batch 88/853 in epoch 25, local loss is 0.0213
+Trainning batch 96/853 in epoch 25, local loss is 0.0049
+Trainning batch 104/853 in epoch 25, local loss is 0.0068
+Trainning batch 112/853 in epoch 25, local loss is 0.0068
+Trainning batch 120/853 in epoch 25, local loss is 0.0093
+Trainning batch 128/853 in epoch 25, local loss is 0.0879
+Trainning batch 136/853 in epoch 25, local loss is 0.0038
+Trainning batch 144/853 in epoch 25, local loss is 0.0036
+Trainning batch 152/853 in epoch 25, local loss is 0.0048
+Trainning batch 160/853 in epoch 25, local loss is 0.0025
+Trainning batch 168/853 in epoch 25, local loss is 0.0049
+Trainning batch 176/853 in epoch 25, local loss is 0.0060
+Trainning batch 184/853 in epoch 25, local loss is 0.0068
+Trainning batch 192/853 in epoch 25, local loss is 0.0049
+Trainning batch 200/853 in epoch 25, local loss is 0.0427
+Trainning batch 208/853 in epoch 25, local loss is 0.0051
+Trainning batch 216/853 in epoch 25, local loss is 0.0072
+Trainning batch 224/853 in epoch 25, local loss is 0.0046
+Trainning batch 232/853 in epoch 25, local loss is 0.0012
+Trainning batch 240/853 in epoch 25, local loss is 0.0028
+Trainning batch 248/853 in epoch 25, local loss is 0.0135
+Trainning batch 256/853 in epoch 25, local loss is 0.0066
+Trainning batch 264/853 in epoch 25, local loss is 0.0428
+Trainning batch 272/853 in epoch 25, local loss is 0.0031
+Trainning batch 280/853 in epoch 25, local loss is 0.0132
+Trainning batch 288/853 in epoch 25, local loss is 0.0143
+Trainning batch 296/853 in epoch 25, local loss is 0.0157
+Trainning batch 304/853 in epoch 25, local loss is 0.0031
+Trainning batch 312/853 in epoch 25, local loss is 0.0085
+Trainning batch 320/853 in epoch 25, local loss is 0.0089
+Trainning batch 328/853 in epoch 25, local loss is 0.0489
+Trainning batch 336/853 in epoch 25, local loss is 0.0184
+Trainning batch 344/853 in epoch 25, local loss is 0.0029
+Trainning batch 352/853 in epoch 25, local loss is 0.0028
+Trainning batch 360/853 in epoch 25, local loss is 0.0303
+Trainning batch 368/853 in epoch 25, local loss is 0.0588
+Trainning batch 376/853 in epoch 25, local loss is 0.0187
+Trainning batch 384/853 in epoch 25, local loss is 0.0380
+Trainning batch 392/853 in epoch 25, local loss is 0.0042
+Trainning batch 400/853 in epoch 25, local loss is 0.0195
+Trainning batch 408/853 in epoch 25, local loss is 0.0212
+Trainning batch 416/853 in epoch 25, local loss is 0.0100
+Trainning batch 424/853 in epoch 25, local loss is 0.0033
+Trainning batch 432/853 in epoch 25, local loss is 0.0035
+Trainning batch 440/853 in epoch 25, local loss is 0.0032
+Trainning batch 448/853 in epoch 25, local loss is 0.0254
+Trainning batch 456/853 in epoch 25, local loss is 0.0032
+Trainning batch 464/853 in epoch 25, local loss is 0.0022
+Trainning batch 472/853 in epoch 25, local loss is 0.0022
+Trainning batch 480/853 in epoch 25, local loss is 0.0034
+Trainning batch 488/853 in epoch 25, local loss is 0.0013
+Trainning batch 496/853 in epoch 25, local loss is 0.0052
+Trainning batch 504/853 in epoch 25, local loss is 0.0209
+Trainning batch 512/853 in epoch 25, local loss is 0.0100
+Trainning batch 520/853 in epoch 25, local loss is 0.0007
+Trainning batch 528/853 in epoch 25, local loss is 0.0012
+Trainning batch 536/853 in epoch 25, local loss is 0.0009
+Trainning batch 544/853 in epoch 25, local loss is 0.0697
+Trainning batch 552/853 in epoch 25, local loss is 0.0080
+Trainning batch 560/853 in epoch 25, local loss is 0.0173
+Trainning batch 568/853 in epoch 25, local loss is 0.0034
+Trainning batch 576/853 in epoch 25, local loss is 0.0034
+Trainning batch 584/853 in epoch 25, local loss is 0.0026
+Trainning batch 592/853 in epoch 25, local loss is 0.0021
+Trainning batch 600/853 in epoch 25, local loss is 0.0194
+Trainning batch 608/853 in epoch 25, local loss is 0.0051
+Trainning batch 616/853 in epoch 25, local loss is 0.0059
+Trainning batch 624/853 in epoch 25, local loss is 0.0057
+Trainning batch 632/853 in epoch 25, local loss is 0.0024
+Trainning batch 640/853 in epoch 25, local loss is 0.0099
+Trainning batch 648/853 in epoch 25, local loss is 0.0016
+Trainning batch 656/853 in epoch 25, local loss is 0.0031
+Trainning batch 664/853 in epoch 25, local loss is 0.0009
+Trainning batch 672/853 in epoch 25, local loss is 0.0006
+Trainning batch 680/853 in epoch 25, local loss is 0.0012
+Trainning batch 688/853 in epoch 25, local loss is 0.0115
+Trainning batch 696/853 in epoch 25, local loss is 0.0303
+Trainning batch 704/853 in epoch 25, local loss is 0.0210
+Trainning batch 712/853 in epoch 25, local loss is 0.0004
+Trainning batch 720/853 in epoch 25, local loss is 0.0076
+Trainning batch 728/853 in epoch 25, local loss is 0.0066
+Trainning batch 736/853 in epoch 25, local loss is 0.0018
+Trainning batch 744/853 in epoch 25, local loss is 0.0240
+Trainning batch 752/853 in epoch 25, local loss is 0.0046
+Trainning batch 760/853 in epoch 25, local loss is 0.0049
+Trainning batch 768/853 in epoch 25, local loss is 0.0004
+Trainning batch 776/853 in epoch 25, local loss is 0.0030
+Trainning batch 784/853 in epoch 25, local loss is 0.0046
+Trainning batch 792/853 in epoch 25, local loss is 0.0034
+Trainning batch 800/853 in epoch 25, local loss is 0.0236
+Trainning batch 808/853 in epoch 25, local loss is 0.0485
+Trainning batch 816/853 in epoch 25, local loss is 0.0090
+Trainning batch 824/853 in epoch 25, local loss is 0.0012
+Trainning batch 832/853 in epoch 25, local loss is 0.0011
+Trainning batch 840/853 in epoch 25, local loss is 0.0334
+Trainning batch 848/853 in epoch 25, local loss is 0.1227
+Epoch 25
+Validation Loss:     0.1111 Validation Accuracy: 0.975000
+epoch Summary: 2017-12-05 21:49:43.857543: loss = 0.0251 (0.0 examples/sec; 1108.611 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 26, local loss is 0.0507
+Trainning batch 8/853 in epoch 26, local loss is 0.0126
+Trainning batch 16/853 in epoch 26, local loss is 0.0312
+Trainning batch 24/853 in epoch 26, local loss is 0.0164
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 32/853 in epoch 26, local loss is 0.0046
+Trainning batch 40/853 in epoch 26, local loss is 0.2223
+Trainning batch 48/853 in epoch 26, local loss is 0.0141
+Trainning batch 56/853 in epoch 26, local loss is 0.0729
+Trainning batch 64/853 in epoch 26, local loss is 0.0055
+Trainning batch 72/853 in epoch 26, local loss is 0.0028
+Trainning batch 80/853 in epoch 26, local loss is 0.0086
+Trainning batch 88/853 in epoch 26, local loss is 0.0564
+Trainning batch 96/853 in epoch 26, local loss is 0.0042
+Trainning batch 104/853 in epoch 26, local loss is 0.0056
+Trainning batch 112/853 in epoch 26, local loss is 0.0140
+Trainning batch 120/853 in epoch 26, local loss is 0.0010
+Trainning batch 128/853 in epoch 26, local loss is 0.0045
+Trainning batch 136/853 in epoch 26, local loss is 0.0045
+Trainning batch 144/853 in epoch 26, local loss is 0.0873
+Trainning batch 152/853 in epoch 26, local loss is 0.0059
+Trainning batch 160/853 in epoch 26, local loss is 0.0069
+Trainning batch 168/853 in epoch 26, local loss is 0.1666
+Trainning batch 176/853 in epoch 26, local loss is 0.0401
+Trainning batch 184/853 in epoch 26, local loss is 0.0185
+Trainning batch 192/853 in epoch 26, local loss is 0.0097
+Trainning batch 200/853 in epoch 26, local loss is 0.0143
+Trainning batch 208/853 in epoch 26, local loss is 0.0098
+Trainning batch 216/853 in epoch 26, local loss is 0.0063
+Trainning batch 224/853 in epoch 26, local loss is 0.0017
+Trainning batch 232/853 in epoch 26, local loss is 0.0121
+Trainning batch 240/853 in epoch 26, local loss is 0.0102
+Trainning batch 248/853 in epoch 26, local loss is 0.0104
+Trainning batch 256/853 in epoch 26, local loss is 0.0029
+Trainning batch 264/853 in epoch 26, local loss is 0.0077
+Trainning batch 272/853 in epoch 26, local loss is 0.0011
+Trainning batch 280/853 in epoch 26, local loss is 0.0193
+Trainning batch 288/853 in epoch 26, local loss is 0.0162
+Trainning batch 296/853 in epoch 26, local loss is 0.0240
+Trainning batch 304/853 in epoch 26, local loss is 0.0030
+Trainning batch 312/853 in epoch 26, local loss is 0.0028
+Trainning batch 320/853 in epoch 26, local loss is 0.0044
+Trainning batch 328/853 in epoch 26, local loss is 0.0180
+Trainning batch 336/853 in epoch 26, local loss is 0.0073
+Trainning batch 344/853 in epoch 26, local loss is 0.0016
+Trainning batch 352/853 in epoch 26, local loss is 0.0238
+Trainning batch 360/853 in epoch 26, local loss is 0.0095
+Trainning batch 368/853 in epoch 26, local loss is 0.0014
+Trainning batch 376/853 in epoch 26, local loss is 0.0013
+Trainning batch 384/853 in epoch 26, local loss is 0.0022
+Trainning batch 392/853 in epoch 26, local loss is 0.0014
+Trainning batch 400/853 in epoch 26, local loss is 0.0018
+Trainning batch 408/853 in epoch 26, local loss is 0.0013
+Trainning batch 416/853 in epoch 26, local loss is 0.0008
+Trainning batch 424/853 in epoch 26, local loss is 0.0008
+Trainning batch 432/853 in epoch 26, local loss is 0.0034
+Trainning batch 440/853 in epoch 26, local loss is 0.0003
+Trainning batch 448/853 in epoch 26, local loss is 0.0041
+Trainning batch 456/853 in epoch 26, local loss is 0.0005
+Trainning batch 464/853 in epoch 26, local loss is 0.0005
+Trainning batch 472/853 in epoch 26, local loss is 0.0006
+Trainning batch 480/853 in epoch 26, local loss is 0.0033
+Trainning batch 488/853 in epoch 26, local loss is 0.0008
+Trainning batch 496/853 in epoch 26, local loss is 0.0046
+Trainning batch 504/853 in epoch 26, local loss is 0.0019
+Trainning batch 512/853 in epoch 26, local loss is 0.0013
+Trainning batch 520/853 in epoch 26, local loss is 0.0004
+Trainning batch 528/853 in epoch 26, local loss is 0.0011
+Trainning batch 536/853 in epoch 26, local loss is 0.0003
+Trainning batch 544/853 in epoch 26, local loss is 0.0006
+Trainning batch 552/853 in epoch 26, local loss is 0.0006
+Trainning batch 560/853 in epoch 26, local loss is 0.0003
+Trainning batch 568/853 in epoch 26, local loss is 0.0007
+Trainning batch 576/853 in epoch 26, local loss is 0.0006
+Trainning batch 584/853 in epoch 26, local loss is 0.0009
+Trainning batch 592/853 in epoch 26, local loss is 0.0016
+Trainning batch 600/853 in epoch 26, local loss is 0.0003
+Trainning batch 608/853 in epoch 26, local loss is 0.0011
+Trainning batch 616/853 in epoch 26, local loss is 0.0005
+Trainning batch 624/853 in epoch 26, local loss is 0.0005
+Trainning batch 632/853 in epoch 26, local loss is 0.0008
+Trainning batch 640/853 in epoch 26, local loss is 0.0018
+Trainning batch 648/853 in epoch 26, local loss is 0.0043
+Trainning batch 656/853 in epoch 26, local loss is 0.0003
+Trainning batch 664/853 in epoch 26, local loss is 0.0019
+Trainning batch 672/853 in epoch 26, local loss is 0.0002
+Trainning batch 680/853 in epoch 26, local loss is 0.0010
+Trainning batch 688/853 in epoch 26, local loss is 0.0023
+Trainning batch 696/853 in epoch 26, local loss is 0.0002
+Trainning batch 704/853 in epoch 26, local loss is 0.0034
+Trainning batch 712/853 in epoch 26, local loss is 0.0005
+Trainning batch 720/853 in epoch 26, local loss is 0.0005
+Trainning batch 728/853 in epoch 26, local loss is 0.0019
+Trainning batch 736/853 in epoch 26, local loss is 0.0002
+Trainning batch 744/853 in epoch 26, local loss is 0.0003
+Trainning batch 752/853 in epoch 26, local loss is 0.0021
+Trainning batch 760/853 in epoch 26, local loss is 0.0013
+Trainning batch 768/853 in epoch 26, local loss is 0.0001
+Trainning batch 776/853 in epoch 26, local loss is 0.0006
+Trainning batch 784/853 in epoch 26, local loss is 0.0005
+Trainning batch 792/853 in epoch 26, local loss is 0.0010
+Trainning batch 800/853 in epoch 26, local loss is 0.0009
+Trainning batch 808/853 in epoch 26, local loss is 0.0005
+Trainning batch 816/853 in epoch 26, local loss is 0.0031
+Trainning batch 824/853 in epoch 26, local loss is 0.0003
+Trainning batch 832/853 in epoch 26, local loss is 0.0004
+Trainning batch 840/853 in epoch 26, local loss is 0.0004
+Trainning batch 848/853 in epoch 26, local loss is 0.0002
+Epoch 26
+Validation Loss:     0.0021 Validation Accuracy: 1.000000
+epoch Summary: 2017-12-05 22:08:12.624687: loss = 0.0006 (0.0 examples/sec; 1108.767 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 27, local loss is 0.0002
+Trainning batch 8/853 in epoch 27, local loss is 0.0004
+Trainning batch 16/853 in epoch 27, local loss is 0.0002
+Trainning batch 24/853 in epoch 27, local loss is 0.0007
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 32/853 in epoch 27, local loss is 0.0005
+Trainning batch 40/853 in epoch 27, local loss is 0.0003
+Trainning batch 48/853 in epoch 27, local loss is 0.0002
+Trainning batch 56/853 in epoch 27, local loss is 0.0003
+Trainning batch 64/853 in epoch 27, local loss is 0.0004
+Trainning batch 72/853 in epoch 27, local loss is 0.0006
+Trainning batch 80/853 in epoch 27, local loss is 0.0003
+Trainning batch 88/853 in epoch 27, local loss is 0.0017
+Trainning batch 96/853 in epoch 27, local loss is 0.0034
+Trainning batch 104/853 in epoch 27, local loss is 0.0015
+Trainning batch 112/853 in epoch 27, local loss is 0.0076
+Trainning batch 120/853 in epoch 27, local loss is 0.1064
+Trainning batch 128/853 in epoch 27, local loss is 0.0156
+Trainning batch 136/853 in epoch 27, local loss is 0.0038
+Trainning batch 144/853 in epoch 27, local loss is 0.0262
+Trainning batch 152/853 in epoch 27, local loss is 0.0067
+Trainning batch 160/853 in epoch 27, local loss is 0.0107
+Trainning batch 168/853 in epoch 27, local loss is 0.0230
+Trainning batch 176/853 in epoch 27, local loss is 0.0177
+Trainning batch 184/853 in epoch 27, local loss is 0.0388
+Trainning batch 192/853 in epoch 27, local loss is 0.0323
+Trainning batch 200/853 in epoch 27, local loss is 0.0256
+Trainning batch 208/853 in epoch 27, local loss is 0.0025
+Trainning batch 216/853 in epoch 27, local loss is 0.0065
+Trainning batch 224/853 in epoch 27, local loss is 0.0052
+Trainning batch 232/853 in epoch 27, local loss is 0.0061
+Trainning batch 240/853 in epoch 27, local loss is 0.0056
+Trainning batch 248/853 in epoch 27, local loss is 0.0109
+Trainning batch 256/853 in epoch 27, local loss is 0.0040
+Trainning batch 264/853 in epoch 27, local loss is 0.0153
+Trainning batch 272/853 in epoch 27, local loss is 0.0015
+Trainning batch 280/853 in epoch 27, local loss is 0.0460
+Trainning batch 288/853 in epoch 27, local loss is 0.0924
+Trainning batch 296/853 in epoch 27, local loss is 0.0148
+Trainning batch 304/853 in epoch 27, local loss is 0.0048
+Trainning batch 312/853 in epoch 27, local loss is 0.0593
+Trainning batch 320/853 in epoch 27, local loss is 0.1267
+Trainning batch 328/853 in epoch 27, local loss is 0.1977
+Trainning batch 336/853 in epoch 27, local loss is 0.0590
+Trainning batch 344/853 in epoch 27, local loss is 0.0067
+Trainning batch 352/853 in epoch 27, local loss is 0.0124
+Trainning batch 360/853 in epoch 27, local loss is 0.0410
+Trainning batch 368/853 in epoch 27, local loss is 0.0981
+Trainning batch 376/853 in epoch 27, local loss is 0.0688
+Trainning batch 384/853 in epoch 27, local loss is 0.0049
+Trainning batch 392/853 in epoch 27, local loss is 0.0802
+Trainning batch 400/853 in epoch 27, local loss is 0.0134
+Trainning batch 408/853 in epoch 27, local loss is 0.0173
+Trainning batch 416/853 in epoch 27, local loss is 0.0336
+Trainning batch 424/853 in epoch 27, local loss is 0.0495
+Trainning batch 432/853 in epoch 27, local loss is 0.0220
+Trainning batch 440/853 in epoch 27, local loss is 0.0082
+Trainning batch 448/853 in epoch 27, local loss is 0.0157
+Trainning batch 456/853 in epoch 27, local loss is 0.0167
+Trainning batch 464/853 in epoch 27, local loss is 0.0121
+Trainning batch 472/853 in epoch 27, local loss is 0.0448
+Trainning batch 480/853 in epoch 27, local loss is 0.0577
+Trainning batch 488/853 in epoch 27, local loss is 0.0199
+Trainning batch 496/853 in epoch 27, local loss is 0.0343
+Trainning batch 504/853 in epoch 27, local loss is 0.0137
+Trainning batch 512/853 in epoch 27, local loss is 0.0069
+Trainning batch 520/853 in epoch 27, local loss is 0.0034
+Trainning batch 528/853 in epoch 27, local loss is 0.0043
+Trainning batch 536/853 in epoch 27, local loss is 0.0004
+Trainning batch 544/853 in epoch 27, local loss is 0.0055
+Trainning batch 552/853 in epoch 27, local loss is 0.0025
+Trainning batch 560/853 in epoch 27, local loss is 0.0011
+Trainning batch 568/853 in epoch 27, local loss is 0.0015
+Trainning batch 576/853 in epoch 27, local loss is 0.0023
+Trainning batch 584/853 in epoch 27, local loss is 0.0008
+Trainning batch 592/853 in epoch 27, local loss is 0.0026
+Trainning batch 600/853 in epoch 27, local loss is 0.0009
+Trainning batch 608/853 in epoch 27, local loss is 0.0024
+Trainning batch 616/853 in epoch 27, local loss is 0.0018
+Trainning batch 624/853 in epoch 27, local loss is 0.0027
+Trainning batch 632/853 in epoch 27, local loss is 0.0042
+Trainning batch 640/853 in epoch 27, local loss is 0.0008
+Trainning batch 648/853 in epoch 27, local loss is 0.0500
+Trainning batch 656/853 in epoch 27, local loss is 0.0160
+Trainning batch 664/853 in epoch 27, local loss is 0.0034
+Trainning batch 672/853 in epoch 27, local loss is 0.0040
+Trainning batch 680/853 in epoch 27, local loss is 0.0090
+Trainning batch 688/853 in epoch 27, local loss is 0.0048
+Trainning batch 696/853 in epoch 27, local loss is 0.0013
+Trainning batch 704/853 in epoch 27, local loss is 0.0005
+Trainning batch 712/853 in epoch 27, local loss is 0.0062
+Trainning batch 720/853 in epoch 27, local loss is 0.0015
+Trainning batch 728/853 in epoch 27, local loss is 0.0056
+Trainning batch 736/853 in epoch 27, local loss is 0.0018
+Trainning batch 744/853 in epoch 27, local loss is 0.0024
+Trainning batch 752/853 in epoch 27, local loss is 0.0014
+Trainning batch 760/853 in epoch 27, local loss is 0.0042
+Trainning batch 768/853 in epoch 27, local loss is 0.0003
+Trainning batch 776/853 in epoch 27, local loss is 0.0007
+Trainning batch 784/853 in epoch 27, local loss is 0.0006
+Trainning batch 792/853 in epoch 27, local loss is 0.0015
+Trainning batch 800/853 in epoch 27, local loss is 0.0021
+Trainning batch 808/853 in epoch 27, local loss is 0.0012
+Trainning batch 816/853 in epoch 27, local loss is 0.0517
+Trainning batch 824/853 in epoch 27, local loss is 0.0009
+Trainning batch 832/853 in epoch 27, local loss is 0.0011
+Trainning batch 840/853 in epoch 27, local loss is 0.0026
+Trainning batch 848/853 in epoch 27, local loss is 0.0009
+Epoch 27
+Validation Loss:     0.0019 Validation Accuracy: 1.000000
+epoch Summary: 2017-12-05 22:26:41.783125: loss = 0.0024 (0.0 examples/sec; 1109.158 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 28, local loss is 0.0010
+Trainning batch 8/853 in epoch 28, local loss is 0.0048
+Trainning batch 16/853 in epoch 28, local loss is 0.0030
+Trainning batch 24/853 in epoch 28, local loss is 0.0167
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 32/853 in epoch 28, local loss is 0.0010
+Trainning batch 40/853 in epoch 28, local loss is 0.0014
+Trainning batch 48/853 in epoch 28, local loss is 0.0004
+Trainning batch 56/853 in epoch 28, local loss is 0.0369
+Trainning batch 64/853 in epoch 28, local loss is 0.0043
+Trainning batch 72/853 in epoch 28, local loss is 0.0022
+Trainning batch 80/853 in epoch 28, local loss is 0.0006
+Trainning batch 88/853 in epoch 28, local loss is 0.0036
+Trainning batch 96/853 in epoch 28, local loss is 0.0103
+Trainning batch 104/853 in epoch 28, local loss is 0.0032
+Trainning batch 112/853 in epoch 28, local loss is 0.0013
+Trainning batch 120/853 in epoch 28, local loss is 0.0029
+Trainning batch 128/853 in epoch 28, local loss is 0.0009
+Trainning batch 136/853 in epoch 28, local loss is 0.0015
+Trainning batch 144/853 in epoch 28, local loss is 0.0006
+Trainning batch 152/853 in epoch 28, local loss is 0.0004
+Trainning batch 160/853 in epoch 28, local loss is 0.0028
+Trainning batch 168/853 in epoch 28, local loss is 0.0032
+Trainning batch 176/853 in epoch 28, local loss is 0.0003
+Trainning batch 184/853 in epoch 28, local loss is 0.0003
+Trainning batch 192/853 in epoch 28, local loss is 0.0011
+Trainning batch 200/853 in epoch 28, local loss is 0.0006
+Trainning batch 208/853 in epoch 28, local loss is 0.0007
+Trainning batch 216/853 in epoch 28, local loss is 0.0006
+Trainning batch 224/853 in epoch 28, local loss is 0.0015
+Trainning batch 232/853 in epoch 28, local loss is 0.0002
+Trainning batch 240/853 in epoch 28, local loss is 0.0003
+Trainning batch 248/853 in epoch 28, local loss is 0.0057
+Trainning batch 256/853 in epoch 28, local loss is 0.0003
+Trainning batch 264/853 in epoch 28, local loss is 0.0003
+Trainning batch 272/853 in epoch 28, local loss is 0.0001
+Trainning batch 280/853 in epoch 28, local loss is 0.0012
+Trainning batch 288/853 in epoch 28, local loss is 0.0009
+Trainning batch 296/853 in epoch 28, local loss is 0.0019
+Trainning batch 304/853 in epoch 28, local loss is 0.0002
+Trainning batch 312/853 in epoch 28, local loss is 0.0029
+Trainning batch 320/853 in epoch 28, local loss is 0.0010
+Trainning batch 328/853 in epoch 28, local loss is 0.0004
+Trainning batch 336/853 in epoch 28, local loss is 0.0028
+Trainning batch 344/853 in epoch 28, local loss is 0.0004
+Trainning batch 352/853 in epoch 28, local loss is 0.0001
+Trainning batch 360/853 in epoch 28, local loss is 0.0043
+Trainning batch 368/853 in epoch 28, local loss is 0.0003
+Trainning batch 376/853 in epoch 28, local loss is 0.0008
+Trainning batch 384/853 in epoch 28, local loss is 0.0049
+Trainning batch 392/853 in epoch 28, local loss is 0.0079
+Trainning batch 400/853 in epoch 28, local loss is 0.0003
+Trainning batch 408/853 in epoch 28, local loss is 0.0005
+Trainning batch 416/853 in epoch 28, local loss is 0.0003
+Trainning batch 424/853 in epoch 28, local loss is 0.0036
+Trainning batch 432/853 in epoch 28, local loss is 0.0352
+Trainning batch 440/853 in epoch 28, local loss is 0.0011
+Trainning batch 448/853 in epoch 28, local loss is 0.0024
+Trainning batch 456/853 in epoch 28, local loss is 0.0669
+Trainning batch 464/853 in epoch 28, local loss is 0.0015
+Trainning batch 472/853 in epoch 28, local loss is 0.0017
+Trainning batch 480/853 in epoch 28, local loss is 0.0023
+Trainning batch 488/853 in epoch 28, local loss is 0.0004
+Trainning batch 496/853 in epoch 28, local loss is 0.0010
+Trainning batch 504/853 in epoch 28, local loss is 0.0023
+Trainning batch 512/853 in epoch 28, local loss is 0.0009
+Trainning batch 520/853 in epoch 28, local loss is 0.0155
+Trainning batch 528/853 in epoch 28, local loss is 0.0273
+Trainning batch 536/853 in epoch 28, local loss is 0.0042
+Trainning batch 544/853 in epoch 28, local loss is 0.0009
+Trainning batch 552/853 in epoch 28, local loss is 0.0029
+Trainning batch 560/853 in epoch 28, local loss is 0.0095
+Trainning batch 568/853 in epoch 28, local loss is 0.0043
+Trainning batch 576/853 in epoch 28, local loss is 0.0055
+Trainning batch 584/853 in epoch 28, local loss is 0.0293
+Trainning batch 592/853 in epoch 28, local loss is 0.0091
+Trainning batch 600/853 in epoch 28, local loss is 0.0025
+Trainning batch 608/853 in epoch 28, local loss is 0.0648
+Trainning batch 616/853 in epoch 28, local loss is 0.0070
+Trainning batch 624/853 in epoch 28, local loss is 0.0029
+Trainning batch 632/853 in epoch 28, local loss is 0.0016
+Trainning batch 640/853 in epoch 28, local loss is 0.0121
+Trainning batch 648/853 in epoch 28, local loss is 0.0325
+Trainning batch 656/853 in epoch 28, local loss is 0.0501
+Trainning batch 664/853 in epoch 28, local loss is 0.0149
+Trainning batch 672/853 in epoch 28, local loss is 0.0249
+Trainning batch 680/853 in epoch 28, local loss is 0.0490
+Trainning batch 688/853 in epoch 28, local loss is 0.1052
+Trainning batch 696/853 in epoch 28, local loss is 0.0080
+Trainning batch 704/853 in epoch 28, local loss is 0.0242
+Trainning batch 712/853 in epoch 28, local loss is 0.0278
+Trainning batch 720/853 in epoch 28, local loss is 0.0160
+Trainning batch 728/853 in epoch 28, local loss is 0.0593
+Trainning batch 736/853 in epoch 28, local loss is 0.0872
+Trainning batch 744/853 in epoch 28, local loss is 0.0839
+Trainning batch 752/853 in epoch 28, local loss is 0.0233
+Trainning batch 760/853 in epoch 28, local loss is 0.0892
+Trainning batch 768/853 in epoch 28, local loss is 0.0663
+Trainning batch 776/853 in epoch 28, local loss is 0.0947
+Trainning batch 784/853 in epoch 28, local loss is 0.0708
+Trainning batch 792/853 in epoch 28, local loss is 0.0229
+Trainning batch 800/853 in epoch 28, local loss is 0.0156
+Trainning batch 808/853 in epoch 28, local loss is 0.0241
+Trainning batch 816/853 in epoch 28, local loss is 0.0487
+Trainning batch 824/853 in epoch 28, local loss is 0.0040
+Trainning batch 832/853 in epoch 28, local loss is 0.0563
+Trainning batch 840/853 in epoch 28, local loss is 0.0510
+Trainning batch 848/853 in epoch 28, local loss is 0.0687
+Epoch 28
+Validation Loss:     0.0079 Validation Accuracy: 1.000000
+epoch Summary: 2017-12-05 22:45:10.390282: loss = 0.0273 (0.0 examples/sec; 1108.607 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 29, local loss is 0.0820
+Trainning batch 8/853 in epoch 29, local loss is 0.0093
+Trainning batch 16/853 in epoch 29, local loss is 0.0130
+Trainning batch 24/853 in epoch 29, local loss is 0.0016
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 32/853 in epoch 29, local loss is 0.0021
+Trainning batch 40/853 in epoch 29, local loss is 0.0013
+Trainning batch 48/853 in epoch 29, local loss is 0.0039
+Trainning batch 56/853 in epoch 29, local loss is 0.0229
+Trainning batch 64/853 in epoch 29, local loss is 0.0022
+Trainning batch 72/853 in epoch 29, local loss is 0.0013
+Trainning batch 80/853 in epoch 29, local loss is 0.0181
+Trainning batch 88/853 in epoch 29, local loss is 0.0059
+Trainning batch 96/853 in epoch 29, local loss is 0.0047
+Trainning batch 104/853 in epoch 29, local loss is 0.0024
+Trainning batch 112/853 in epoch 29, local loss is 0.0041
+Trainning batch 120/853 in epoch 29, local loss is 0.0009
+Trainning batch 128/853 in epoch 29, local loss is 0.0009
+Trainning batch 136/853 in epoch 29, local loss is 0.0019
+Trainning batch 144/853 in epoch 29, local loss is 0.0011
+Trainning batch 152/853 in epoch 29, local loss is 0.0004
+Trainning batch 160/853 in epoch 29, local loss is 0.0014
+Trainning batch 168/853 in epoch 29, local loss is 0.0352
+Trainning batch 176/853 in epoch 29, local loss is 0.0015
+Trainning batch 184/853 in epoch 29, local loss is 0.0013
+Trainning batch 192/853 in epoch 29, local loss is 0.0137
+Trainning batch 200/853 in epoch 29, local loss is 0.0036
+Trainning batch 208/853 in epoch 29, local loss is 0.0005
+Trainning batch 216/853 in epoch 29, local loss is 0.0037
+Trainning batch 224/853 in epoch 29, local loss is 0.0014
+Trainning batch 232/853 in epoch 29, local loss is 0.0010
+Trainning batch 240/853 in epoch 29, local loss is 0.0012
+Trainning batch 248/853 in epoch 29, local loss is 0.0138
+Trainning batch 256/853 in epoch 29, local loss is 0.0005
+Trainning batch 264/853 in epoch 29, local loss is 0.0049
+Trainning batch 272/853 in epoch 29, local loss is 0.0012
+Trainning batch 280/853 in epoch 29, local loss is 0.0007
+Trainning batch 288/853 in epoch 29, local loss is 0.0013
+Trainning batch 296/853 in epoch 29, local loss is 0.0021
+Trainning batch 304/853 in epoch 29, local loss is 0.0005
+Trainning batch 312/853 in epoch 29, local loss is 0.0014
+Trainning batch 320/853 in epoch 29, local loss is 0.0011
+Trainning batch 328/853 in epoch 29, local loss is 0.0042
+Trainning batch 336/853 in epoch 29, local loss is 0.0033
+Trainning batch 344/853 in epoch 29, local loss is 0.0024
+Trainning batch 352/853 in epoch 29, local loss is 0.0008
+Trainning batch 360/853 in epoch 29, local loss is 0.0025
+Trainning batch 368/853 in epoch 29, local loss is 0.0086
+Trainning batch 376/853 in epoch 29, local loss is 0.0022
+Trainning batch 384/853 in epoch 29, local loss is 0.0896
+Trainning batch 392/853 in epoch 29, local loss is 0.0009
+Trainning batch 400/853 in epoch 29, local loss is 0.0226
+Trainning batch 408/853 in epoch 29, local loss is 0.0107
+Trainning batch 416/853 in epoch 29, local loss is 0.0014
+Trainning batch 424/853 in epoch 29, local loss is 0.0035
+Trainning batch 432/853 in epoch 29, local loss is 0.0062
+Trainning batch 440/853 in epoch 29, local loss is 0.0067
+Trainning batch 448/853 in epoch 29, local loss is 0.0033
+Trainning batch 456/853 in epoch 29, local loss is 0.0054
+Trainning batch 464/853 in epoch 29, local loss is 0.0008
+Trainning batch 472/853 in epoch 29, local loss is 0.0014
+Trainning batch 480/853 in epoch 29, local loss is 0.0114
+Trainning batch 488/853 in epoch 29, local loss is 0.0019
+Trainning batch 496/853 in epoch 29, local loss is 0.0017
+Trainning batch 504/853 in epoch 29, local loss is 0.0011
+Trainning batch 512/853 in epoch 29, local loss is 0.0056
+Trainning batch 520/853 in epoch 29, local loss is 0.0010
+Trainning batch 528/853 in epoch 29, local loss is 0.0007
+Trainning batch 536/853 in epoch 29, local loss is 0.0003
+Trainning batch 544/853 in epoch 29, local loss is 0.0017
+Trainning batch 552/853 in epoch 29, local loss is 0.0011
+Trainning batch 560/853 in epoch 29, local loss is 0.0004
+Trainning batch 568/853 in epoch 29, local loss is 0.0030
+Trainning batch 576/853 in epoch 29, local loss is 0.0008
+Trainning batch 584/853 in epoch 29, local loss is 0.0006
+Trainning batch 592/853 in epoch 29, local loss is 0.0019
+Trainning batch 600/853 in epoch 29, local loss is 0.0002
+Trainning batch 608/853 in epoch 29, local loss is 0.0004
+Trainning batch 616/853 in epoch 29, local loss is 0.0003
+Trainning batch 624/853 in epoch 29, local loss is 0.0002
+Trainning batch 632/853 in epoch 29, local loss is 0.0015
+Trainning batch 640/853 in epoch 29, local loss is 0.0002
+Trainning batch 648/853 in epoch 29, local loss is 0.0146
+Trainning batch 656/853 in epoch 29, local loss is 0.0004
+Trainning batch 664/853 in epoch 29, local loss is 0.0003
+Trainning batch 672/853 in epoch 29, local loss is 0.0006
+Trainning batch 680/853 in epoch 29, local loss is 0.0003
+Trainning batch 688/853 in epoch 29, local loss is 0.0008
+Trainning batch 696/853 in epoch 29, local loss is 0.0002
+Trainning batch 704/853 in epoch 29, local loss is 0.0010
+Trainning batch 712/853 in epoch 29, local loss is 0.0003
+Trainning batch 720/853 in epoch 29, local loss is 0.0004
+Trainning batch 728/853 in epoch 29, local loss is 0.0005
+Trainning batch 736/853 in epoch 29, local loss is 0.0003
+Trainning batch 744/853 in epoch 29, local loss is 0.0004
+Trainning batch 752/853 in epoch 29, local loss is 0.0004
+Trainning batch 760/853 in epoch 29, local loss is 0.0046
+Trainning batch 768/853 in epoch 29, local loss is 0.0002
+Trainning batch 776/853 in epoch 29, local loss is 0.0004
+Trainning batch 784/853 in epoch 29, local loss is 0.0007
+Trainning batch 792/853 in epoch 29, local loss is 0.0006
+Trainning batch 800/853 in epoch 29, local loss is 0.0012
+Trainning batch 808/853 in epoch 29, local loss is 0.0017
+Trainning batch 816/853 in epoch 29, local loss is 0.0022
+Trainning batch 824/853 in epoch 29, local loss is 0.0012
+Trainning batch 832/853 in epoch 29, local loss is 0.0016
+Trainning batch 840/853 in epoch 29, local loss is 0.0002
+Trainning batch 848/853 in epoch 29, local loss is 0.0008
+Epoch 29
+Validation Loss:     0.0016 Validation Accuracy: 1.000000
+epoch Summary: 2017-12-05 23:03:39.722006: loss = 0.0020 (0.0 examples/sec; 1109.332 sec/batch)
+----------------------------
+Trainning batch 0/853 in epoch 30, local loss is 0.0003
+Trainning batch 8/853 in epoch 30, local loss is 0.0019
+Trainning batch 16/853 in epoch 30, local loss is 0.0012
+Trainning batch 24/853 in epoch 30, local loss is 0.0029
+
+[[0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]]
+Trainning batch 32/853 in epoch 30, local loss is 0.0005
+Trainning batch 40/853 in epoch 30, local loss is 0.0003
+Trainning batch 48/853 in epoch 30, local loss is 0.0001
+Trainning batch 56/853 in epoch 30, local loss is 0.0001
+Trainning batch 64/853 in epoch 30, local loss is 0.0042
+Trainning batch 72/853 in epoch 30, local loss is 0.0013
+Trainning batch 80/853 in epoch 30, local loss is 0.0003
+Trainning batch 88/853 in epoch 30, local loss is 0.0083
+Trainning batch 96/853 in epoch 30, local loss is 0.0006
+Trainning batch 104/853 in epoch 30, local loss is 0.0002
+Trainning batch 112/853 in epoch 30, local loss is 0.0008
+Trainning batch 120/853 in epoch 30, local loss is 0.0002
+Trainning batch 128/853 in epoch 30, local loss is 0.0012
+Trainning batch 136/853 in epoch 30, local loss is 0.0006
+Trainning batch 144/853 in epoch 30, local loss is 0.0004
+Trainning batch 152/853 in epoch 30, local loss is 0.0002
+Trainning batch 160/853 in epoch 30, local loss is 0.0002
+Trainning batch 168/853 in epoch 30, local loss is 0.0012
+Trainning batch 176/853 in epoch 30, local loss is 0.0003
+Trainning batch 184/853 in epoch 30, local loss is 0.0005
+Trainning batch 192/853 in epoch 30, local loss is 0.0013
+Trainning batch 200/853 in epoch 30, local loss is 0.0035
+Trainning batch 208/853 in epoch 30, local loss is 0.0002
+Trainning batch 216/853 in epoch 30, local loss is 0.0004
+Trainning batch 224/853 in epoch 30, local loss is 0.0004
+Trainning batch 232/853 in epoch 30, local loss is 0.0004
+Trainning batch 240/853 in epoch 30, local loss is 0.0003
+Trainning batch 248/853 in epoch 30, local loss is 0.0004
+Trainning batch 256/853 in epoch 30, local loss is 0.0001
+Trainning batch 264/853 in epoch 30, local loss is 0.0003
+Trainning batch 272/853 in epoch 30, local loss is 0.0005
+Trainning batch 280/853 in epoch 30, local loss is 0.0005
+Trainning batch 288/853 in epoch 30, local loss is 0.0206
+Trainning batch 296/853 in epoch 30, local loss is 0.0101
+Trainning batch 304/853 in epoch 30, local loss is 0.0001
+Trainning batch 312/853 in epoch 30, local loss is 0.0018
+Trainning batch 320/853 in epoch 30, local loss is 0.0006
+Trainning batch 328/853 in epoch 30, local loss is 0.0072
+Trainning batch 336/853 in epoch 30, local loss is 0.0010
+Trainning batch 344/853 in epoch 30, local loss is 0.0003
+Trainning batch 352/853 in epoch 30, local loss is 0.0002
+Trainning batch 360/853 in epoch 30, local loss is 0.0006
+Trainning batch 368/853 in epoch 30, local loss is 0.0003
+Trainning batch 376/853 in epoch 30, local loss is 0.0004
+Trainning batch 384/853 in epoch 30, local loss is 0.0015
+Trainning batch 392/853 in epoch 30, local loss is 0.0003
+Trainning batch 400/853 in epoch 30, local loss is 0.0001
+Trainning batch 408/853 in epoch 30, local loss is 0.0001
+Trainning batch 416/853 in epoch 30, local loss is 0.0003
+Trainning batch 424/853 in epoch 30, local loss is 0.0008
+Trainning batch 432/853 in epoch 30, local loss is 0.0002
+Trainning batch 440/853 in epoch 30, local loss is 0.0004
+Trainning batch 448/853 in epoch 30, local loss is 0.0003
+Trainning batch 456/853 in epoch 30, local loss is 0.0001
+Trainning batch 464/853 in epoch 30, local loss is 0.0001
+Trainning batch 472/853 in epoch 30, local loss is 0.0003
+Trainning batch 480/853 in epoch 30, local loss is 0.0006
+Trainning batch 488/853 in epoch 30, local loss is 0.0003
+Trainning batch 496/853 in epoch 30, local loss is 0.0003
+Trainning batch 504/853 in epoch 30, local loss is 0.0005
+Trainning batch 512/853 in epoch 30, local loss is 0.0002
+Trainning batch 520/853 in epoch 30, local loss is 0.0002
+Trainning batch 528/853 in epoch 30, local loss is 0.0002
+Trainning batch 536/853 in epoch 30, local loss is 0.0001
+Trainning batch 544/853 in epoch 30, local loss is 0.0002
+Trainning batch 552/853 in epoch 30, local loss is 0.0007
+Trainning batch 560/853 in epoch 30, local loss is 0.0003
+Trainning batch 568/853 in epoch 30, local loss is 0.0009
+Trainning batch 576/853 in epoch 30, local loss is 0.0004
+Trainning batch 584/853 in epoch 30, local loss is 0.0007
+Trainning batch 592/853 in epoch 30, local loss is 0.0005
+Trainning batch 600/853 in epoch 30, local loss is 0.0001
+Trainning batch 608/853 in epoch 30, local loss is 0.0002
+Trainning batch 616/853 in epoch 30, local loss is 0.0001
+Trainning batch 624/853 in epoch 30, local loss is 0.0001
+Trainning batch 632/853 in epoch 30, local loss is 0.0008
+Trainning batch 640/853 in epoch 30, local loss is 0.0002
+Trainning batch 648/853 in epoch 30, local loss is 0.0032
+Trainning batch 656/853 in epoch 30, local loss is 0.0001
+Trainning batch 664/853 in epoch 30, local loss is 0.0000
+Trainning batch 672/853 in epoch 30, local loss is 0.0002
+Trainning batch 680/853 in epoch 30, local loss is 0.0001
+Trainning batch 688/853 in epoch 30, local loss is 0.0004
+Trainning batch 696/853 in epoch 30, local loss is 0.0001
+Trainning batch 704/853 in epoch 30, local loss is 0.0002
+Trainning batch 712/853 in epoch 30, local loss is 0.0002
+Trainning batch 720/853 in epoch 30, local loss is 0.0002
+Trainning batch 728/853 in epoch 30, local loss is 0.0009
+Trainning batch 736/853 in epoch 30, local loss is 0.0001
+Trainning batch 744/853 in epoch 30, local loss is 0.0003
+Trainning batch 752/853 in epoch 30, local loss is 0.0005
+Trainning batch 760/853 in epoch 30, local loss is 0.0002
+Trainning batch 768/853 in epoch 30, local loss is 0.0001
+Trainning batch 776/853 in epoch 30, local loss is 0.0001
+Trainning batch 784/853 in epoch 30, local loss is 0.0002
+Trainning batch 792/853 in epoch 30, local loss is 0.0002
+Trainning batch 800/853 in epoch 30, local loss is 0.0003
+Trainning batch 808/853 in epoch 30, local loss is 0.0003
+Trainning batch 816/853 in epoch 30, local loss is 0.0004
+Trainning batch 824/853 in epoch 30, local loss is 0.0002
+Trainning batch 832/853 in epoch 30, local loss is 0.0002
+Trainning batch 840/853 in epoch 30, local loss is 0.0002
+Trainning batch 848/853 in epoch 30, local loss is 0.0001
+Epoch 30
+Validation Loss:     0.0017 Validation Accuracy: 1.000000
+epoch Summary: 2017-12-05 23:22:08.491763: loss = 0.0008 (0.0 examples/sec; 1108.770 sec/batch)
+----------------------------
+<matplotlib.figure.Figure at 0x1eef0cb73c8>

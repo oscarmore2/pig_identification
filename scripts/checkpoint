@@ -1,0 +1,2 @@
+model_checkpoint_path: "Pigs_identity_Tran_small3"
+all_model_checkpoint_paths: "Pigs_identity_Tran_small3"
